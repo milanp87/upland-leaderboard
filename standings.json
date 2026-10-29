@@ -1,5 +1,5 @@
 {
-  "last_sync": "11:31:20 UTC",
+  "last_sync": "11:32:23 UTC",
   "current_day": 7,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "pastante",
-      "sends": 20,
-      "paid": 500.0,
+      "sends": 19,
+      "paid": 475.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -66,7 +66,7 @@
     },
     {
       "rank": 7,
-      "is_tie": false,
+      "is_tie": true,
       "user": "lasvegas2015",
       "sends": 4,
       "paid": 100.0,
@@ -74,7 +74,16 @@
       "seeds": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
+      "is_tie": true,
+      "user": "ciberus",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 9,
       "is_tie": true,
       "user": "yorickpinto",
       "sends": 3,
@@ -83,18 +92,9 @@
       "seeds": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "is_tie": true,
       "user": "onlfne",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 8,
-      "is_tie": true,
-      "user": "justnft3",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,
@@ -131,23 +131,23 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "13731 45TH AVE",
       "city": "Queens"
+    },
+    {
+      "address": "6225 RESEDA BLVD",
+      "city": "Los Angeles"
     },
     {
       "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "17425 SAN JOSE ST",
+      "address": "11336 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11336 LOUISE AVE",
+      "address": "17425 SAN JOSE ST",
       "city": "Los Angeles"
     },
     {

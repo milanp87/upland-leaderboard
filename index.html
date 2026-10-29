@@ -182,10 +182,31 @@ setInterval(() => {
 async function pollStandings() {
   const badge = document.getElementById("statusBadge");
   badge.classList.add("pulse");
+  
+  // Direct zero-latency fetch from GitHub API (bypasses GitHub Pages build delay completely)
+  const apiURL = "https://api.github.com/repos/milanp87/upland-leaderboard/contents/standings.json?ref=main&t=" + Date.now();
+  const fallbackURL = "standings.json?t=" + Date.now();
+
   try {
-    const res = await fetch("standings.json?t=" + Date.now());
+    let payload = null;
+    const res = await fetch(apiURL, { cache: "no-store" });
     if (res.ok) {
-      lastData = await res.json();
+      const jsonMeta = await res.json();
+      if (jsonMeta.content) {
+        // Base64 decode UTF-8 safely
+        const decodedStr = decodeURIComponent(escape(atob(jsonMeta.content.replace(/\s/g, ''))));
+        payload = JSON.parse(decodedStr);
+      }
+    }
+    
+    // Fallback if GitHub API rate-limited
+    if (!payload) {
+      const fbRes = await fetch(fallbackURL, { cache: "no-store" });
+      if (fbRes.ok) payload = await fbRes.json();
+    }
+
+    if (payload) {
+      lastData = payload;
       renderUI(lastData);
     }
   } catch (err) {
@@ -238,7 +259,6 @@ function renderUI(data) {
     tbody.appendChild(tr);
   });
 
-  // Only address and city, with a clean copy prompt
   const hubsBox = document.getElementById("hubsList");
   hubsBox.innerHTML = "";
   (data.popular_props || []).forEach(p => {

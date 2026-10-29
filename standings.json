@@ -1,10 +1,6 @@
 {
-  "last_sync": "06:50:42 UTC",
-  "totals": {
-    "visits": 176,
-    "revenue": 4360.0,
-    "unique": 62
-  },
+  "last_sync": "06:55:10 UTC",
+  "bubble": 3,
   "standings": [
     {
       "rank": 1,
@@ -97,54 +93,126 @@
       "seeds": ""
     }
   ],
-  "top_props": [
+  "popular_props": [
     {
-      "property_id": 77347984034331,
       "address": "15739 PLUMMER ST",
       "city": "Los Angeles",
-      "visits": 38,
-      "earnings": "950.00",
-      "last_visit": "2026-10-29 06:24:54+00"
+      "tag": "18 Structures (Mega Hub)",
+      "fee": 25
     },
     {
-      "property_id": 77209823672891,
       "address": "1665 STAUNTON AVE",
       "city": "Los Angeles",
-      "visits": 27,
-      "earnings": "675.00",
-      "last_visit": "2026-10-29 06:04:55.5+00"
+      "tag": "11 Structures + Plants",
+      "fee": 25
     },
     {
-      "property_id": 77223597767081,
       "address": "560 WALL ST",
       "city": "Los Angeles",
-      "visits": 26,
-      "earnings": "650.00",
-      "last_visit": "2026-10-29 06:05:58.5+00"
+      "tag": "5 Structures + Plants",
+      "fee": 25
     },
     {
-      "property_id": 77213061675672,
       "address": "930 S ALAMEDA ST",
       "city": "Los Angeles",
-      "visits": 17,
-      "earnings": "425.00",
-      "last_visit": "2026-10-29 06:07:44+00"
+      "tag": "3 Structures + Plants",
+      "fee": 25
     },
     {
-      "property_id": 77365935653894,
       "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles",
-      "visits": 14,
-      "earnings": "350.00",
-      "last_visit": "2026-10-29 06:09:16.5+00"
+      "tag": "5 Structures + Plants",
+      "fee": 25
     },
     {
-      "property_id": 77377595819746,
       "address": "12121 BALBOA BLVD",
       "city": "Los Angeles",
-      "visits": 11,
-      "earnings": "275.00",
-      "last_visit": "2026-10-29 06:06:39.5+00"
+      "tag": "5 Structures / 109 SU + Plants",
+      "fee": 25
+    },
+    {
+      "address": "11849 LOUISE AVE",
+      "city": "Los Angeles",
+      "tag": "Multi-Structure + Plants",
+      "fee": 25
+    },
+    {
+      "address": "6225 RESEDA BLVD",
+      "city": "Los Angeles",
+      "tag": "Multi-Structure + Plants",
+      "fee": 25
+    },
+    {
+      "address": "11630 ANDASOL AVE",
+      "city": "Los Angeles",
+      "tag": "Multi-Structure + Plants",
+      "fee": 25
+    },
+    {
+      "address": "13731 45TH AVE",
+      "city": "Queens",
+      "tag": "Multi-Structure + Plants",
+      "fee": 25
+    },
+    {
+      "address": "11336 LOUISE AVE",
+      "city": "Los Angeles",
+      "tag": "Plants / Structures",
+      "fee": 25
+    },
+    {
+      "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles",
+      "tag": "Multi-Structure + Plants",
+      "fee": 25
+    },
+    {
+      "address": "17137 SUNDERLAND DR",
+      "city": "Los Angeles",
+      "tag": "Plants / Structures",
+      "fee": 25
+    },
+    {
+      "address": "11300 SHOSHONE AVE",
+      "city": "Los Angeles",
+      "tag": "Plants / Structures",
+      "fee": 25
+    },
+    {
+      "address": "17452 LOS ALIMOS ST",
+      "city": "Los Angeles",
+      "tag": "Plants / Structures",
+      "fee": 25
+    },
+    {
+      "address": "16429 FLANDERS ST",
+      "city": "Los Angeles",
+      "tag": "Plants / Structures",
+      "fee": 25
+    },
+    {
+      "address": "17425 SAN JOSE ST",
+      "city": "Los Angeles",
+      "tag": "Plants / Structures",
+      "fee": 25
+    },
+    {
+      "address": "16435 ARMSTEAD ST",
+      "city": "Los Angeles",
+      "tag": "Plants / Structures",
+      "fee": 25
+    },
+    {
+      "address": "10446 PETIT AVE",
+      "city": "Los Angeles",
+      "tag": "Plants / Structures",
+      "fee": 25
+    },
+    {
+      "address": "7633 ETHEL AVE",
+      "city": "Los Angeles",
+      "tag": "Plants / Structures",
+      "fee": 25
     }
   ]
 }

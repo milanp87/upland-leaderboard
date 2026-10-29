@@ -1,5 +1,5 @@
 {
-  "last_sync": "18:48:31 UTC",
+  "last_sync": "18:49:33 UTC",
   "current_day": 8,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -59,8 +59,8 @@
       "rank": 6,
       "is_tie": false,
       "user": "hortiz1653",
-      "sends": 5,
-      "paid": 125.0,
+      "sends": 6,
+      "paid": 150.0,
       "projected_upx": 250,
       "seeds": ""
     },
@@ -147,10 +147,6 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6167 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "17425 SAN JOSE ST",
       "city": "Los Angeles"
     },
@@ -159,7 +155,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11300 SHOSHONE AVE",
+      "address": "6167 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -167,11 +163,7 @@
       "city": "London"
     },
     {
-      "address": "16834 KNOLLWOOD DR",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17452 LOS ALIMOS ST",
+      "address": "966 E PICO BLVD",
       "city": "Los Angeles"
     },
     {
@@ -179,7 +171,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17137 SUNDERLAND DR",
+      "address": "17452 LOS ALIMOS ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11009 GERALD AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11300 SHOSHONE AVE",
       "city": "Los Angeles"
     }
   ],

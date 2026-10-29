@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:25:15 UTC",
+  "last_sync": "12:26:18 UTC",
   "current_day": 7,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -75,15 +75,6 @@
     },
     {
       "rank": 8,
-      "is_tie": false,
-      "user": "lasvegas2015",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 9,
       "is_tie": true,
       "user": "arlen_3d",
       "sends": 3,
@@ -92,9 +83,18 @@
       "seeds": ""
     },
     {
-      "rank": 9,
+      "rank": 8,
       "is_tie": true,
       "user": "yorickpinto",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 8,
+      "is_tie": true,
+      "user": "qapm",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,

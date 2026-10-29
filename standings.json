@@ -1,5 +1,5 @@
 {
-  "last_sync": "19:49:46 UTC",
+  "last_sync": "19:50:48 UTC",
   "current_day": 8,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -143,15 +143,11 @@
       "city": "Queens"
     },
     {
-      "address": "17425 SAN JOSE ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11336 LOUISE AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17425 SAN JOSE ST",
       "city": "Los Angeles"
     },
     {
@@ -176,6 +172,10 @@
     },
     {
       "address": "11300 SHOSHONE AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11336 LOUISE AVE",
       "city": "Los Angeles"
     },
     {

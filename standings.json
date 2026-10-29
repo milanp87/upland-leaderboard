@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:34:34 UTC",
+  "last_sync": "12:35:36 UTC",
   "current_day": 7,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "cryptomonk18",
-      "sends": 21,
-      "paid": 525.0,
+      "sends": 22,
+      "paid": 550.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -75,6 +75,15 @@
     },
     {
       "rank": 8,
+      "is_tie": false,
+      "user": "lilyvest",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 9,
       "is_tie": true,
       "user": "arlen_3d",
       "sends": 3,
@@ -83,16 +92,7 @@
       "seeds": ""
     },
     {
-      "rank": 8,
-      "is_tie": true,
-      "user": "yorickpinto",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "is_tie": true,
       "user": "qapm",
       "sends": 3,
@@ -131,12 +131,12 @@
       "city": "Los Angeles"
     },
     {
-      "address": "13731 45TH AVE",
-      "city": "Queens"
-    },
-    {
       "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
+    },
+    {
+      "address": "13731 45TH AVE",
+      "city": "Queens"
     },
     {
       "address": "11630 ANDASOL AVE",
@@ -144,6 +144,10 @@
     },
     {
       "address": "11336 LOUISE AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "6167 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -155,11 +159,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11300 SHOSHONE AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17452 LOS ALIMOS ST",
+      "address": "966 E PICO BLVD",
       "city": "Los Angeles"
     },
     {
@@ -167,7 +167,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "10446 PETIT AVE",
+      "address": "17452 LOS ALIMOS ST",
       "city": "Los Angeles"
     },
     {
@@ -179,7 +179,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6167 RESEDA BLVD",
+      "address": "10446 PETIT AVE",
       "city": "Los Angeles"
     }
   ],

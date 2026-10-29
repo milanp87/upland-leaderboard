@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Upland 24h Live Sprint Hub</title>
+<style>
+:root{--bg:#0f1216;--card:#171b21;--border:#262b33;--text:#e6edf3;--sub:#8b949e;--green:#3fb950;--gold:#d29922;--pink:#f778ba;--blue:#388bfd}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif}
+main{max-width:1280px;margin:0 auto;padding:24px 16px 48px}
+header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:12px;margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid var(--border)}
+h1{font-size:22px;margin:0;display:flex;align-items:center;gap:8px}
+.badge{background:#1f2937;border:1px solid #374151;color:#60a5fa;font-size:12px;padding:3px 8px;border-radius:999px}
+.bar{display:flex;align-items:center;gap:10px}
+button{background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:8px;padding:7px 14px;cursor:pointer;transition:.15s}
+button:hover{border-color:var(--blue);color:var(--blue)}
+button.primary{background:#238636;border-color:#2ea043;color:#fff}
+.timer{font-family:monospace;font-size:13px;color:var(--sub)}
+.stats-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-bottom:20px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 16px}
+.card-title{font-size:12px;color:var(--sub);text-transform:uppercase;margin-bottom:6px}
+.card-val{font-size:26px;font-weight:700}
+.podium-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;margin-bottom:24px}
+.podium{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px}
+.podium.p1{border-color:rgba(210,153,34,.5);background:linear-gradient(180deg,#1c1e19 0%,#171b21 100%)}
+table{width:100%;border-collapse:collapse;border:1px solid var(--border);border-radius:10px;overflow:hidden;background:var(--card);margin-bottom:24px}
+th,td{padding:10px 14px;text-align:left;border-bottom:1px solid var(--border);font-size:13px}
+th{background:#14171b;color:var(--sub);font-weight:600}
+.split-grid{display:grid;grid-template-columns:2fr 1.2fr;gap:20px}
+@media (max-width:960px){.split-grid{grid-template-columns:1fr}}
+.hub-card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:10px 14px;display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.pulse{animation:pulse 1.5s infinite}
+@keyframes pulse{0%{opacity:1}50%{opacity:.3}100%{opacity:1}}
+</style>
+</head>
+<body>
+<main>
+<header>
+  <h1>🏆 Upland 24h Sprint Tracker <span class="badge" id="statusBadge">Live 60s Sync</span></h1>
+  <div class="bar">
+    <span class="timer" id="countdownLabel">Next sync in: 60s</span>
+    <button onclick="pollStandings()">🔄 Sync Now</button>
+    <button class="primary" onclick="copyDiscordPost()">📋 Copy Discord Post</button>
+  </div>
+</header>
+
+<div class="stats-grid">
+  <div class="card">
+    <div class="card-title">Rolling 24h Sends</div>
+    <div class="card-val" id="totalSends">0</div>
+    <span style="color:var(--sub);font-size:12px" id="totalRevenue">0 UPX generated</span>
+  </div>
+  <div class="card">
+    <div class="card-title">Unique Competitors</div>
+    <div class="card-val" id="uniqueVisitors">0</div>
+    <span style="color:var(--sub);font-size:12px">Active in rolling window</span>
+  </div>
+  <div class="card">
+    <div class="card-title">Day 7 Prize Pool</div>
+    <div class="card-val" style="color:var(--gold)">4,850 UPX</div>
+    <span style="color:var(--green);font-size:12px">🌷 1 White + 🌹 3 Red Tulips</span>
+  </div>
+  <div class="card">
+    <div class="card-title">Last Uplytics Sync</div>
+    <div class="card-val" style="font-size:20px;font-family:monospace" id="lastSyncTime">—</div>
+    <span style="color:var(--sub);font-size:12px" id="bubbleThreshold">Bubble: 3 sends to cash</span>
+  </div>
+</div>
+
+<div class="podium-grid">
+  <div class="podium p1">
+    <div style="font-size:11px;font-weight:700;color:var(--gold)">🥇 1ST PLACE CHAMPION (JACKPOT)</div>
+    <div style="font-size:22px;font-weight:700;margin:4px 0" id="p1User">—</div>
+    <div style="color:var(--sub);font-size:13px" id="p1Sends">0 sends</div>
+    <div style="font-weight:600;margin-top:10px;color:var(--pink)">2,000 UPX + 🌷 White + 🌹 Red Tulip</div>
+  </div>
+  <div class="podium">
+    <div style="font-size:11px;font-weight:700;color:#8b949e">🥈 2ND PLACE</div>
+    <div style="font-size:22px;font-weight:700;margin:4px 0" id="p2User">—</div>
+    <div style="color:var(--sub);font-size:13px" id="p2Sends">0 sends</div>
+    <div style="font-weight:600;margin-top:10px;color:#ff7b72">1,000 UPX + 🌹 Red Tulip</div>
+  </div>
+  <div class="podium">
+    <div style="font-size:11px;font-weight:700;color:#da5421">🥉 3RD PLACE</div>
+    <div style="font-size:22px;font-weight:700;margin:4px 0" id="p3User">—</div>
+    <div style="color:var(--sub);font-size:13px" id="p3Sends">0 sends</div>
+    <div style="font-weight:600;margin-top:10px;color:#ff7b72">500 UPX + 🌹 Red Tulip</div>
+  </div>
+</div>
+
+<div class="split-grid">
+  <div>
+    <h3 style="margin-top:0">Top 10 Live Standings (Rolling 24 Hours)</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Player</th>
+          <th>Sends (24h)</th>
+          <th>Paid (UPX)</th>
+          <th>Projected Reward</th>
+        </tr>
+      </thead>
+      <tbody id="leaderboardBody">
+        <tr><td colspan="5" style="text-align:center;color:var(--sub)">Waiting for first sync...</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div>
+    <h3 style="margin-top:0">Active Hubs Leading Traffic</h3>
+    <div id="hubsList">
+      <div class="hub-card"><div><b>15739 PLUMMER ST</b><div style="color:var(--sub);font-size:12px">Los Angeles • Mega Hub</div></div><span>—</span></div>
+      <div class="hub-card"><div><b>1665 STAUNTON AVE</b><div style="color:var(--sub);font-size:12px">Los Angeles • 11 Structures + Plants</div></div><span>—</span></div>
+      <div class="hub-card"><div><b>560 WALL ST</b><div style="color:var(--sub);font-size:12px">Los Angeles • 5 Structures + Plants</div></div><span>—</span></div>
+    </div>
+  </div>
+</div>
+</main>
+
+<script>
+let lastData = null;
+let countdown = 60;
+
+setInterval(() => {
+  countdown--;
+  if (countdown <= 0) {
+    pollStandings();
+    countdown = 60;
+  }
+  document.getElementById("countdownLabel").innerText = `Next sync in: ${countdown}s`;
+}, 1000);
+
+async function pollStandings() {
+  const badge = document.getElementById("statusBadge");
+  badge.classList.add("pulse");
+  try {
+    const res = await fetch("standings.json?t=" + Date.now());
+    if (res.ok) {
+      lastData = await res.json();
+      renderUI(lastData);
+    }
+  } catch (err) {
+    console.error("Local sync error:", err);
+  } finally {
+    badge.classList.remove("pulse");
+  }
+}
+
+function renderUI(data) {
+  document.getElementById("totalSends").innerText = data.totals.visits;
+  document.getElementById("totalRevenue").innerText = `${data.totals.revenue.toLocaleString()} UPX earned`;
+  document.getElementById("uniqueVisitors").innerText = data.totals.unique;
+  document.getElementById("lastSyncTime").innerText = data.last_sync;
+
+  const st = data.standings || [];
+  document.getElementById("p1User").innerText = st[0] ? st[0].user : "—";
+  document.getElementById("p1Sends").innerText = st[0] ? `${st[0].sends} sends (${st[0].paid} UPX)` : "0 sends";
+
+  document.getElementById("p2User").innerText = st[1] ? st[1].user : "—";
+  document.getElementById("p2Sends").innerText = st[1] ? `${st[1].sends} sends (${st[1].paid} UPX)` : "0 sends";
+
+  document.getElementById("p3User").innerText = st[2] ? st[2].user : "—";
+  document.getElementById("p3Sends").innerText = st[2] ? `${st[2].sends} sends (${st[2].paid} UPX)` : "0 sends";
+
+  const tbody = document.getElementById("leaderboardBody");
+  tbody.innerHTML = "";
+  st.slice(0, 10).forEach((item, idx) => {
+    const tr = document.createElement("tr");
+    let rewardText = `${item.projected_upx} UPX`;
+    if (item.seeds) rewardText += ` + ${item.seeds}`;
+    if (item.is_tie) rewardText += ` (Split)`;
+
+    tr.innerHTML = `
+      <td><b>#${idx + 1}</b></td>
+      <td><b>${item.user}</b>${item.is_tie ? ' <small style="color:var(--gold)">(Tied)</small>' : ''}</td>
+      <td>${item.sends}</td>
+      <td>${item.paid} UPX</td>
+      <td style="color:var(--gold);font-weight:600">${rewardText}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+
+  const hubsBox = document.getElementById("hubsList");
+  hubsBox.innerHTML = "";
+  (data.top_props || []).forEach(p => {
+    const div = document.createElement("div");
+    div.className = "hub-card";
+    div.innerHTML = `
+      <div>
+        <b>${p.address}</b>
+        <div style="color:var(--sub);font-size:12px">${p.city}</div>
+      </div>
+      <span style="font-weight:600;color:var(--green)">${p.visits} visits (${p.earnings} UPX)</span>
+    `;
+    hubsBox.appendChild(div);
+  });
+}
+
+function copyDiscordPost() {
+  if (!lastData) return alert("Waiting for first sync...");
+  let text = `⏰ **Day 7 Live Leaderboard Update (Rolling 24h)** ⏰\n\n`;
+  lastData.standings.slice(0, 10).forEach((p, i) => {
+    text += `${i + 1}. **${p.user}** — ${p.sends} sends (${p.paid} UPX)\n`;
+  });
+  text += `\n📍 **Top Visited Properties (25 UPX fee):**\n`;
+  text += `15739 PLUMMER ST, Los Angeles (18 Structures - Mega Hub)\n`;
+  text += `1665 STAUNTON AVE, Los Angeles (11 Structures + Plants)\n`;
+  text += `560 WALL ST, Los Angeles (5 Structures + Plants)\n`;
+  text += `12121 BALBOA BLVD, Los Angeles (5 Structures + Plants)\n`;
+  text += `18020 SAN FERNANDO MISSION BLVD, Los Angeles (5 Structures + Plants)\n`;
+  text += `930 S ALAMEDA ST, Los Angeles (3 Structures + Plants)\n`;
+  text += `11849 LOUISE AVE, Los Angeles (Multi-Structure + Plants)\n`;
+  text += `11630 ANDASOL AVE, Los Angeles (Multi-Structure + Plants)\n`;
+  text += `6225 RESEDA BLVD, Los Angeles (Multi-Structure + Plants)\n`;
+  text += `13731 45TH AVE, Queens (Multi-Structure + Plants)\n\n`;
+  text += `⏳ Cutoff today at 9:00 AM PT!`;
+  navigator.clipboard.writeText(text);
+  alert("Discord markdown copied to clipboard!");
+}
+
+window.onload = pollStandings;
+</script>
+</body>
+</html>

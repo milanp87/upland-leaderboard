@@ -1,5 +1,5 @@
 {
-  "last_sync": "11:23:02 UTC",
+  "last_sync": "11:24:04 UTC",
   "current_day": 7,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "pastante",
-      "sends": 21,
-      "paid": 525.0,
+      "sends": 20,
+      "paid": 500.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -123,11 +123,15 @@
       "city": "Los Angeles"
     },
     {
+      "address": "11849 LOUISE AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -135,15 +139,7 @@
       "city": "Queens"
     },
     {
-      "address": "6225 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "11630 ANDASOL AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11336 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
@@ -151,27 +147,15 @@
       "city": "Los Angeles"
     },
     {
+      "address": "11336 LOUISE AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "12900 ASBURY PARK",
+      "city": "Detroit"
+    },
+    {
       "address": "966 E PICO BLVD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11300 SHOSHONE AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17452 LOS ALIMOS ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "16429 FLANDERS ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "10446 PETIT AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "16435 ARMSTEAD ST",
       "city": "Los Angeles"
     },
     {
@@ -179,7 +163,23 @@
       "city": "Los Angeles"
     },
     {
+      "address": "6929 HESPERIA AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "7633 ETHEL AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "10446 PETIT AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17452 LOS ALIMOS ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11300 SHOSHONE AVE",
       "city": "Los Angeles"
     }
   ],

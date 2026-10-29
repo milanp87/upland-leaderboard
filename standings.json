@@ -1,5 +1,5 @@
 {
-  "last_sync": "09:58:59 UTC",
+  "last_sync": "10:00:01 UTC",
   "current_day": 7,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "pastante",
-      "sends": 20,
-      "paid": 500.0,
+      "sends": 19,
+      "paid": 475.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },

@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:45:58 UTC",
+  "last_sync": "12:47:00 UTC",
   "current_day": 7,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -12,21 +12,21 @@
   "standings": [
     {
       "rank": 1,
-      "is_tie": false,
+      "is_tie": true,
+      "user": "cryptomonk18",
+      "sends": 27,
+      "paid": 675.0,
+      "projected_upx": 1500,
+      "seeds": "Tied (Rolled over to next day)"
+    },
+    {
+      "rank": 1,
+      "is_tie": true,
       "user": "uplanddood",
       "sends": 27,
       "paid": 675.0,
-      "projected_upx": 2000,
-      "seeds": "\ud83c\udf37 1x White + \ud83c\udf39 1x Red Tulip Seed"
-    },
-    {
-      "rank": 2,
-      "is_tie": false,
-      "user": "cryptomonk18",
-      "sends": 26,
-      "paid": 650.0,
-      "projected_upx": 1000,
-      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
+      "projected_upx": 1500,
+      "seeds": "Tied (Rolled over to next day)"
     },
     {
       "rank": 3,

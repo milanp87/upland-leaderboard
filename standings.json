@@ -1,5 +1,5 @@
 {
-  "last_sync": "16:08:16 UTC",
+  "last_sync": "16:09:18 UTC",
   "current_day": 8,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -123,11 +123,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
@@ -143,7 +143,7 @@
       "city": "Queens"
     },
     {
-      "address": "16435 ARMSTEAD ST",
+      "address": "11336 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
@@ -151,27 +151,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11336 LOUISE AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "17425 SAN JOSE ST",
       "city": "Los Angeles"
     },
     {
-      "address": "17 ORCHARDSON ST",
-      "city": "London"
-    },
-    {
-      "address": "966 E PICO BLVD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "6929 HESPERIA AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17452 LOS ALIMOS ST",
+      "address": "16435 ARMSTEAD ST",
       "city": "Los Angeles"
     },
     {
@@ -179,8 +163,24 @@
       "city": "Los Angeles"
     },
     {
-      "address": "16429 FLANDERS ST",
+      "address": "17 ORCHARDSON ST",
+      "city": "London"
+    },
+    {
+      "address": "16834 KNOLLWOOD DR",
       "city": "Los Angeles"
+    },
+    {
+      "address": "17452 LOS ALIMOS ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "6929 HESPERIA AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "109 SAINT MARYS AVE",
+      "city": "San Francisco"
     }
   ],
   "previous_snapshot": {

@@ -1,5 +1,5 @@
 {
-  "last_sync": "21:55:21 UTC",
+  "last_sync": "21:56:23 UTC",
   "current_day": 8,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -163,10 +163,6 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17452 LOS ALIMOS ST",
-      "city": "Los Angeles"
-    },
-    {
       "address": "11009 GERALD AVE",
       "city": "Los Angeles"
     },
@@ -180,6 +176,10 @@
     },
     {
       "address": "16834 KNOLLWOOD DR",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17137 SUNDERLAND DR",
       "city": "Los Angeles"
     }
   ],

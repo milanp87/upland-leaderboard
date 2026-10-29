@@ -1,5 +1,5 @@
 {
-  "last_sync": "13:48:11 UTC",
+  "last_sync": "13:49:13 UTC",
   "current_day": 7,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -75,7 +75,7 @@
     },
     {
       "rank": 8,
-      "is_tie": false,
+      "is_tie": true,
       "user": "lilyvest",
       "sends": 4,
       "paid": 100.0,
@@ -83,18 +83,18 @@
       "seeds": ""
     },
     {
-      "rank": 9,
+      "rank": 8,
       "is_tie": true,
-      "user": "arlen_3d",
-      "sends": 3,
-      "paid": 75.0,
+      "user": "azraelfuz",
+      "sends": 4,
+      "paid": 90.0,
       "projected_upx": 200,
       "seeds": ""
     },
     {
-      "rank": 9,
-      "is_tie": true,
-      "user": "qapm",
+      "rank": 10,
+      "is_tie": false,
+      "user": "arlen_3d",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,

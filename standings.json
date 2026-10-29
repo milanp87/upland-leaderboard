@@ -1,5 +1,5 @@
 {
-  "last_sync": "08:55:04 UTC",
+  "last_sync": "08:56:07 UTC",
   "current_day": 7,
   "bubble": 3,
   "seed_rewards": {
@@ -134,12 +134,12 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "13731 45TH AVE",
       "city": "Queens"
+    },
+    {
+      "address": "11630 ANDASOL AVE",
+      "city": "Los Angeles"
     },
     {
       "address": "11336 LOUISE AVE",

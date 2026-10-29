@@ -1,5 +1,5 @@
 {
-  "last_sync": "13:34:42 UTC",
+  "last_sync": "13:35:44 UTC",
   "current_day": 7,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -131,11 +131,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -143,11 +143,11 @@
       "city": "Queens"
     },
     {
-      "address": "16435 ARMSTEAD ST",
+      "address": "11336 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11336 LOUISE AVE",
+      "address": "16435 ARMSTEAD ST",
       "city": "Los Angeles"
     },
     {
@@ -159,27 +159,27 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17136 CEREDO PL",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "109 SAINT MARYS AVE",
-      "city": "San Francisco"
-    },
-    {
       "address": "12900 ASBURY PARK",
       "city": "Detroit"
+    },
+    {
+      "address": "966 E PICO BLVD",
+      "city": "Los Angeles"
     },
     {
       "address": "6929 HESPERIA AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "7633 ETHEL AVE",
+      "address": "10446 PETIT AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "10446 PETIT AVE",
+      "address": "17452 LOS ALIMOS ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11300 SHOSHONE AVE",
       "city": "Los Angeles"
     }
   ],

@@ -1,7 +1,13 @@
 {
-  "last_sync": "07:30:10 UTC",
+  "last_sync": "07:32:41 UTC",
   "current_day": 7,
   "bubble": 3,
+  "seed_rewards": {
+    "p1_seed_text": "\ud83c\udf37 1x White + \ud83c\udf39 1x Red Tulip Seed",
+    "p2_seed_text": "\ud83c\udf39 1x Red Tulip Seed",
+    "p3_seed_text": "\ud83c\udf39 1x Red Tulip Seed",
+    "pool_summary": "\ud83c\udf37 1 White + \ud83c\udf39 3 Red Tulips"
+  },
   "standings": [
     {
       "rank": 1,
@@ -10,7 +16,7 @@
       "sends": 29,
       "paid": 725.0,
       "projected_upx": 2000,
-      "seeds": "\ud83c\udf37 White + \ud83c\udf39 Red Tulip"
+      "seeds": "\ud83c\udf37 1x White + \ud83c\udf39 1x Red Tulip Seed"
     },
     {
       "rank": 2,
@@ -19,7 +25,7 @@
       "sends": 20,
       "paid": 500.0,
       "projected_upx": 1000,
-      "seeds": "\ud83c\udf39 Red Tulip"
+      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
     {
       "rank": 3,
@@ -28,7 +34,7 @@
       "sends": 16,
       "paid": 400.0,
       "projected_upx": 500,
-      "seeds": "\ud83c\udf39 Red Tulip"
+      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
     {
       "rank": 4,
@@ -207,7 +213,7 @@
         "sends": 29,
         "paid": 725.0,
         "projected_upx": 2000,
-        "seeds": "\ud83c\udf37 White + \ud83c\udf39 Red Tulip"
+        "seeds": "\ud83c\udf37 1x White + \ud83c\udf39 1x Red Tulip Seed"
       },
       {
         "rank": 2,
@@ -216,7 +222,7 @@
         "sends": 20,
         "paid": 500.0,
         "projected_upx": 1000,
-        "seeds": "\ud83c\udf39 Red Tulip"
+        "seeds": "\ud83c\udf39 1x Red Tulip Seed"
       },
       {
         "rank": 3,
@@ -225,7 +231,7 @@
         "sends": 16,
         "paid": 400.0,
         "projected_upx": 500,
-        "seeds": "\ud83c\udf39 Red Tulip"
+        "seeds": "\ud83c\udf39 1x Red Tulip Seed"
       },
       {
         "rank": 4,

@@ -1,5 +1,5 @@
 {
-  "last_sync": "16:29:03 UTC",
+  "last_sync": "16:30:05 UTC",
   "current_day": 8,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -59,8 +59,8 @@
       "rank": 6,
       "is_tie": false,
       "user": "ciberus",
-      "sends": 6,
-      "paid": 150.0,
+      "sends": 7,
+      "paid": 175.0,
       "projected_upx": 250,
       "seeds": ""
     },

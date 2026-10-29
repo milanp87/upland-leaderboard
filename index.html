@@ -26,14 +26,15 @@ button.primary{background:#238636;border-color:#2ea043;color:#fff}
 table{width:100%;border-collapse:collapse;border:1px solid var(--border);border-radius:10px;overflow:hidden;background:var(--card);margin-bottom:24px}
 th,td{padding:10px 14px;text-align:left;border-bottom:1px solid var(--border);font-size:13px}
 th{background:#14171b;color:var(--sub);font-weight:600}
-.split-grid{display:grid;grid-template-columns:1.8fr 1.2fr;gap:20px}
+.split-grid{display:grid;grid-template-columns:1.8fr 1.2fr;gap:20px;margin-bottom:32px}
 @media (max-width:960px){.split-grid{grid-template-columns:1fr}}
 .hub-scroll{max-height:650px;overflow-y:auto;padding-right:6px}
 .hub-scroll::-webkit-scrollbar{width:6px}
 .hub-scroll::-webkit-scrollbar-thumb{background:#262b33;border-radius:4px}
-.hub-card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:10px 12px;display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;cursor:pointer;transition:.15s}
+.hub-card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:12px 14px;display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;cursor:pointer;transition:.15s}
 .hub-card:hover{border-color:var(--blue)}
 .fee-badge{font-size:11px;background:#1b2533;color:#79c0ff;border:1px solid #29476b;padding:3px 8px;border-radius:999px;font-weight:600}
+.countdown-box{font-family:monospace;font-size:22px;font-weight:700;color:#f0883e}
 .pulse{animation:pulse 1.5s infinite}
 @keyframes pulse{0%{opacity:1}50%{opacity:.3}100%{opacity:1}}
 </style>
@@ -51,19 +52,19 @@ th{background:#14171b;color:var(--sub);font-weight:600}
 
 <div class="stats-grid">
   <div class="card">
-    <div class="card-title">Day 7 Prize Pool</div>
-    <div class="card-val" style="color:var(--gold)">4,850 UPX</div>
+    <div class="card-title" id="prizePoolHeader">Day 7 Prize Pool</div>
+    <div class="card-val" style="color:var(--gold)" id="prizePoolAmount">4,850 UPX</div>
     <span style="color:var(--green);font-size:12px">🌷 1 White + 🌹 3 Red Tulips</span>
+  </div>
+  <div class="card">
+    <div class="card-title">Cutoff Countdown (9:00 AM PT)</div>
+    <div class="card-val countdown-box" id="ptCountdown">--:--:--</div>
+    <span style="color:var(--sub);font-size:12px">16:00 UTC Daily Snapshot</span>
   </div>
   <div class="card">
     <div class="card-title">Top 10 Cash Bubble</div>
     <div class="card-val" id="bubbleThreshold">3 sends</div>
-    <span style="color:var(--sub);font-size:12px">Minimum visits needed to win UPX</span>
-  </div>
-  <div class="card">
-    <div class="card-title">Competition Mode</div>
-    <div class="card-val" style="color:var(--blue)">Rolling 24h</div>
-    <span style="color:var(--sub);font-size:12px">Synced directly from portfolio logs</span>
+    <span style="color:var(--sub);font-size:12px">Minimum visits needed to cash</span>
   </div>
   <div class="card">
     <div class="card-title">Last Live Sync</div>
@@ -114,27 +115,64 @@ th{background:#14171b;color:var(--sub);font-weight:600}
 
   <div>
     <h3 style="margin-top:0;display:flex;justify-content:space-between;align-items:center">
-      <span>Popular Properties for Troves</span>
-      <span style="font-size:12px;color:var(--sub)">Click address to copy</span>
+      <span>Top Visited Properties</span>
+      <span style="font-size:12px;color:var(--sub)">Click to copy address</span>
     </h3>
     <div id="hubsList" class="hub-scroll">
       <!-- Injected dynamically -->
     </div>
   </div>
 </div>
+
+<section style="border-top: 1px solid var(--border); padding-top: 24px;">
+  <h3 style="margin-top:0;display:flex;align-items:center;gap:8px">
+    <span>📜 Official Results: Previous Snapshot</span>
+    <span class="badge" id="historyDayBadge">Day 6 Final</span>
+  </h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Player</th>
+        <th>Sends</th>
+        <th>Paid (UPX)</th>
+        <th>Winnings Awarded</th>
+      </tr>
+    </thead>
+    <tbody id="historyTableBody">
+      <!-- Injected dynamically -->
+    </tbody>
+  </table>
+</section>
 </main>
 
 <script>
 let lastData = null;
-let countdown = 60;
+let syncCountdown = 60;
+
+function updateCountdownTo9AMPT() {
+  const now = new Date();
+  // 9:00 AM PT = 16:00 UTC (during Daylight Saving Time)
+  const target = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 16, 0, 0));
+  if (now.getTime() >= target.getTime()) {
+    target.setUTCDate(target.getUTCDate() + 1);
+  }
+  const diff = target.getTime() - now.getTime();
+  const hrs = String(Math.floor(diff / 3600000)).padStart(2, '0');
+  const mins = String(Math.floor((diff % 3600000) / 60000)).padStart(2, '0');
+  const secs = String(Math.floor((diff % 60000) / 1000)).padStart(2, '0');
+  document.getElementById("ptCountdown").innerText = `${hrs}:${mins}:${secs}`;
+}
+setInterval(updateCountdownTo9AMPT, 1000);
+updateCountdownTo9AMPT();
 
 setInterval(() => {
-  countdown--;
-  if (countdown <= 0) {
+  syncCountdown--;
+  if (syncCountdown <= 0) {
     pollStandings();
-    countdown = 60;
+    syncCountdown = 60;
   }
-  document.getElementById("countdownLabel").innerText = `Next sync in: ${countdown}s`;
+  document.getElementById("countdownLabel").innerText = `Next sync in: ${syncCountdown}s`;
 }, 1000);
 
 async function pollStandings() {
@@ -154,6 +192,8 @@ async function pollStandings() {
 }
 
 function renderUI(data) {
+  const currDay = data.current_day || 7;
+  document.getElementById("prizePoolHeader").innerText = `Day ${currDay} Prize Pool`;
   document.getElementById("lastSyncTime").innerText = data.last_sync || "—";
   if (data.bubble) {
     document.getElementById("bubbleThreshold").innerText = `${data.bubble} sends`;
@@ -187,6 +227,7 @@ function renderUI(data) {
     tbody.appendChild(tr);
   });
 
+  // Only address and city, no structures or plants
   const hubsBox = document.getElementById("hubsList");
   hubsBox.innerHTML = "";
   (data.popular_props || []).forEach(p => {
@@ -198,24 +239,46 @@ function renderUI(data) {
     };
     div.innerHTML = `
       <div>
-        <b>${p.address}</b>
-        <div style="color:var(--sub);font-size:12px">${p.city} • ${p.tag}</div>
+        <b style="font-size:13.5px">${p.address}</b>
+        <div style="color:var(--sub);font-size:12px">${p.city}</div>
       </div>
       <span class="fee-badge">${p.fee} UPX fee</span>
     `;
     hubsBox.appendChild(div);
   });
+
+  // Previous snapshot history table
+  if (data.previous_snapshot) {
+    const hist = data.previous_snapshot;
+    document.getElementById("historyDayBadge").innerText = `Day ${hist.day} Final (${hist.date})`;
+    const histBody = document.getElementById("historyTableBody");
+    histBody.innerHTML = "";
+    (hist.standings || []).forEach(h => {
+      const tr = document.createElement("tr");
+      let winText = `${h.projected_upx} UPX`;
+      if (h.seeds) winText += ` + ${h.seeds}`;
+      tr.innerHTML = `
+        <td><b>#${h.rank}</b></td>
+        <td><b>${h.user}</b></td>
+        <td>${h.sends}</td>
+        <td>${h.paid} UPX</td>
+        <td style="color:var(--green);font-weight:600">${winText}</td>
+      `;
+      histBody.appendChild(tr);
+    });
+  }
 }
 
 function copyDiscordPost() {
   if (!lastData) return alert("Waiting for first sync...");
-  let text = `⏰ **Day 7 Live Leaderboard Update (Rolling 24h)** ⏰\n\n`;
+  const currDay = lastData.current_day || 7;
+  let text = `⏰ **Day ${currDay} Live Leaderboard Update (Rolling 24h)** ⏰\n\n`;
   lastData.standings.slice(0, 10).forEach((p, i) => {
     text += `${i + 1}. **${p.user}** — ${p.sends} sends (${p.paid} UPX)\n`;
   });
-  text += `\n📍 **Popular Visited Properties (25 UPX fee):**\n`;
+  text += `\n📍 **Top Visited Properties (25 UPX fee):**\n`;
   (lastData.popular_props || []).slice(0, 10).forEach(p => {
-    text += `${p.address}, ${p.city} (${p.tag})\n`;
+    text += `${p.address}, ${p.city}\n`;
   });
   text += `\n⏳ Cutoff today at 9:00 AM PT!`;
   navigator.clipboard.writeText(text);

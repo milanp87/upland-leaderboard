@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:47:00 UTC",
+  "last_sync": "12:48:03 UTC",
   "current_day": 7,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -12,21 +12,21 @@
   "standings": [
     {
       "rank": 1,
-      "is_tie": true,
+      "is_tie": false,
       "user": "cryptomonk18",
-      "sends": 27,
-      "paid": 675.0,
-      "projected_upx": 1500,
-      "seeds": "Tied (Rolled over to next day)"
+      "sends": 28,
+      "paid": 700.0,
+      "projected_upx": 2000,
+      "seeds": "\ud83c\udf37 1x White + \ud83c\udf39 1x Red Tulip Seed"
     },
     {
-      "rank": 1,
-      "is_tie": true,
+      "rank": 2,
+      "is_tie": false,
       "user": "uplanddood",
       "sends": 27,
       "paid": 675.0,
-      "projected_upx": 1500,
-      "seeds": "Tied (Rolled over to next day)"
+      "projected_upx": 1000,
+      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
     {
       "rank": 3,
@@ -143,15 +143,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11336 LOUISE AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "6167 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17425 SAN JOSE ST",
       "city": "Los Angeles"
     },
     {
@@ -159,23 +151,31 @@
       "city": "Los Angeles"
     },
     {
-      "address": "966 E PICO BLVD",
+      "address": "11336 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "16429 FLANDERS ST",
+      "address": "17425 SAN JOSE ST",
       "city": "Los Angeles"
     },
     {
-      "address": "17452 LOS ALIMOS ST",
+      "address": "17136 CEREDO PL",
       "city": "Los Angeles"
+    },
+    {
+      "address": "109 SAINT MARYS AVE",
+      "city": "San Francisco"
     },
     {
       "address": "12900 ASBURY PARK",
       "city": "Detroit"
     },
     {
-      "address": "16834 KNOLLWOOD DR",
+      "address": "6929 HESPERIA AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "7633 ETHEL AVE",
       "city": "Los Angeles"
     },
     {

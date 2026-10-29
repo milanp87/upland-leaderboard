@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:13:51 UTC",
+  "last_sync": "12:14:53 UTC",
   "current_day": 7,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -115,11 +115,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -151,6 +151,10 @@
       "city": "Los Angeles"
     },
     {
+      "address": "16435 ARMSTEAD ST",
+      "city": "Los Angeles"
+    },
+    {
       "address": "12900 ASBURY PARK",
       "city": "Detroit"
     },
@@ -176,10 +180,6 @@
     },
     {
       "address": "17452 LOS ALIMOS ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11300 SHOSHONE AVE",
       "city": "Los Angeles"
     }
   ],

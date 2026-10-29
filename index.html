@@ -53,13 +53,13 @@ th{background:#14171b;color:var(--sub);font-weight:600}
 <div class="stats-grid">
   <div class="card">
     <div class="card-title" id="prizePoolHeader">Day 7 Prize Pool</div>
-    <div class="card-val" style="color:var(--gold)" id="prizePoolAmount">4,850 UPX</div>
-    <span style="color:var(--green);font-size:12px">🌷 1 White + 🌹 3 Red Tulips</span>
+    <div class="card-val" style="color:var(--gold)">4,850 UPX</div>
+    <span style="color:var(--green);font-size:12px" id="prizePoolSeeds">🌷 1 White + 🌹 3 Red Tulips</span>
   </div>
   <div class="card">
     <div class="card-title">Cutoff Countdown (9:00 AM PT)</div>
     <div class="card-val countdown-box" id="ptCountdown">--:--:--</div>
-    <span style="color:var(--sub);font-size:12px">16:00 UTC Daily Snapshot</span>
+    <span style="color:var(--sub);font-size:12px">16:00 UTC Snapshot</span>
   </div>
   <div class="card">
     <div class="card-title">Top 10 Cash Bubble</div>
@@ -78,19 +78,19 @@ th{background:#14171b;color:var(--sub);font-weight:600}
     <div style="font-size:11px;font-weight:700;color:var(--gold)">🥇 1ST PLACE CHAMPION (JACKPOT)</div>
     <div style="font-size:22px;font-weight:700;margin:4px 0" id="p1User">—</div>
     <div style="color:var(--sub);font-size:13px" id="p1Sends">0 sends</div>
-    <div style="font-weight:600;margin-top:10px;color:var(--pink)">2,000 UPX + 🌷 White + 🌹 Red Tulip</div>
+    <div style="font-weight:600;margin-top:10px;color:var(--pink)" id="p1RewardText">2,000 UPX + 🌷 White + 🌹 Red Tulip</div>
   </div>
   <div class="podium">
     <div style="font-size:11px;font-weight:700;color:#8b949e">🥈 2ND PLACE</div>
     <div style="font-size:22px;font-weight:700;margin:4px 0" id="p2User">—</div>
     <div style="color:var(--sub);font-size:13px" id="p2Sends">0 sends</div>
-    <div style="font-weight:600;margin-top:10px;color:#ff7b72">1,000 UPX + 🌹 Red Tulip</div>
+    <div style="font-weight:600;margin-top:10px;color:#ff7b72" id="p2RewardText">1,000 UPX + 🌹 Red Tulip</div>
   </div>
   <div class="podium">
     <div style="font-size:11px;font-weight:700;color:#da5421">🥉 3RD PLACE</div>
     <div style="font-size:22px;font-weight:700;margin:4px 0" id="p3User">—</div>
     <div style="color:var(--sub);font-size:13px" id="p3Sends">0 sends</div>
-    <div style="font-weight:600;margin-top:10px;color:#ff7b72">500 UPX + 🌹 Red Tulip</div>
+    <div style="font-weight:600;margin-top:10px;color:#ff7b72" id="p3RewardText">500 UPX + 🌹 Red Tulip</div>
   </div>
 </div>
 
@@ -124,10 +124,10 @@ th{background:#14171b;color:var(--sub);font-weight:600}
   </div>
 </div>
 
-<section style="border-top: 1px solid var(--border); padding-top: 24px;">
+<section id="historySection" style="display:none; border-top: 1px solid var(--border); padding-top: 24px;">
   <h3 style="margin-top:0;display:flex;align-items:center;gap:8px">
     <span>📜 Official Results: Previous Snapshot</span>
-    <span class="badge" id="historyDayBadge">Day 6 Final</span>
+    <span class="badge" id="historyDayBadge">—</span>
   </h3>
   <table>
     <thead>
@@ -199,6 +199,14 @@ function renderUI(data) {
     document.getElementById("bubbleThreshold").innerText = `${data.bubble} sends`;
   }
 
+  // Dynamic seeds update
+  if (data.seed_rewards) {
+    document.getElementById("prizePoolSeeds").innerText = data.seed_rewards.pool_summary;
+    document.getElementById("p1RewardText").innerText = `2,000 UPX + ${data.seed_rewards.p1_seed_text}`;
+    document.getElementById("p2RewardText").innerText = `1,000 UPX + ${data.seed_rewards.p2_seed_text}`;
+    document.getElementById("p3RewardText").innerText = `500 UPX + ${data.seed_rewards.p3_seed_text}`;
+  }
+
   const st = data.standings || [];
   document.getElementById("p1User").innerText = st[0] ? st[0].user : "—";
   document.getElementById("p1Sends").innerText = st[0] ? `${st[0].sends} sends (${st[0].paid} UPX)` : "0 sends";
@@ -247,13 +255,15 @@ function renderUI(data) {
     hubsBox.appendChild(div);
   });
 
-  // Previous snapshot history table
-  if (data.previous_snapshot) {
+  // Previous snapshot history table: displayed only if a finalized snapshot exists
+  const histSection = document.getElementById("historySection");
+  if (data.previous_snapshot && data.previous_snapshot.standings && data.previous_snapshot.standings.length > 0) {
+    histSection.style.display = "block";
     const hist = data.previous_snapshot;
     document.getElementById("historyDayBadge").innerText = `Day ${hist.day} Final (${hist.date})`;
     const histBody = document.getElementById("historyTableBody");
     histBody.innerHTML = "";
-    (hist.standings || []).forEach(h => {
+    hist.standings.forEach(h => {
       const tr = document.createElement("tr");
       let winText = `${h.projected_upx} UPX`;
       if (h.seeds) winText += ` + ${h.seeds}`;
@@ -266,6 +276,8 @@ function renderUI(data) {
       `;
       histBody.appendChild(tr);
     });
+  } else {
+    histSection.style.display = "none";
   }
 }
 

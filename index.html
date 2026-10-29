@@ -15,7 +15,6 @@ h1{font-size:22px;margin:0;display:flex;align-items:center;gap:8px}
 .bar{display:flex;align-items:center;gap:10px}
 button{background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:8px;padding:7px 14px;cursor:pointer;transition:.15s}
 button:hover{border-color:var(--blue);color:var(--blue)}
-button.primary{background:#238636;border-color:#2ea043;color:#fff}
 .timer{font-family:monospace;font-size:13px;color:var(--sub)}
 .stats-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-bottom:20px}
 .card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 16px}
@@ -48,7 +47,6 @@ th{background:#14171b;color:var(--sub);font-weight:600}
   <div class="bar">
     <span class="timer" id="countdownLabel">Next sync in: 60s</span>
     <button onclick="pollStandings()">🔄 Sync Now</button>
-    <button class="primary" onclick="copyDiscordPost()">📋 Copy Discord Post</button>
   </div>
 </header>
 
@@ -183,7 +181,6 @@ async function pollStandings() {
   const badge = document.getElementById("statusBadge");
   badge.classList.add("pulse");
   
-  // Direct zero-latency fetch from GitHub API (bypasses GitHub Pages build delay completely)
   const apiURL = "https://api.github.com/repos/milanp87/upland-leaderboard/contents/standings.json?ref=main&t=" + Date.now();
   const fallbackURL = "standings.json?t=" + Date.now();
 
@@ -193,13 +190,11 @@ async function pollStandings() {
     if (res.ok) {
       const jsonMeta = await res.json();
       if (jsonMeta.content) {
-        // Base64 decode UTF-8 safely
         const decodedStr = decodeURIComponent(escape(atob(jsonMeta.content.replace(/\s/g, ''))));
         payload = JSON.parse(decodedStr);
       }
     }
     
-    // Fallback if GitHub API rate-limited
     if (!payload) {
       const fbRes = await fetch(fallbackURL, { cache: "no-store" });
       if (fbRes.ok) payload = await fbRes.json();
@@ -301,22 +296,6 @@ function renderUI(data) {
   } else {
     histSection.style.display = "none";
   }
-}
-
-function copyDiscordPost() {
-  if (!lastData) return alert("Waiting for first sync...");
-  const currDay = lastData.current_day || 7;
-  let text = `⏰ **Day ${currDay} Live Leaderboard Update (Rolling 24h)** ⏰\n\n`;
-  lastData.standings.slice(0, 10).forEach((p, i) => {
-    text += `${i + 1}. **${p.user}** — ${p.sends} sends (${p.paid} UPX)\n`;
-  });
-  text += `\n📍 **Top Visited Properties (All send fees set to city minimum):**\n`;
-  (lastData.popular_props || []).slice(0, 10).forEach(p => {
-    text += `${p.address}, ${p.city}\n`;
-  });
-  text += `\n⏳ Cutoff today at 9:00 AM PT!`;
-  navigator.clipboard.writeText(text);
-  alert("Discord markdown copied to clipboard!");
 }
 
 window.onload = pollStandings;

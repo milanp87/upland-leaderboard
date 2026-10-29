@@ -1,5 +1,5 @@
 {
-  "last_sync": "07:56:06 UTC",
+  "last_sync": "07:57:09 UTC",
   "current_day": 7,
   "bubble": 3,
   "seed_rewards": {
@@ -65,7 +65,7 @@
     },
     {
       "rank": 7,
-      "is_tie": true,
+      "is_tie": false,
       "user": "vines33",
       "sends": 4,
       "paid": 100.0,
@@ -73,16 +73,7 @@
       "seeds": ""
     },
     {
-      "rank": 7,
-      "is_tie": true,
-      "user": "eddielie",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 9,
+      "rank": 8,
       "is_tie": true,
       "user": "arlen_3d",
       "sends": 3,
@@ -91,9 +82,18 @@
       "seeds": ""
     },
     {
-      "rank": 9,
+      "rank": 8,
       "is_tie": true,
       "user": "yorickpinto",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 8,
+      "is_tie": true,
+      "user": "justnft3",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,
@@ -130,11 +130,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {

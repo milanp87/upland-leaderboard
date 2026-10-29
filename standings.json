@@ -1,5 +1,5 @@
 {
-  "last_sync": "20:15:42 UTC",
+  "last_sync": "20:16:44 UTC",
   "current_day": 8,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -59,8 +59,8 @@
       "rank": 6,
       "is_tie": false,
       "user": "hortiz1653",
-      "sends": 6,
-      "paid": 150.0,
+      "sends": 7,
+      "paid": 175.0,
       "projected_upx": 250,
       "seeds": ""
     },
@@ -151,6 +151,10 @@
       "city": "Los Angeles"
     },
     {
+      "address": "21 PORCHESTER TERRACE",
+      "city": "London"
+    },
+    {
       "address": "17 ORCHARDSON ST",
       "city": "London"
     },
@@ -176,10 +180,6 @@
     },
     {
       "address": "11336 LOUISE AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "16435 ARMSTEAD ST",
       "city": "Los Angeles"
     }
   ],

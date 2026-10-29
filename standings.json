@@ -1,5 +1,5 @@
 {
-  "last_sync": "14:25:31 UTC",
+  "last_sync": "14:26:34 UTC",
   "current_day": 7,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -58,7 +58,7 @@
     {
       "rank": 6,
       "is_tie": true,
-      "user": "ciberus",
+      "user": "hortiz1653",
       "sends": 5,
       "paid": 125.0,
       "projected_upx": 225,
@@ -67,7 +67,7 @@
     {
       "rank": 6,
       "is_tie": true,
-      "user": "hortiz1653",
+      "user": "ciberus",
       "sends": 5,
       "paid": 125.0,
       "projected_upx": 225,
@@ -94,7 +94,7 @@
     {
       "rank": 10,
       "is_tie": false,
-      "user": "arlen_3d",
+      "user": "yorickpinto",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,

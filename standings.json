@@ -1,5 +1,5 @@
 {
-  "last_sync": "11:03:19 UTC",
+  "last_sync": "11:04:21 UTC",
   "current_day": 7,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -21,21 +21,21 @@
     },
     {
       "rank": 2,
-      "is_tie": true,
+      "is_tie": false,
+      "user": "pastante",
+      "sends": 19,
+      "paid": 475.0,
+      "projected_upx": 1000,
+      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
+    },
+    {
+      "rank": 3,
+      "is_tie": false,
       "user": "cryptomonk18",
       "sends": 18,
       "paid": 450.0,
-      "projected_upx": 750,
-      "seeds": "Tied (Rolled over to next day)"
-    },
-    {
-      "rank": 2,
-      "is_tie": true,
-      "user": "pastante",
-      "sends": 18,
-      "paid": 450.0,
-      "projected_upx": 750,
-      "seeds": "Tied (Rolled over to next day)"
+      "projected_upx": 500,
+      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
     {
       "rank": 4,
@@ -115,11 +115,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {

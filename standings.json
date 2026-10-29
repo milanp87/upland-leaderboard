@@ -1,0 +1,150 @@
+{
+  "last_sync": "06:43:26 UTC",
+  "totals": {
+    "visits": 176,
+    "revenue": 4360.0,
+    "unique": 62
+  },
+  "standings": [
+    {
+      "rank": 1,
+      "is_tie": false,
+      "user": "uplanddood",
+      "sends": 29,
+      "paid": 725.0,
+      "projected_upx": 2000,
+      "seeds": "\ud83c\udf37 White + \ud83c\udf39 Red Tulip"
+    },
+    {
+      "rank": 2,
+      "is_tie": false,
+      "user": "pastante",
+      "sends": 20,
+      "paid": 500.0,
+      "projected_upx": 1000,
+      "seeds": "\ud83c\udf39 Red Tulip"
+    },
+    {
+      "rank": 3,
+      "is_tie": false,
+      "user": "cryptomonk18",
+      "sends": 16,
+      "paid": 400.0,
+      "projected_upx": 500,
+      "seeds": "\ud83c\udf39 Red Tulip"
+    },
+    {
+      "rank": 4,
+      "is_tie": false,
+      "user": "daystraders",
+      "sends": 9,
+      "paid": 225.0,
+      "projected_upx": 400,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
+      "is_tie": false,
+      "user": "iseemore",
+      "sends": 8,
+      "paid": 200.0,
+      "projected_upx": 300,
+      "seeds": ""
+    },
+    {
+      "rank": 6,
+      "is_tie": false,
+      "user": "eddielie",
+      "sends": 6,
+      "paid": 150.0,
+      "projected_upx": 250,
+      "seeds": ""
+    },
+    {
+      "rank": 7,
+      "is_tie": false,
+      "user": "hortiz1653",
+      "sends": 5,
+      "paid": 125.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 8,
+      "is_tie": false,
+      "user": "vines33",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 9,
+      "is_tie": true,
+      "user": "arlen_3d",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 9,
+      "is_tie": true,
+      "user": "yorickpinto",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 200,
+      "seeds": ""
+    }
+  ],
+  "top_props": [
+    {
+      "property_id": 77347984034331,
+      "address": "15739 PLUMMER ST",
+      "city": "Los Angeles",
+      "visits": 38,
+      "earnings": "950.00",
+      "last_visit": "2026-10-29 06:24:54+00"
+    },
+    {
+      "property_id": 77209823672891,
+      "address": "1665 STAUNTON AVE",
+      "city": "Los Angeles",
+      "visits": 27,
+      "earnings": "675.00",
+      "last_visit": "2026-10-29 06:04:55.5+00"
+    },
+    {
+      "property_id": 77223597767081,
+      "address": "560 WALL ST",
+      "city": "Los Angeles",
+      "visits": 26,
+      "earnings": "650.00",
+      "last_visit": "2026-10-29 06:05:58.5+00"
+    },
+    {
+      "property_id": 77213061675672,
+      "address": "930 S ALAMEDA ST",
+      "city": "Los Angeles",
+      "visits": 17,
+      "earnings": "425.00",
+      "last_visit": "2026-10-29 06:07:44+00"
+    },
+    {
+      "property_id": 77365935653894,
+      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "city": "Los Angeles",
+      "visits": 14,
+      "earnings": "350.00",
+      "last_visit": "2026-10-29 06:09:16.5+00"
+    },
+    {
+      "property_id": 77377595819746,
+      "address": "12121 BALBOA BLVD",
+      "city": "Los Angeles",
+      "visits": 11,
+      "earnings": "275.00",
+      "last_visit": "2026-10-29 06:06:39.5+00"
+    }
+  ]
+}

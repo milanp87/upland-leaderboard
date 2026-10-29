@@ -1,5 +1,5 @@
 {
-  "last_sync": "19:07:11 UTC",
+  "last_sync": "19:08:13 UTC",
   "current_day": 8,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -39,20 +39,20 @@
     },
     {
       "rank": 4,
-      "is_tie": false,
+      "is_tie": true,
       "user": "daystraders",
       "sends": 9,
       "paid": 225.0,
-      "projected_upx": 400,
+      "projected_upx": 350,
       "seeds": ""
     },
     {
-      "rank": 5,
-      "is_tie": false,
+      "rank": 4,
+      "is_tie": true,
       "user": "ciberus",
-      "sends": 8,
-      "paid": 200.0,
-      "projected_upx": 300,
+      "sends": 9,
+      "paid": 225.0,
+      "projected_upx": 350,
       "seeds": ""
     },
     {

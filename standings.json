@@ -1,5 +1,5 @@
 {
-  "last_sync": "17:45:12 UTC",
+  "last_sync": "17:46:15 UTC",
   "current_day": 8,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -12,21 +12,21 @@
   "standings": [
     {
       "rank": 1,
-      "is_tie": true,
-      "user": "cryptomonk18",
-      "sends": 26,
-      "paid": 650.0,
-      "projected_upx": 1500,
-      "seeds": "Tied (Rolled over to next day)"
-    },
-    {
-      "rank": 1,
-      "is_tie": true,
+      "is_tie": false,
       "user": "uplanddood",
       "sends": 26,
       "paid": 650.0,
-      "projected_upx": 1500,
-      "seeds": "Tied (Rolled over to next day)"
+      "projected_upx": 2000,
+      "seeds": "\ud83c\udf37 1x White Tulip Seed"
+    },
+    {
+      "rank": 2,
+      "is_tie": false,
+      "user": "cryptomonk18",
+      "sends": 25,
+      "paid": 625.0,
+      "projected_upx": 1000,
+      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
     {
       "rank": 3,
@@ -119,11 +119,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {

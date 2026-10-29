@@ -1,5 +1,5 @@
 {
-  "last_sync": "17:21:23 UTC",
+  "last_sync": "17:22:25 UTC",
   "current_day": 8,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -94,7 +94,7 @@
     {
       "rank": 10,
       "is_tie": false,
-      "user": "onlfne",
+      "user": "yorickpinto",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,
@@ -123,11 +123,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_sync": "21:35:38 UTC",
+  "last_sync": "21:36:40 UTC",
   "current_day": 8,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -119,11 +119,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -151,10 +151,6 @@
       "city": "Los Angeles"
     },
     {
-      "address": "21 PORCHESTER TERRACE",
-      "city": "London"
-    },
-    {
       "address": "17 ORCHARDSON ST",
       "city": "London"
     },
@@ -175,11 +171,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11300 SHOSHONE AVE",
+      "address": "11336 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11336 LOUISE AVE",
+      "address": "16435 ARMSTEAD ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "16834 KNOLLWOOD DR",
       "city": "Los Angeles"
     }
   ],

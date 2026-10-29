@@ -1,5 +1,5 @@
 {
-  "last_sync": "07:46:58 UTC",
+  "last_sync": "07:50:55 UTC",
   "current_day": 7,
   "bubble": 3,
   "seed_rewards": {
@@ -56,20 +56,20 @@
     },
     {
       "rank": 6,
-      "is_tie": false,
+      "is_tie": true,
       "user": "eddielie",
-      "sends": 6,
-      "paid": 150.0,
-      "projected_upx": 250,
+      "sends": 5,
+      "paid": 125.0,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 7,
-      "is_tie": false,
+      "rank": 6,
+      "is_tie": true,
       "user": "hortiz1653",
       "sends": 5,
       "paid": 125.0,
-      "projected_upx": 200,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
@@ -103,103 +103,83 @@
   "popular_props": [
     {
       "address": "15739 PLUMMER ST",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "1665 STAUNTON AVE",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "560 WALL ST",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "930 S ALAMEDA ST",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "18020 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "12121 BALBOA BLVD",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "11849 LOUISE AVE",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "6225 RESEDA BLVD",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "11630 ANDASOL AVE",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "13731 45TH AVE",
-      "city": "Queens",
-      "fee": 25
+      "city": "Queens"
     },
     {
       "address": "11336 LOUISE AVE",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "6167 RESEDA BLVD",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "17137 SUNDERLAND DR",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "11300 SHOSHONE AVE",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "17452 LOS ALIMOS ST",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "16429 FLANDERS ST",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "17425 SAN JOSE ST",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "16435 ARMSTEAD ST",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "10446 PETIT AVE",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     },
     {
       "address": "7633 ETHEL AVE",
-      "city": "Los Angeles",
-      "fee": 25
+      "city": "Los Angeles"
     }
   ],
   "previous_snapshot": null

@@ -1,5 +1,5 @@
 {
-  "last_sync": "22:13:36 UTC",
+  "last_sync": "22:14:38 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -14,8 +14,8 @@
       "rank": 1,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 38,
-      "paid": 945.0,
+      "sends": 39,
+      "paid": 970.0,
       "projected_upx": 2000,
       "seeds": "\ud83c\udf37 1x White Tulip Seed"
     },
@@ -123,15 +123,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
       "address": "11630 ANDASOL AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -143,6 +143,10 @@
       "city": "Los Angeles"
     },
     {
+      "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
       "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
@@ -151,11 +155,7 @@
       "city": "Queens"
     },
     {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "8560 SAN FERNANDO RD",
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     },
     {
@@ -163,7 +163,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6167 RESEDA BLVD",
+      "address": "8560 SAN FERNANDO RD",
       "city": "Los Angeles"
     },
     {
@@ -179,7 +179,7 @@
       "city": "London"
     },
     {
-      "address": "11000 RUFFNER AVE",
+      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     }
   ],

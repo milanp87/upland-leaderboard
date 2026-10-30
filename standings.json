@@ -1,7 +1,7 @@
 {
-  "last_sync": "00:51:33 UTC",
+  "last_sync": "00:52:35 UTC",
   "current_day": 8,
-  "bubble": 3,
+  "bubble": 2,
   "total_prize_pool": 5250,
   "seed_rewards": {
     "p1_seed_text": "\ud83c\udf37 1x White Tulip Seed",
@@ -61,16 +61,7 @@
       "user": "justnft3",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 210,
-      "seeds": ""
-    },
-    {
-      "rank": 6,
-      "is_tie": true,
-      "user": "hortiz1653",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 210,
+      "projected_upx": 212,
       "seeds": ""
     },
     {
@@ -79,7 +70,7 @@
       "user": "yorickpinto",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 210,
+      "projected_upx": 212,
       "seeds": ""
     },
     {
@@ -88,7 +79,7 @@
       "user": "lilyvest",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 210,
+      "projected_upx": 212,
       "seeds": ""
     },
     {
@@ -97,7 +88,16 @@
       "user": "azraelfuz",
       "sends": 3,
       "paid": 70.0,
-      "projected_upx": 210,
+      "projected_upx": 212,
+      "seeds": ""
+    },
+    {
+      "rank": 10,
+      "is_tie": false,
+      "user": "hortiz1653",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 200,
       "seeds": ""
     }
   ],

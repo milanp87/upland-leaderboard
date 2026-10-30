@@ -1,5 +1,5 @@
 {
-  "last_sync": "08:34:45 UTC",
+  "last_sync": "08:35:47 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -22,7 +22,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "pastante",
+      "user": "ciberus",
       "sends": 8,
       "paid": 200.0,
       "projected_upx": 750,
@@ -31,7 +31,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "ciberus",
+      "user": "pastante",
       "sends": 8,
       "paid": 200.0,
       "projected_upx": 750,
@@ -39,29 +39,29 @@
     },
     {
       "rank": 4,
+      "is_tie": false,
+      "user": "uplanddood",
+      "sends": 5,
+      "paid": 120.0,
+      "projected_upx": 400,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
       "is_tie": true,
       "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 317,
+      "projected_upx": 275,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "lilyvest",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 317,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
-      "user": "uplanddood",
-      "sends": 4,
-      "paid": 95.0,
-      "projected_upx": 317,
+      "projected_upx": 275,
       "seeds": ""
     },
     {

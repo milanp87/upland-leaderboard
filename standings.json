@@ -1,5 +1,5 @@
 {
-  "last_sync": "02:05:06 UTC",
+  "last_sync": "02:06:08 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -58,19 +58,10 @@
     {
       "rank": 6,
       "is_tie": true,
-      "user": "justnft3",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 212,
-      "seeds": ""
-    },
-    {
-      "rank": 6,
-      "is_tie": true,
       "user": "yorickpinto",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 212,
+      "projected_upx": 217,
       "seeds": ""
     },
     {
@@ -79,7 +70,7 @@
       "user": "lilyvest",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 212,
+      "projected_upx": 217,
       "seeds": ""
     },
     {
@@ -88,13 +79,22 @@
       "user": "azraelfuz",
       "sends": 3,
       "paid": 70.0,
-      "projected_upx": 212,
+      "projected_upx": 217,
       "seeds": ""
     },
     {
-      "rank": 10,
-      "is_tie": false,
+      "rank": 9,
+      "is_tie": true,
       "user": "hortiz1653",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 9,
+      "is_tie": true,
+      "user": "davoodkvm",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,

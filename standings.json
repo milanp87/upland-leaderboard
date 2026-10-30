@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:45:43 UTC",
+  "last_sync": "12:46:45 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -21,21 +21,21 @@
     },
     {
       "rank": 2,
-      "is_tie": false,
-      "user": "cryptomonk18",
-      "sends": 7,
-      "paid": 175.0,
-      "projected_upx": 1000,
-      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
-    },
-    {
-      "rank": 3,
-      "is_tie": false,
+      "is_tie": true,
       "user": "ciberus",
       "sends": 6,
       "paid": 150.0,
-      "projected_upx": 500,
-      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
+      "projected_upx": 750,
+      "seeds": "Tied (Rolled over to next day)"
+    },
+    {
+      "rank": 2,
+      "is_tie": true,
+      "user": "cryptomonk18",
+      "sends": 6,
+      "paid": 150.0,
+      "projected_upx": 750,
+      "seeds": "Tied (Rolled over to next day)"
     },
     {
       "rank": 4,
@@ -119,11 +119,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
@@ -171,11 +171,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17 ORCHARDSON ST",
-      "city": "London"
+      "address": "10926 LEMAY ST",
+      "city": "Los Angeles"
     },
     {
-      "address": "10926 LEMAY ST",
+      "address": "1206 N AVENUE 54",
       "city": "Los Angeles"
     },
     {

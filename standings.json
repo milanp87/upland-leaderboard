@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:39:30 UTC",
+  "last_sync": "12:40:32 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "cryptomonk18",
-      "sends": 10,
-      "paid": 250.0,
+      "sends": 9,
+      "paid": 225.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -143,10 +143,6 @@
       "city": "Los Angeles"
     },
     {
-      "address": "1206 N AVENUE 54",
-      "city": "Los Angeles"
-    },
-    {
       "address": "17137 SUNDERLAND DR",
       "city": "Los Angeles"
     },
@@ -180,6 +176,10 @@
     },
     {
       "address": "10926 LEMAY ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "16428 GUNTHER ST",
       "city": "Los Angeles"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "last_sync": "02:45:29 UTC",
+  "last_sync": "02:46:32 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -48,47 +48,47 @@
     },
     {
       "rank": 5,
-      "is_tie": false,
+      "is_tie": true,
       "user": "daystraders",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 300,
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 230,
       "seeds": ""
     },
     {
-      "rank": 6,
+      "rank": 5,
       "is_tie": true,
       "user": "bcb_housing",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 212,
+      "projected_upx": 230,
       "seeds": ""
     },
     {
-      "rank": 6,
+      "rank": 5,
       "is_tie": true,
       "user": "yorickpinto",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 212,
+      "projected_upx": 230,
       "seeds": ""
     },
     {
-      "rank": 6,
+      "rank": 5,
       "is_tie": true,
       "user": "lilyvest",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 212,
+      "projected_upx": 230,
       "seeds": ""
     },
     {
-      "rank": 6,
+      "rank": 5,
       "is_tie": true,
       "user": "azraelfuz",
       "sends": 3,
       "paid": 70.0,
-      "projected_upx": 212,
+      "projected_upx": 230,
       "seeds": ""
     },
     {

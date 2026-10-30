@@ -1,7 +1,7 @@
 {
-  "last_sync": "18:14:44 UTC",
+  "last_sync": "18:15:46 UTC",
   "current_day": 9,
-  "bubble": 2,
+  "bubble": 1,
   "total_prize_pool": 5250,
   "seed_rewards": {
     "p1_seed_text": "\ud83c\udf37 1x White Tulip Seed",
@@ -31,7 +31,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "azraelfuz",
+      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 450,
@@ -40,7 +40,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 450,
@@ -61,25 +61,7 @@
       "user": "bcb_housing",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 210,
-      "seeds": ""
-    },
-    {
-      "rank": 6,
-      "is_tie": true,
-      "user": "romanhastati",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 210,
-      "seeds": ""
-    },
-    {
-      "rank": 6,
-      "is_tie": true,
-      "user": "hazbot",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 210,
+      "projected_upx": 212,
       "seeds": ""
     },
     {
@@ -88,7 +70,16 @@
       "user": "iseemore",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 210,
+      "projected_upx": 212,
+      "seeds": ""
+    },
+    {
+      "rank": 6,
+      "is_tie": true,
+      "user": "hazbot",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 212,
       "seeds": ""
     },
     {
@@ -97,7 +88,16 @@
       "user": "hortiz1653",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 210,
+      "projected_upx": 212,
+      "seeds": ""
+    },
+    {
+      "rank": 10,
+      "is_tie": false,
+      "user": "remogulog",
+      "sends": 1,
+      "paid": 25.0,
+      "projected_upx": 200,
       "seeds": ""
     }
   ],

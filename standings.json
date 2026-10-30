@@ -1,7 +1,7 @@
 {
-  "last_sync": "18:11:37 UTC",
+  "last_sync": "18:12:39 UTC",
   "current_day": 9,
-  "bubble": 1,
+  "bubble": 2,
   "total_prize_pool": 5250,
   "seed_rewards": {
     "p1_seed_text": "\ud83c\udf37 1x White Tulip Seed",
@@ -31,7 +31,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 450,
@@ -40,7 +40,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "azraelfuz",
+      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 450,
@@ -61,7 +61,7 @@
       "user": "bcb_housing",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 212,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
@@ -70,7 +70,7 @@
       "user": "romanhastati",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 212,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
@@ -79,7 +79,16 @@
       "user": "hazbot",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 212,
+      "projected_upx": 210,
+      "seeds": ""
+    },
+    {
+      "rank": 6,
+      "is_tie": true,
+      "user": "iseemore",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
@@ -88,16 +97,7 @@
       "user": "hortiz1653",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 212,
-      "seeds": ""
-    },
-    {
-      "rank": 10,
-      "is_tie": false,
-      "user": "remogulog",
-      "sends": 1,
-      "paid": 25.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     }
   ],
@@ -119,7 +119,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
@@ -127,15 +131,11 @@
       "city": "Los Angeles"
     },
     {
+      "address": "11849 LOUISE AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "11630 ANDASOL AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {

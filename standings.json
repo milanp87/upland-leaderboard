@@ -1,5 +1,5 @@
 {
-  "last_sync": "02:38:15 UTC",
+  "last_sync": "02:39:17 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -67,7 +67,7 @@
     {
       "rank": 6,
       "is_tie": true,
-      "user": "lilyvest",
+      "user": "yorickpinto",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 212,
@@ -76,7 +76,7 @@
     {
       "rank": 6,
       "is_tie": true,
-      "user": "yorickpinto",
+      "user": "lilyvest",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 212,
@@ -94,7 +94,7 @@
     {
       "rank": 10,
       "is_tie": false,
-      "user": "hortiz1653",
+      "user": "justnft3",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,

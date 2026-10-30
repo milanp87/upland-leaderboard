@@ -1,5 +1,5 @@
 {
-  "last_sync": "02:55:51 UTC",
+  "last_sync": "02:56:53 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -159,10 +159,6 @@
       "city": "Los Angeles"
     },
     {
-      "address": "966 E PICO BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "17137 SUNDERLAND DR",
       "city": "Los Angeles"
     },
@@ -181,6 +177,10 @@
     {
       "address": "11009 GERALD AVE",
       "city": "Los Angeles"
+    },
+    {
+      "address": "17 ORCHARDSON ST",
+      "city": "London"
     }
   ],
   "previous_snapshot": {

@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:34:18 UTC",
+  "last_sync": "12:35:21 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "cryptomonk18",
-      "sends": 12,
-      "paid": 300.0,
+      "sends": 11,
+      "paid": 275.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -58,16 +58,7 @@
     {
       "rank": 6,
       "is_tie": true,
-      "user": "hortiz1653",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 210,
-      "seeds": ""
-    },
-    {
-      "rank": 6,
-      "is_tie": true,
-      "user": "romanhastati",
+      "user": "dwas",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 210,
@@ -85,7 +76,16 @@
     {
       "rank": 6,
       "is_tie": true,
-      "user": "lilyvest",
+      "user": "romanhastati",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 210,
+      "seeds": ""
+    },
+    {
+      "rank": 6,
+      "is_tie": true,
+      "user": "hortiz1653",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 210,
@@ -119,10 +119,6 @@
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
-      "city": "Los Angeles"
-    },
-    {
       "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
@@ -131,7 +127,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
@@ -143,7 +139,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6167 RESEDA BLVD",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -181,6 +177,10 @@
     {
       "address": "17 ORCHARDSON ST",
       "city": "London"
+    },
+    {
+      "address": "10926 LEMAY ST",
+      "city": "Los Angeles"
     }
   ],
   "previous_snapshot": {

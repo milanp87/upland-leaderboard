@@ -1,5 +1,5 @@
 {
-  "last_sync": "09:26:34 UTC",
+  "last_sync": "09:27:36 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -49,7 +49,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "lilyvest",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 275,
@@ -58,19 +58,10 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "lilyvest",
+      "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 275,
-      "seeds": ""
-    },
-    {
-      "rank": 7,
-      "is_tie": true,
-      "user": "lasvegas2015",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 200,
       "seeds": ""
     },
     {
@@ -95,6 +86,15 @@
       "rank": 7,
       "is_tie": true,
       "user": "romanhastati",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 7,
+      "is_tie": true,
+      "user": "chanda100",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,

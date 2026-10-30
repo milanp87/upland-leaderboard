@@ -1,5 +1,5 @@
 {
-  "last_sync": "22:43:42 UTC",
+  "last_sync": "22:44:44 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -40,7 +40,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "phistr",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 350,
@@ -49,7 +49,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "phistr",
+      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 350,
@@ -76,7 +76,16 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "davoodkvm",
+      "user": "hazbot",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 8,
+      "is_tie": true,
+      "user": "yorickpinto",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -86,15 +95,6 @@
       "rank": 8,
       "is_tie": true,
       "user": "vegas2015",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 8,
-      "is_tie": true,
-      "user": "iseemore",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,

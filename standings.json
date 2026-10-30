@@ -1,5 +1,5 @@
 {
-  "last_sync": "08:55:28 UTC",
+  "last_sync": "08:56:30 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -22,7 +22,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "pastante",
+      "user": "ciberus",
       "sends": 8,
       "paid": 200.0,
       "projected_upx": 750,
@@ -31,7 +31,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "ciberus",
+      "user": "pastante",
       "sends": 8,
       "paid": 200.0,
       "projected_upx": 750,
@@ -49,7 +49,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "lilyvest",
+      "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 275,
@@ -58,7 +58,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "lilyvest",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 275,
@@ -66,15 +66,6 @@
     },
     {
       "rank": 7,
-      "is_tie": false,
-      "user": "azraelfuz",
-      "sends": 3,
-      "paid": 70.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 8,
       "is_tie": true,
       "user": "lasvegas2015",
       "sends": 2,
@@ -83,7 +74,7 @@
       "seeds": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
       "is_tie": true,
       "user": "dwas",
       "sends": 2,
@@ -92,9 +83,18 @@
       "seeds": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
       "is_tie": true,
       "user": "davoodkvm",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 7,
+      "is_tie": true,
+      "user": "romanhastati",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -143,8 +143,8 @@
       "city": "Los Angeles"
     },
     {
-      "address": "13731 45TH AVE",
-      "city": "Queens"
+      "address": "17 ORCHARDSON ST",
+      "city": "London"
     },
     {
       "address": "8560 SAN FERNANDO RD",

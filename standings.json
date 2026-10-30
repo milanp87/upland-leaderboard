@@ -1,5 +1,5 @@
 {
-  "last_sync": "19:00:25 UTC",
+  "last_sync": "19:01:28 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -67,7 +67,7 @@
     {
       "rank": 7,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "hortiz1653",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -115,15 +115,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -131,11 +127,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
       "address": "930 S ALAMEDA ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {

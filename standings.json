@@ -1,5 +1,5 @@
 {
-  "last_sync": "23:41:48 UTC",
+  "last_sync": "23:42:50 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -85,7 +85,7 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "zactowner",
+      "user": "yorickpinto",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -94,7 +94,7 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "hazbot",
+      "user": "vegas2015",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -115,11 +115,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -127,19 +127,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "10926 LEMAY ST",
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
@@ -151,16 +147,16 @@
       "city": "Los Angeles"
     },
     {
+      "address": "10926 LEMAY ST",
+      "city": "Los Angeles"
+    },
+    {
       "address": "13731 45TH AVE",
       "city": "Queens"
     },
     {
       "address": "51 LISSON GROVE",
       "city": "London"
-    },
-    {
-      "address": "1206 N AVENUE 54",
-      "city": "Los Angeles"
     },
     {
       "address": "8560 SAN FERNANDO RD",
@@ -180,6 +176,10 @@
     },
     {
       "address": "16428 GUNTHER ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17136 CEREDO PL",
       "city": "Los Angeles"
     }
   ],

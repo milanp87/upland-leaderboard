@@ -1,5 +1,5 @@
 {
-  "last_sync": "20:34:59 UTC",
+  "last_sync": "20:36:01 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -34,16 +34,7 @@
       "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 400,
-      "seeds": "Tied (Rolled over to next day)"
-    },
-    {
-      "rank": 3,
-      "is_tie": true,
-      "user": "madmac2016",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 400,
+      "projected_upx": 450,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
@@ -52,25 +43,34 @@
       "user": "phistr",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 400,
+      "projected_upx": 450,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "is_tie": true,
       "user": "hortiz1653",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 225,
+      "projected_upx": 250,
       "seeds": ""
     },
     {
-      "rank": 6,
+      "rank": 5,
       "is_tie": true,
       "user": "bcb_housing",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 225,
+      "projected_upx": 250,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
+      "is_tie": true,
+      "user": "madmac2016",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 250,
       "seeds": ""
     },
     {

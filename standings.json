@@ -1,5 +1,5 @@
 {
-  "last_sync": "19:52:23 UTC",
+  "last_sync": "19:53:25 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -31,7 +31,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "azraelfuz",
+      "user": "hortiz1653",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 362,
@@ -49,7 +49,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "phistr",
+      "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 362,
@@ -58,7 +58,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "hortiz1653",
+      "user": "phistr",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 362,
@@ -76,6 +76,15 @@
     {
       "rank": 8,
       "is_tie": true,
+      "user": "davoodkvm",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 8,
+      "is_tie": true,
       "user": "yorickpinto",
       "sends": 2,
       "paid": 50.0,
@@ -86,15 +95,6 @@
       "rank": 8,
       "is_tie": true,
       "user": "paulm71",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 8,
-      "is_tie": true,
-      "user": "vegas2015",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,

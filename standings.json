@@ -1,5 +1,5 @@
 {
-  "last_sync": "16:04:56 UTC",
+  "last_sync": "16:05:58 UTC",
   "current_day": 9,
   "bubble": 1,
   "total_prize_pool": 5250,
@@ -40,7 +40,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "romanhastati",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 258,
@@ -58,7 +58,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "romanhastati",
+      "user": "bcb_housing",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 258,
@@ -94,7 +94,7 @@
     {
       "rank": 10,
       "is_tie": false,
-      "user": "willycash",
+      "user": "lilyvest",
       "sends": 1,
       "paid": 25.0,
       "projected_upx": 200,
@@ -119,11 +119,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "930 S ALAMEDA ST",
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
@@ -135,7 +131,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
@@ -143,20 +143,20 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6167 RESEDA BLVD",
+      "address": "8560 SAN FERNANDO RD",
       "city": "Los Angeles"
     },
     {
-      "address": "21 PORCHESTER TERRACE",
-      "city": "London"
+      "address": "10926 LEMAY ST",
+      "city": "Los Angeles"
     },
     {
       "address": "16428 GUNTHER ST",
       "city": "Los Angeles"
     },
     {
-      "address": "51 LISSON GROVE",
-      "city": "London"
+      "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
     },
     {
       "address": "1206 N AVENUE 54",
@@ -175,12 +175,8 @@
       "city": "Queens"
     },
     {
-      "address": "8560 SAN FERNANDO RD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "10926 LEMAY ST",
-      "city": "Los Angeles"
+      "address": "51 LISSON GROVE",
+      "city": "London"
     }
   ],
   "previous_snapshot": {

@@ -1,5 +1,5 @@
 {
-  "last_sync": "13:52:08 UTC",
+  "last_sync": "13:53:11 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -14,8 +14,8 @@
       "rank": 1,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 28,
-      "paid": 695.0,
+      "sends": 29,
+      "paid": 720.0,
       "projected_upx": 2000,
       "seeds": "\ud83c\udf37 1x White Tulip Seed"
     },
@@ -123,7 +123,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -135,7 +135,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
@@ -143,15 +143,19 @@
       "city": "Los Angeles"
     },
     {
-      "address": "8560 SAN FERNANDO RD",
+      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
+    },
+    {
+      "address": "17 ORCHARDSON ST",
+      "city": "London"
     },
     {
       "address": "16428 GUNTHER ST",
       "city": "Los Angeles"
     },
     {
-      "address": "10926 LEMAY ST",
+      "address": "6167 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -159,8 +163,8 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17 ORCHARDSON ST",
-      "city": "London"
+      "address": "17137 SUNDERLAND DR",
+      "city": "Los Angeles"
     },
     {
       "address": "12412 MARVA AVE",
@@ -177,10 +181,6 @@
     {
       "address": "51 LISSON GROVE",
       "city": "London"
-    },
-    {
-      "address": "17137 SUNDERLAND DR",
-      "city": "Los Angeles"
     }
   ],
   "previous_snapshot": {

@@ -1,5 +1,5 @@
 {
-  "last_sync": "02:16:29 UTC",
+  "last_sync": "02:17:31 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -30,21 +30,21 @@
     },
     {
       "rank": 3,
-      "is_tie": false,
-      "user": "ciberus",
-      "sends": 9,
-      "paid": 225.0,
-      "projected_upx": 500,
-      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
-    },
-    {
-      "rank": 4,
-      "is_tie": false,
+      "is_tie": true,
       "user": "pastante",
       "sends": 8,
       "paid": 200.0,
-      "projected_upx": 400,
-      "seeds": ""
+      "projected_upx": 450,
+      "seeds": "Tied (Rolled over to next day)"
+    },
+    {
+      "rank": 3,
+      "is_tie": true,
+      "user": "ciberus",
+      "sends": 8,
+      "paid": 200.0,
+      "projected_upx": 450,
+      "seeds": "Tied (Rolled over to next day)"
     },
     {
       "rank": 5,

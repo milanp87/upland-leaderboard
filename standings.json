@@ -1,5 +1,5 @@
 {
-  "last_sync": "11:54:53 UTC",
+  "last_sync": "11:55:55 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -12,21 +12,21 @@
   "standings": [
     {
       "rank": 1,
-      "is_tie": true,
+      "is_tie": false,
+      "user": "uplanddood",
+      "sends": 17,
+      "paid": 420.0,
+      "projected_upx": 2000,
+      "seeds": "\ud83c\udf37 1x White Tulip Seed"
+    },
+    {
+      "rank": 2,
+      "is_tie": false,
       "user": "cryptomonk18",
       "sends": 15,
       "paid": 375.0,
-      "projected_upx": 1500,
-      "seeds": "Tied (Rolled over to next day)"
-    },
-    {
-      "rank": 1,
-      "is_tie": true,
-      "user": "uplanddood",
-      "sends": 15,
-      "paid": 370.0,
-      "projected_upx": 1500,
-      "seeds": "Tied (Rolled over to next day)"
+      "projected_upx": 1000,
+      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
     {
       "rank": 3,
@@ -123,19 +123,19 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
       "address": "18020 SAN FERNANDO MISSION BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {

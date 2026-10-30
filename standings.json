@@ -1,5 +1,5 @@
 {
-  "last_sync": "15:06:48 UTC",
+  "last_sync": "15:07:51 UTC",
   "current_day": 8,
   "bubble": 1,
   "total_prize_pool": 5250,
@@ -31,7 +31,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 450,
@@ -40,7 +40,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 450,
@@ -49,16 +49,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "azraelfuz",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 230,
-      "seeds": ""
-    },
-    {
-      "rank": 5,
-      "is_tie": true,
-      "user": "hortiz1653",
+      "user": "romanhastati",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 230,
@@ -76,7 +67,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "romanhastati",
+      "user": "hortiz1653",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 230,
@@ -86,6 +77,15 @@
       "rank": 5,
       "is_tie": true,
       "user": "hazbot",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 230,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
+      "is_tie": true,
+      "user": "azraelfuz",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 230,
@@ -147,7 +147,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17 ORCHARDSON ST",
+      "address": "51 LISSON GROVE",
       "city": "London"
     },
     {
@@ -179,8 +179,8 @@
       "city": "London"
     },
     {
-      "address": "51 LISSON GROVE",
-      "city": "London"
+      "address": "8560 SAN FERNANDO RD",
+      "city": "Los Angeles"
     }
   ],
   "previous_snapshot": {

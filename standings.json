@@ -1,5 +1,5 @@
 {
-  "last_sync": "00:06:59 UTC",
+  "last_sync": "00:08:01 UTC",
   "current_day": 8,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -57,20 +57,20 @@
     },
     {
       "rank": 6,
-      "is_tie": false,
+      "is_tie": true,
       "user": "hortiz1653",
-      "sends": 5,
-      "paid": 125.0,
-      "projected_upx": 250,
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 7,
-      "is_tie": false,
+      "rank": 6,
+      "is_tie": true,
       "user": "azraelfuz",
       "sends": 4,
       "paid": 90.0,
-      "projected_upx": 200,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
@@ -147,6 +147,14 @@
       "city": "Los Angeles"
     },
     {
+      "address": "17 ORCHARDSON ST",
+      "city": "London"
+    },
+    {
+      "address": "16435 ARMSTEAD ST",
+      "city": "Los Angeles"
+    },
+    {
       "address": "16834 KNOLLWOOD DR",
       "city": "Los Angeles"
     },
@@ -172,14 +180,6 @@
     },
     {
       "address": "21 PORCHESTER TERRACE",
-      "city": "London"
-    },
-    {
-      "address": "6929 HESPERIA AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17 ORCHARDSON ST",
       "city": "London"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "last_sync": "11:03:02 UTC",
+  "last_sync": "11:04:04 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -57,47 +57,47 @@
     },
     {
       "rank": 6,
-      "is_tie": false,
+      "is_tie": true,
       "user": "pastante",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 250,
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "is_tie": true,
       "user": "dwas",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "is_tie": true,
       "user": "romanhastati",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "is_tie": true,
       "user": "davoodkvm",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "is_tie": true,
       "user": "chanda100",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     }
   ],
@@ -131,11 +131,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {

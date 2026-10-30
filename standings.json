@@ -1,5 +1,5 @@
 {
-  "last_sync": "02:14:25 UTC",
+  "last_sync": "02:15:27 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -50,8 +50,8 @@
       "rank": 5,
       "is_tie": false,
       "user": "daystraders",
-      "sends": 6,
-      "paid": 150.0,
+      "sends": 5,
+      "paid": 125.0,
       "projected_upx": 300,
       "seeds": ""
     },

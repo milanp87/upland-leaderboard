@@ -1,5 +1,5 @@
 {
-  "last_sync": "19:03:33 UTC",
+  "last_sync": "19:04:35 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -31,7 +31,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "phistr",
+      "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 400,
@@ -49,7 +49,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "azraelfuz",
+      "user": "phistr",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 400,
@@ -57,15 +57,24 @@
     },
     {
       "rank": 6,
-      "is_tie": false,
+      "is_tie": true,
       "user": "ciberus",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 250,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
+      "is_tie": true,
+      "user": "bcb_housing",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 225,
+      "seeds": ""
+    },
+    {
+      "rank": 8,
       "is_tie": true,
       "user": "hortiz1653",
       "sends": 2,
@@ -74,7 +83,7 @@
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 8,
       "is_tie": true,
       "user": "hazbot",
       "sends": 2,
@@ -83,18 +92,9 @@
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 8,
       "is_tie": true,
       "user": "iseemore",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 7,
-      "is_tie": true,
-      "user": "paulm71",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -123,11 +123,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
@@ -160,6 +160,10 @@
     },
     {
       "address": "8560 SAN FERNANDO RD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     },
     {

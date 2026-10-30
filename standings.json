@@ -1,5 +1,5 @@
 {
-  "last_sync": "03:12:27 UTC",
+  "last_sync": "03:13:29 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -143,34 +143,6 @@
       "city": "Queens"
     },
     {
-      "address": "17425 SAN JOSE ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "16435 ARMSTEAD ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "16834 KNOLLWOOD DR",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "6167 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "1206 N AVENUE 54",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17137 SUNDERLAND DR",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "12412 MARVA AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "109 SAINT MARYS AVE",
       "city": "San Francisco"
     },
@@ -179,7 +151,35 @@
       "city": "London"
     },
     {
+      "address": "17 ORCHARDSON ST",
+      "city": "London"
+    },
+    {
+      "address": "1206 N AVENUE 54",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17425 SAN JOSE ST",
+      "city": "Los Angeles"
+    },
+    {
       "address": "11009 GERALD AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "16435 ARMSTEAD ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "16428 GUNTHER ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "16834 KNOLLWOOD DR",
       "city": "Los Angeles"
     }
   ],

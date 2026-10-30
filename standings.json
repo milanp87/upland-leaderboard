@@ -1,5 +1,5 @@
 {
-  "last_sync": "23:46:59 UTC",
+  "last_sync": "23:48:01 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -85,7 +85,7 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "yorickpinto",
+      "user": "zactowner",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -94,7 +94,7 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "vegas2015",
+      "user": "hazbot",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -115,11 +115,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -155,23 +155,7 @@
       "city": "Queens"
     },
     {
-      "address": "51 LISSON GROVE",
-      "city": "London"
-    },
-    {
       "address": "8560 SAN FERNANDO RD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11000 RUFFNER AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11024 PASO ROBLES AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -179,7 +163,23 @@
       "city": "Los Angeles"
     },
     {
+      "address": "11024 PASO ROBLES AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "51 LISSON GROVE",
+      "city": "London"
+    },
+    {
       "address": "17136 CEREDO PL",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "12412 MARVA AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     }
   ],

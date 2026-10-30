@@ -1,5 +1,5 @@
 {
-  "last_sync": "09:33:50 UTC",
+  "last_sync": "09:34:52 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -25,7 +25,7 @@
       "user": "ciberus",
       "sends": 8,
       "paid": 200.0,
-      "projected_upx": 750,
+      "projected_upx": 633,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
@@ -34,17 +34,17 @@
       "user": "pastante",
       "sends": 8,
       "paid": 200.0,
-      "projected_upx": 750,
+      "projected_upx": 633,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 4,
-      "is_tie": false,
+      "rank": 2,
+      "is_tie": true,
       "user": "uplanddood",
-      "sends": 7,
-      "paid": 170.0,
-      "projected_upx": 400,
-      "seeds": ""
+      "sends": 8,
+      "paid": 195.0,
+      "projected_upx": 633,
+      "seeds": "Tied (Rolled over to next day)"
     },
     {
       "rank": 5,

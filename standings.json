@@ -1,5 +1,5 @@
 {
-  "last_sync": "11:31:02 UTC",
+  "last_sync": "11:32:04 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -32,8 +32,8 @@
       "rank": 3,
       "is_tie": false,
       "user": "ciberus",
-      "sends": 8,
-      "paid": 200.0,
+      "sends": 7,
+      "paid": 175.0,
       "projected_upx": 500,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },

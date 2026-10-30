@@ -1,5 +1,5 @@
 {
-  "last_sync": "14:10:47 UTC",
+  "last_sync": "14:11:50 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -39,65 +39,65 @@
     },
     {
       "rank": 4,
+      "is_tie": false,
+      "user": "madmac2016",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 400,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
       "is_tie": true,
       "user": "azraelfuz",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 250,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "dwas",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 250,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 4,
-      "is_tie": true,
-      "user": "romanhastati",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 250,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
-      "user": "hazbot",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 250,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "chanda100",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 250,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "is_tie": true,
+      "user": "romanhastati",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 225,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
       "is_tie": true,
       "user": "hortiz1653",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 250,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "hazbot",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 250,
+      "projected_upx": 225,
       "seeds": ""
     }
   ],

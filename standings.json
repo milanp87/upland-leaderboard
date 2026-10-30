@@ -1,5 +1,5 @@
 {
-  "last_sync": "00:44:18 UTC",
+  "last_sync": "00:45:20 UTC",
   "current_day": 8,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -57,47 +57,47 @@
     },
     {
       "rank": 6,
-      "is_tie": false,
-      "user": "hortiz1653",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 250,
-      "seeds": ""
-    },
-    {
-      "rank": 7,
       "is_tie": true,
       "user": "justnft3",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
+      "is_tie": true,
+      "user": "hortiz1653",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 210,
+      "seeds": ""
+    },
+    {
+      "rank": 6,
       "is_tie": true,
       "user": "yorickpinto",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "is_tie": true,
       "user": "lilyvest",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "is_tie": true,
       "user": "azraelfuz",
       "sends": 3,
       "paid": 70.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     }
   ],
@@ -131,11 +131,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
@@ -144,14 +144,6 @@
     },
     {
       "address": "6167 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17 ORCHARDSON ST",
-      "city": "London"
-    },
-    {
-      "address": "16435 ARMSTEAD ST",
       "city": "Los Angeles"
     },
     {
@@ -180,6 +172,14 @@
     },
     {
       "address": "21 PORCHESTER TERRACE",
+      "city": "London"
+    },
+    {
+      "address": "6929 HESPERIA AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17 ORCHARDSON ST",
       "city": "London"
     }
   ],

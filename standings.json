@@ -1,5 +1,5 @@
 {
-  "last_sync": "08:53:24 UTC",
+  "last_sync": "08:54:26 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -22,7 +22,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "ciberus",
+      "user": "pastante",
       "sends": 8,
       "paid": 200.0,
       "projected_upx": 750,
@@ -31,7 +31,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "pastante",
+      "user": "ciberus",
       "sends": 8,
       "paid": 200.0,
       "projected_upx": 750,
@@ -49,7 +49,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "lilyvest",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 275,
@@ -58,7 +58,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "lilyvest",
+      "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 275,
@@ -85,7 +85,7 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "hortiz1653",
+      "user": "dwas",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -94,7 +94,7 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "dwas",
+      "user": "davoodkvm",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -119,11 +119,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {

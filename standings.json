@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:17:41 UTC",
+  "last_sync": "12:18:43 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -39,29 +39,29 @@
     },
     {
       "rank": 4,
-      "is_tie": true,
+      "is_tie": false,
       "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 350,
+      "projected_upx": 400,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
-      "user": "lilyvest",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 350,
-      "seeds": ""
-    },
-    {
-      "rank": 6,
-      "is_tie": false,
       "user": "azraelfuz",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 250,
+      "projected_upx": 275,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
+      "is_tie": true,
+      "user": "lilyvest",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 275,
       "seeds": ""
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:13:33 UTC",
+  "last_sync": "12:14:35 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -40,7 +40,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "lilyvest",
+      "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 350,
@@ -49,7 +49,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "lilyvest",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 350,
@@ -67,16 +67,7 @@
     {
       "rank": 7,
       "is_tie": true,
-      "user": "dwas",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 7,
-      "is_tie": true,
-      "user": "davoodkvm",
+      "user": "hortiz1653",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -95,6 +86,15 @@
       "rank": 7,
       "is_tie": true,
       "user": "chanda100",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 7,
+      "is_tie": true,
+      "user": "hazbot",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -119,11 +119,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
@@ -143,6 +143,26 @@
       "city": "Los Angeles"
     },
     {
+      "address": "16834 KNOLLWOOD DR",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "1206 N AVENUE 54",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17137 SUNDERLAND DR",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "12412 MARVA AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "109 SAINT MARYS AVE",
       "city": "San Francisco"
     },
@@ -159,27 +179,7 @@
       "city": "London"
     },
     {
-      "address": "17 ORCHARDSON ST",
-      "city": "London"
-    },
-    {
-      "address": "1206 N AVENUE 54",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "6167 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "10926 LEMAY ST",
-      "city": "Los Angeles"
-    },
-    {
       "address": "8560 SAN FERNANDO RD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "16435 ARMSTEAD ST",
       "city": "Los Angeles"
     }
   ],

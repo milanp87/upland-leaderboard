@@ -1,5 +1,5 @@
 {
-  "last_sync": "19:35:45 UTC",
+  "last_sync": "19:36:48 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -34,7 +34,7 @@
       "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 400,
+      "projected_upx": 362,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
@@ -43,7 +43,16 @@
       "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 400,
+      "projected_upx": 362,
+      "seeds": "Tied (Rolled over to next day)"
+    },
+    {
+      "rank": 3,
+      "is_tie": true,
+      "user": "hortiz1653",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 362,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
@@ -52,25 +61,16 @@
       "user": "phistr",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 400,
+      "projected_upx": 362,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 6,
-      "is_tie": true,
-      "user": "hortiz1653",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 225,
-      "seeds": ""
-    },
-    {
-      "rank": 6,
-      "is_tie": true,
+      "rank": 7,
+      "is_tie": false,
       "user": "bcb_housing",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 225,
+      "projected_upx": 200,
       "seeds": ""
     },
     {
@@ -143,6 +143,10 @@
       "city": "Queens"
     },
     {
+      "address": "11009 GERALD AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
@@ -164,10 +168,6 @@
     },
     {
       "address": "11000 RUFFNER AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11009 GERALD AVE",
       "city": "Los Angeles"
     },
     {

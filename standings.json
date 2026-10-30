@@ -1,5 +1,5 @@
 {
-  "last_sync": "11:53:50 UTC",
+  "last_sync": "11:54:53 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -12,21 +12,21 @@
   "standings": [
     {
       "rank": 1,
-      "is_tie": false,
+      "is_tie": true,
       "user": "cryptomonk18",
       "sends": 15,
       "paid": 375.0,
-      "projected_upx": 2000,
-      "seeds": "\ud83c\udf37 1x White Tulip Seed"
+      "projected_upx": 1500,
+      "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 2,
-      "is_tie": false,
+      "rank": 1,
+      "is_tie": true,
       "user": "uplanddood",
-      "sends": 11,
-      "paid": 270.0,
-      "projected_upx": 1000,
-      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
+      "sends": 15,
+      "paid": 370.0,
+      "projected_upx": 1500,
+      "seeds": "Tied (Rolled over to next day)"
     },
     {
       "rank": 3,
@@ -119,11 +119,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {

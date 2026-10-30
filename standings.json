@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:55:03 UTC",
+  "last_sync": "12:56:05 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -49,25 +49,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "cryptomonk18",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 225,
-      "seeds": ""
-    },
-    {
-      "rank": 5,
-      "is_tie": true,
       "user": "dwas",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 225,
-      "seeds": ""
-    },
-    {
-      "rank": 5,
-      "is_tie": true,
-      "user": "chanda100",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 225,
@@ -85,6 +67,24 @@
     {
       "rank": 5,
       "is_tie": true,
+      "user": "hazbot",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 225,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
+      "is_tie": true,
+      "user": "chanda100",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 225,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
+      "is_tie": true,
       "user": "hortiz1653",
       "sends": 2,
       "paid": 50.0,
@@ -94,7 +94,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "hazbot",
+      "user": "madmac2016",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 225,

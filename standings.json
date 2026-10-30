@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:46:45 UTC",
+  "last_sync": "12:47:47 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -21,21 +21,21 @@
     },
     {
       "rank": 2,
-      "is_tie": true,
+      "is_tie": false,
       "user": "ciberus",
       "sends": 6,
       "paid": 150.0,
-      "projected_upx": 750,
-      "seeds": "Tied (Rolled over to next day)"
+      "projected_upx": 1000,
+      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
     {
-      "rank": 2,
-      "is_tie": true,
+      "rank": 3,
+      "is_tie": false,
       "user": "cryptomonk18",
-      "sends": 6,
-      "paid": 150.0,
-      "projected_upx": 750,
-      "seeds": "Tied (Rolled over to next day)"
+      "sends": 5,
+      "paid": 125.0,
+      "projected_upx": 500,
+      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
     {
       "rank": 4,
@@ -119,15 +119,19 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
+      "address": "11630 ANDASOL AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "930 S ALAMEDA ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -139,7 +143,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "1206 N AVENUE 54",
       "city": "Los Angeles"
     },
     {
@@ -149,10 +153,6 @@
     {
       "address": "12412 MARVA AVE",
       "city": "Los Angeles"
-    },
-    {
-      "address": "109 SAINT MARYS AVE",
-      "city": "San Francisco"
     },
     {
       "address": "13731 45TH AVE",
@@ -171,11 +171,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "10926 LEMAY ST",
-      "city": "Los Angeles"
+      "address": "17 ORCHARDSON ST",
+      "city": "London"
     },
     {
-      "address": "1206 N AVENUE 54",
+      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
     {

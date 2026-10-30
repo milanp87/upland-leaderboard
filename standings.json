@@ -1,5 +1,5 @@
 {
-  "last_sync": "08:22:18 UTC",
+  "last_sync": "08:23:20 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -22,7 +22,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "ciberus",
+      "user": "pastante",
       "sends": 8,
       "paid": 200.0,
       "projected_upx": 750,
@@ -31,7 +31,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "pastante",
+      "user": "ciberus",
       "sends": 8,
       "paid": 200.0,
       "projected_upx": 750,
@@ -43,16 +43,7 @@
       "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 317,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
-      "user": "uplanddood",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 317,
+      "projected_upx": 350,
       "seeds": ""
     },
     {
@@ -61,16 +52,25 @@
       "user": "lilyvest",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 317,
+      "projected_upx": 350,
       "seeds": ""
     },
     {
-      "rank": 7,
-      "is_tie": false,
+      "rank": 6,
+      "is_tie": true,
+      "user": "uplanddood",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 225,
+      "seeds": ""
+    },
+    {
+      "rank": 6,
+      "is_tie": true,
       "user": "azraelfuz",
       "sends": 3,
       "paid": 70.0,
-      "projected_upx": 200,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
@@ -127,15 +127,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
       "address": "11630 ANDASOL AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {

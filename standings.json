@@ -1,5 +1,5 @@
 {
-  "last_sync": "08:27:29 UTC",
+  "last_sync": "08:28:31 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -43,7 +43,7 @@
       "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 350,
+      "projected_upx": 317,
       "seeds": ""
     },
     {
@@ -52,25 +52,25 @@
       "user": "lilyvest",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 350,
+      "projected_upx": 317,
       "seeds": ""
     },
     {
-      "rank": 6,
+      "rank": 4,
       "is_tie": true,
       "user": "uplanddood",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 225,
+      "sends": 4,
+      "paid": 95.0,
+      "projected_upx": 317,
       "seeds": ""
     },
     {
-      "rank": 6,
-      "is_tie": true,
+      "rank": 7,
+      "is_tie": false,
       "user": "azraelfuz",
       "sends": 3,
       "paid": 70.0,
-      "projected_upx": 225,
+      "projected_upx": 200,
       "seeds": ""
     },
     {
@@ -143,8 +143,8 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17 ORCHARDSON ST",
-      "city": "London"
+      "address": "13731 45TH AVE",
+      "city": "Queens"
     },
     {
       "address": "8560 SAN FERNANDO RD",

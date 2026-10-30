@@ -1,5 +1,5 @@
 {
-  "last_sync": "18:49:00 UTC",
+  "last_sync": "18:50:02 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -31,7 +31,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "azraelfuz",
+      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 450,
@@ -40,11 +40,20 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 450,
       "seeds": "Tied (Rolled over to next day)"
+    },
+    {
+      "rank": 5,
+      "is_tie": true,
+      "user": "phistr",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 275,
+      "seeds": ""
     },
     {
       "rank": 5,
@@ -56,12 +65,12 @@
       "seeds": ""
     },
     {
-      "rank": 5,
+      "rank": 7,
       "is_tie": true,
-      "user": "phistr",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 275,
+      "user": "bcb_housing",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 200,
       "seeds": ""
     },
     {
@@ -90,15 +99,6 @@
       "paid": 50.0,
       "projected_upx": 200,
       "seeds": ""
-    },
-    {
-      "rank": 7,
-      "is_tie": true,
-      "user": "hortiz1653",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 200,
-      "seeds": ""
     }
   ],
   "popular_props": [
@@ -115,19 +115,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -139,7 +135,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11009 GERALD AVE",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
@@ -147,11 +143,11 @@
       "city": "Queens"
     },
     {
-      "address": "10926 LEMAY ST",
-      "city": "Los Angeles"
+      "address": "51 LISSON GROVE",
+      "city": "London"
     },
     {
-      "address": "16428 GUNTHER ST",
+      "address": "1206 N AVENUE 54",
       "city": "Los Angeles"
     },
     {
@@ -159,19 +155,23 @@
       "city": "Los Angeles"
     },
     {
-      "address": "1206 N AVENUE 54",
+      "address": "10926 LEMAY ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "8560 SAN FERNANDO RD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11009 GERALD AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "16428 GUNTHER ST",
       "city": "Los Angeles"
     },
     {
       "address": "12412 MARVA AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "51 LISSON GROVE",
-      "city": "London"
-    },
-    {
-      "address": "8560 SAN FERNANDO RD",
       "city": "Los Angeles"
     }
   ],

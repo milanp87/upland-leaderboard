@@ -1,5 +1,5 @@
 {
-  "last_sync": "03:40:26 UTC",
+  "last_sync": "03:41:28 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -139,12 +139,16 @@
       "city": "Los Angeles"
     },
     {
-      "address": "13731 45TH AVE",
-      "city": "Queens"
+      "address": "12412 MARVA AVE",
+      "city": "Los Angeles"
     },
     {
       "address": "109 SAINT MARYS AVE",
       "city": "San Francisco"
+    },
+    {
+      "address": "13731 45TH AVE",
+      "city": "Queens"
     },
     {
       "address": "21 PORCHESTER TERRACE",
@@ -176,10 +180,6 @@
     },
     {
       "address": "16428 GUNTHER ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "16834 KNOLLWOOD DR",
       "city": "Los Angeles"
     }
   ],

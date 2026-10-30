@@ -1,5 +1,5 @@
 {
-  "last_sync": "21:48:42 UTC",
+  "last_sync": "21:49:44 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -40,7 +40,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "phistr",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 350,
@@ -49,7 +49,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "phistr",
+      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 350,
@@ -94,7 +94,7 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "paulm71",
+      "user": "vegas2015",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -127,20 +127,16 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
       "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
-    },
-    {
-      "address": "13731 45TH AVE",
-      "city": "Queens"
     },
     {
       "address": "11009 GERALD AVE",
@@ -151,15 +147,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "51 LISSON GROVE",
-      "city": "London"
+      "address": "13731 45TH AVE",
+      "city": "Queens"
     },
     {
-      "address": "1206 N AVENUE 54",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "6167 RESEDA BLVD",
+      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -167,15 +159,27 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11000 RUFFNER AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "16428 GUNTHER ST",
       "city": "Los Angeles"
     },
     {
+      "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "1206 N AVENUE 54",
+      "city": "Los Angeles"
+    },
+    {
       "address": "17136 CEREDO PL",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "51 LISSON GROVE",
+      "city": "London"
+    },
+    {
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     }
   ],

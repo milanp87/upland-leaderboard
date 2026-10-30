@@ -1,5 +1,5 @@
 {
-  "last_sync": "17:16:30 UTC",
+  "last_sync": "17:17:33 UTC",
   "current_day": 9,
   "bubble": 1,
   "total_prize_pool": 5250,
@@ -76,7 +76,7 @@
     {
       "rank": 6,
       "is_tie": true,
-      "user": "hortiz1653",
+      "user": "hazbot",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 212,
@@ -85,7 +85,7 @@
     {
       "rank": 6,
       "is_tie": true,
-      "user": "hazbot",
+      "user": "hortiz1653",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 212,
@@ -94,7 +94,7 @@
     {
       "rank": 10,
       "is_tie": false,
-      "user": "lilyvest",
+      "user": "remogulog",
       "sends": 1,
       "paid": 25.0,
       "projected_upx": 200,
@@ -103,11 +103,11 @@
   ],
   "popular_props": [
     {
-      "address": "1665 STAUNTON AVE",
+      "address": "15739 PLUMMER ST",
       "city": "Los Angeles"
     },
     {
-      "address": "15739 PLUMMER ST",
+      "address": "1665 STAUNTON AVE",
       "city": "Los Angeles"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_sync": "11:20:38 UTC",
+  "last_sync": "11:21:41 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 11,
-      "paid": 270.0,
+      "sends": 10,
+      "paid": 245.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },

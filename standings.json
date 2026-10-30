@@ -1,5 +1,5 @@
 {
-  "last_sync": "22:12:34 UTC",
+  "last_sync": "22:13:36 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -14,8 +14,8 @@
       "rank": 1,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 37,
-      "paid": 920.0,
+      "sends": 38,
+      "paid": 945.0,
       "projected_upx": 2000,
       "seeds": "\ud83c\udf37 1x White Tulip Seed"
     },
@@ -123,15 +123,15 @@
       "city": "Los Angeles"
     },
     {
+      "address": "6225 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
       "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
       "address": "11630 ANDASOL AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {

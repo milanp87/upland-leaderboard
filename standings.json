@@ -1,5 +1,5 @@
 {
-  "last_sync": "05:55:07 UTC",
+  "last_sync": "05:56:10 UTC",
   "current_day": 8,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -76,15 +76,6 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "dwas",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 8,
-      "is_tie": true,
       "user": "lasvegas2015",
       "sends": 2,
       "paid": 50.0,
@@ -94,7 +85,16 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "romanhastati",
+      "user": "hortiz1653",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 8,
+      "is_tie": true,
+      "user": "dwas",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -139,15 +139,19 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11009 GERALD AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "17425 SAN JOSE ST",
       "city": "Los Angeles"
     },
     {
+      "address": "11009 GERALD AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "8560 SAN FERNANDO RD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
     {
@@ -177,10 +181,6 @@
     {
       "address": "12412 MARVA AVE",
       "city": "Los Angeles"
-    },
-    {
-      "address": "109 SAINT MARYS AVE",
-      "city": "San Francisco"
     }
   ],
   "previous_snapshot": {

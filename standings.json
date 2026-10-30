@@ -1,5 +1,5 @@
 {
-  "last_sync": "16:44:24 UTC",
+  "last_sync": "16:45:27 UTC",
   "current_day": 9,
   "bubble": 1,
   "total_prize_pool": 5250,
@@ -39,56 +39,56 @@
     },
     {
       "rank": 4,
+      "is_tie": false,
+      "user": "azraelfuz",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 400,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
       "is_tie": true,
       "user": "romanhastati",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 258,
+      "projected_upx": 230,
       "seeds": ""
     },
     {
-      "rank": 4,
-      "is_tie": true,
-      "user": "chanda100",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 258,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "bcb_housing",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 258,
+      "projected_upx": 230,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "is_tie": true,
+      "user": "chanda100",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 230,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
       "is_tie": true,
       "user": "hortiz1653",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 258,
+      "projected_upx": 230,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "hazbot",
       "sends": 2,
       "paid": 50.0,
-      "projected_upx": 258,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
-      "user": "azraelfuz",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 258,
+      "projected_upx": 230,
       "seeds": ""
     },
     {
@@ -103,11 +103,11 @@
   ],
   "popular_props": [
     {
-      "address": "1665 STAUNTON AVE",
+      "address": "15739 PLUMMER ST",
       "city": "Los Angeles"
     },
     {
-      "address": "15739 PLUMMER ST",
+      "address": "1665 STAUNTON AVE",
       "city": "Los Angeles"
     },
     {

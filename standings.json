@@ -1,5 +1,5 @@
 {
-  "last_sync": "21:48:50 UTC",
+  "last_sync": "21:49:52 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -67,15 +67,6 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "sportdevil",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 250,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
       "user": "azraelfuz",
       "sends": 3,
       "paid": 75.0,
@@ -86,6 +77,15 @@
       "rank": 4,
       "is_tie": true,
       "user": "bcb_housing",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 250,
+      "seeds": ""
+    },
+    {
+      "rank": 4,
+      "is_tie": true,
+      "user": "sportdevil",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 250,
@@ -143,8 +143,12 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
+      "address": "166 20TH AVE",
+      "city": "San Francisco"
+    },
+    {
+      "address": "2452 39TH ST NW",
+      "city": "Washington"
     },
     {
       "address": "4532 170TH ST",
@@ -176,10 +180,6 @@
     },
     {
       "address": "17425 SAN JOSE ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17452 LOS ALIMOS ST",
       "city": "Los Angeles"
     }
   ],

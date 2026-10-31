@@ -1,5 +1,5 @@
 {
-  "last_sync": "15:34:22 UTC",
+  "last_sync": "15:35:24 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -123,11 +123,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -167,6 +167,10 @@
       "city": "Los Angeles"
     },
     {
+      "address": "166 20TH AVE",
+      "city": "San Francisco"
+    },
+    {
       "address": "2452 39TH ST NW",
       "city": "Washington"
     },
@@ -177,10 +181,6 @@
     {
       "address": "10926 LEMAY ST",
       "city": "Los Angeles"
-    },
-    {
-      "address": "338 E 83RD ST",
-      "city": "Manhattan"
     }
   ],
   "previous_snapshot": {

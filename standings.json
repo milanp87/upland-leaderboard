@@ -1,7 +1,7 @@
 {
-  "last_sync": "16:23:08 UTC",
+  "last_sync": "16:24:10 UTC",
   "current_day": 10,
-  "bubble": 2,
+  "bubble": 3,
   "total_prize_pool": 5250,
   "seed_rewards": {
     "p1_seed_text": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed",
@@ -22,15 +22,6 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "hortiz1653",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 490,
-      "seeds": "Tied (Rolled over to next day)"
-    },
-    {
-      "rank": 2,
-      "is_tie": true,
       "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
@@ -40,7 +31,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "hortiz1653",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 490,
@@ -50,6 +41,15 @@
       "rank": 2,
       "is_tie": true,
       "user": "azraelfuz",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 490,
+      "seeds": "Tied (Rolled over to next day)"
+    },
+    {
+      "rank": 2,
+      "is_tie": true,
+      "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 490,
@@ -76,7 +76,7 @@
     {
       "rank": 7,
       "is_tie": true,
-      "user": "jsrl_dee",
+      "user": "onlfne",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,
@@ -92,11 +92,11 @@
       "seeds": ""
     },
     {
-      "rank": 10,
-      "is_tie": false,
-      "user": "qapm",
-      "sends": 2,
-      "paid": 50.0,
+      "rank": 7,
+      "is_tie": true,
+      "user": "jsrl_dee",
+      "sends": 3,
+      "paid": 75.0,
       "projected_upx": 200,
       "seeds": ""
     }
@@ -131,27 +131,23 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "13731 45TH AVE",
       "city": "Queens"
+    },
+    {
+      "address": "11630 ANDASOL AVE",
+      "city": "Los Angeles"
     },
     {
       "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11009 GERALD AVE",
+      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
       "address": "11024 PASO ROBLES AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -181,6 +177,10 @@
     {
       "address": "4532 170TH ST",
       "city": "Queens"
+    },
+    {
+      "address": "11843 LOUISE AVE",
+      "city": "Los Angeles"
     }
   ],
   "previous_snapshot": {

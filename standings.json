@@ -1,5 +1,5 @@
 {
-  "last_sync": "08:44:39 UTC",
+  "last_sync": "08:45:42 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "azraelfuz",
-      "sends": 5,
-      "paid": 125.0,
+      "sends": 6,
+      "paid": 150.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -103,11 +103,11 @@
   ],
   "popular_props": [
     {
-      "address": "1665 STAUNTON AVE",
+      "address": "15739 PLUMMER ST",
       "city": "Los Angeles"
     },
     {
-      "address": "15739 PLUMMER ST",
+      "address": "1665 STAUNTON AVE",
       "city": "Los Angeles"
     },
     {

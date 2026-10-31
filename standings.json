@@ -1,7 +1,7 @@
 {
-  "last_sync": "20:24:48 UTC",
+  "last_sync": "20:25:50 UTC",
   "current_day": 10,
-  "bubble": 2,
+  "bubble": 3,
   "total_prize_pool": 5250,
   "seed_rewards": {
     "p1_seed_text": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed",
@@ -25,7 +25,7 @@
       "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 750,
+      "projected_upx": 633,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
@@ -34,70 +34,70 @@
       "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 750,
+      "projected_upx": 633,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "is_tie": true,
-      "user": "spidertj",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 258,
-      "seeds": ""
+      "user": "cryptomonk18",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 633,
+      "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "onlfne",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "qapm",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
-      "user": "tiamar",
+      "user": "sportdevil",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 4,
-      "is_tie": true,
-      "user": "cryptomonk18",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 258,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "bcb_housing",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 10,
-      "is_tie": false,
-      "user": "aview1",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 200,
+      "rank": 5,
+      "is_tie": true,
+      "user": "tiamar",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 225,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
+      "is_tie": true,
+      "user": "spidertj",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 225,
       "seeds": ""
     }
   ],
@@ -127,10 +127,6 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "13731 45TH AVE",
       "city": "Queens"
     },
@@ -139,11 +135,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
       "address": "17239 SAN FERNANDO MISSION BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
@@ -155,11 +155,15 @@
       "city": "Manhattan"
     },
     {
+      "address": "33 ORSETT TERRACE",
+      "city": "London"
+    },
+    {
       "address": "750 85TH ST",
       "city": "Miami Beach"
     },
     {
-      "address": "33 ORSETT TERRACE",
+      "address": "17 ORCHARDSON ST",
       "city": "London"
     },
     {
@@ -176,10 +180,6 @@
     },
     {
       "address": "17452 LOS ALIMOS ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11009 GERALD AVE",
       "city": "Los Angeles"
     }
   ],

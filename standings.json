@@ -1,5 +1,5 @@
 {
-  "last_sync": "13:57:55 UTC",
+  "last_sync": "13:58:58 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -67,6 +67,15 @@
     {
       "rank": 7,
       "is_tie": true,
+      "user": "tiamar",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 7,
+      "is_tie": true,
       "user": "iseemore",
       "sends": 3,
       "paid": 75.0,
@@ -83,18 +92,9 @@
       "seeds": ""
     },
     {
-      "rank": 7,
-      "is_tie": true,
-      "user": "tiamar",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
       "rank": 10,
       "is_tie": false,
-      "user": "sportdevil",
+      "user": "davoodkvm",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -103,11 +103,11 @@
   ],
   "popular_props": [
     {
-      "address": "15739 PLUMMER ST",
+      "address": "1665 STAUNTON AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "1665 STAUNTON AVE",
+      "address": "15739 PLUMMER ST",
       "city": "Los Angeles"
     },
     {

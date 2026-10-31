@@ -1,5 +1,5 @@
 {
-  "last_sync": "19:22:36 UTC",
+  "last_sync": "19:23:38 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -43,7 +43,7 @@
       "user": "onlfne",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 288,
+      "projected_upx": 317,
       "seeds": ""
     },
     {
@@ -52,16 +52,7 @@
       "user": "tiamar",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 288,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
-      "user": "hortiz1653",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 288,
+      "projected_upx": 317,
       "seeds": ""
     },
     {
@@ -70,11 +61,11 @@
       "user": "bcb_housing",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 288,
+      "projected_upx": 317,
       "seeds": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
       "is_tie": true,
       "user": "qapm",
       "sends": 2,
@@ -83,7 +74,7 @@
       "seeds": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
       "is_tie": true,
       "user": "aview1",
       "sends": 2,
@@ -92,9 +83,18 @@
       "seeds": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
       "is_tie": true,
       "user": "zactowner",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 7,
+      "is_tie": true,
+      "user": "sportdevil",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -127,11 +127,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
@@ -139,7 +139,7 @@
       "city": "Queens"
     },
     {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
+      "address": "11009 GERALD AVE",
       "city": "Los Angeles"
     },
     {
@@ -147,15 +147,27 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11009 GERALD AVE",
+      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "11843 LOUISE AVE",
-      "city": "Los Angeles"
+      "address": "750 85TH ST",
+      "city": "Miami Beach"
+    },
+    {
+      "address": "33 ORSETT TERRACE",
+      "city": "London"
     },
     {
       "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17425 SAN JOSE ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17452 LOS ALIMOS ST",
       "city": "Los Angeles"
     },
     {
@@ -163,24 +175,12 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12412 MARVA AVE",
+      "address": "11843 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "166 20TH AVE",
-      "city": "San Francisco"
-    },
-    {
-      "address": "2452 39TH ST NW",
-      "city": "Washington"
-    },
-    {
-      "address": "33 ORSETT TERRACE",
-      "city": "London"
-    },
-    {
-      "address": "4532 170TH ST",
-      "city": "Queens"
+      "address": "17136 CEREDO PL",
+      "city": "Los Angeles"
     }
   ],
   "previous_snapshot": {

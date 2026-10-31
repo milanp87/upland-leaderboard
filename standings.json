@@ -1,5 +1,5 @@
 {
-  "last_sync": "13:02:56 UTC",
+  "last_sync": "13:03:58 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -30,39 +30,39 @@
     },
     {
       "rank": 3,
-      "is_tie": false,
-      "user": "azraelfuz",
-      "sends": 5,
-      "paid": 125.0,
-      "projected_upx": 500,
-      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
-    },
-    {
-      "rank": 4,
       "is_tie": true,
       "user": "hortiz1653",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 317,
-      "seeds": ""
+      "projected_upx": 362,
+      "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "is_tie": true,
       "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 317,
-      "seeds": ""
+      "projected_upx": 362,
+      "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 4,
+      "rank": 3,
+      "is_tie": true,
+      "user": "azraelfuz",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 362,
+      "seeds": "Tied (Rolled over to next day)"
+    },
+    {
+      "rank": 3,
       "is_tie": true,
       "user": "phistr",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 317,
-      "seeds": ""
+      "projected_upx": 362,
+      "seeds": "Tied (Rolled over to next day)"
     },
     {
       "rank": 7,
@@ -103,11 +103,11 @@
   ],
   "popular_props": [
     {
-      "address": "1665 STAUNTON AVE",
+      "address": "15739 PLUMMER ST",
       "city": "Los Angeles"
     },
     {
-      "address": "15739 PLUMMER ST",
+      "address": "1665 STAUNTON AVE",
       "city": "Los Angeles"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_sync": "22:13:43 UTC",
+  "last_sync": "22:14:45 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -14,8 +14,8 @@
       "rank": 1,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 21,
-      "paid": 525.0,
+      "sends": 20,
+      "paid": 500.0,
       "projected_upx": 2000,
       "seeds": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed"
     },
@@ -127,11 +127,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
@@ -141,10 +141,6 @@
     {
       "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
-    },
-    {
-      "address": "166 20TH AVE",
-      "city": "San Francisco"
     },
     {
       "address": "2452 39TH ST NW",
@@ -171,15 +167,19 @@
       "city": "London"
     },
     {
-      "address": "6167 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "8247 MORSE AVE",
       "city": "Los Angeles"
     },
     {
       "address": "17425 SAN JOSE ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17452 LOS ALIMOS ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11009 GERALD AVE",
       "city": "Los Angeles"
     }
   ],

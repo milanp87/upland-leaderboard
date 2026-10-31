@@ -1,5 +1,5 @@
 {
-  "last_sync": "21:31:11 UTC",
+  "last_sync": "21:32:13 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "cryptomonk18",
-      "sends": 12,
-      "paid": 300.0,
+      "sends": 13,
+      "paid": 325.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -131,12 +131,12 @@
       "city": "Los Angeles"
     },
     {
-      "address": "13731 45TH AVE",
-      "city": "Queens"
-    },
-    {
       "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
+    },
+    {
+      "address": "13731 45TH AVE",
+      "city": "Queens"
     },
     {
       "address": "11849 LOUISE AVE",

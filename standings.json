@@ -1,5 +1,5 @@
 {
-  "last_sync": "20:16:31 UTC",
+  "last_sync": "20:17:33 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -22,7 +22,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "jsrl_dee",
+      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 750,
@@ -31,7 +31,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 750,
@@ -43,7 +43,7 @@
       "user": "onlfne",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 288,
+      "projected_upx": 270,
       "seeds": ""
     },
     {
@@ -52,16 +52,7 @@
       "user": "tiamar",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 288,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
-      "user": "bcb_housing",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 288,
+      "projected_upx": 270,
       "seeds": ""
     },
     {
@@ -70,11 +61,29 @@
       "user": "spidertj",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 288,
+      "projected_upx": 270,
       "seeds": ""
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "is_tie": true,
+      "user": "cryptomonk18",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 270,
+      "seeds": ""
+    },
+    {
+      "rank": 4,
+      "is_tie": true,
+      "user": "bcb_housing",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 270,
+      "seeds": ""
+    },
+    {
+      "rank": 9,
       "is_tie": true,
       "user": "qapm",
       "sends": 2,
@@ -83,18 +92,9 @@
       "seeds": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "is_tie": true,
       "user": "aview1",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 8,
-      "is_tie": true,
-      "user": "tygrartz",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,

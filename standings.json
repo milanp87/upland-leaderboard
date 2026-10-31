@@ -1,5 +1,5 @@
 {
-  "last_sync": "14:12:26 UTC",
+  "last_sync": "14:13:29 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -21,47 +21,47 @@
     },
     {
       "rank": 2,
-      "is_tie": false,
-      "user": "madmac2016",
-      "sends": 5,
-      "paid": 125.0,
-      "projected_upx": 1000,
-      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
-    },
-    {
-      "rank": 3,
       "is_tie": true,
       "user": "hortiz1653",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 362,
+      "projected_upx": 490,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 3,
-      "is_tie": true,
-      "user": "bcb_housing",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 362,
-      "seeds": "Tied (Rolled over to next day)"
-    },
-    {
-      "rank": 3,
+      "rank": 2,
       "is_tie": true,
       "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 362,
+      "projected_upx": 490,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 3,
+      "rank": 2,
+      "is_tie": true,
+      "user": "bcb_housing",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 490,
+      "seeds": "Tied (Rolled over to next day)"
+    },
+    {
+      "rank": 2,
+      "is_tie": true,
+      "user": "madmac2016",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 490,
+      "seeds": "Tied (Rolled over to next day)"
+    },
+    {
+      "rank": 2,
       "is_tie": true,
       "user": "phistr",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 362,
+      "projected_upx": 490,
       "seeds": "Tied (Rolled over to next day)"
     },
     {

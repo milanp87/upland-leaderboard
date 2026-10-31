@@ -1,5 +1,5 @@
 {
-  "last_sync": "01:29:39 UTC",
+  "last_sync": "01:30:41 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -139,7 +139,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6167 RESEDA BLVD",
+      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
     {
@@ -147,23 +147,15 @@
       "city": "Los Angeles"
     },
     {
+      "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
       "address": "13731 45TH AVE",
       "city": "Queens"
     },
     {
-      "address": "10926 LEMAY ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "51 LISSON GROVE",
-      "city": "London"
-    },
-    {
-      "address": "8560 SAN FERNANDO RD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17425 SAN JOSE ST",
+      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -171,15 +163,23 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11024 PASO ROBLES AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "16428 GUNTHER ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17425 SAN JOSE ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "8560 SAN FERNANDO RD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17136 CEREDO PL",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "12412 MARVA AVE",
       "city": "Los Angeles"
     }
   ],

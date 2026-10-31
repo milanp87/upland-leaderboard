@@ -1,5 +1,5 @@
 {
-  "last_sync": "08:27:00 UTC",
+  "last_sync": "08:28:02 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -14,8 +14,8 @@
       "rank": 1,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 56,
-      "paid": 1395.0,
+      "sends": 55,
+      "paid": 1375.0,
       "projected_upx": 2000,
       "seeds": "\ud83c\udf37 1x White Tulip Seed"
     },
@@ -103,11 +103,11 @@
   ],
   "popular_props": [
     {
-      "address": "1665 STAUNTON AVE",
+      "address": "15739 PLUMMER ST",
       "city": "Los Angeles"
     },
     {
-      "address": "15739 PLUMMER ST",
+      "address": "1665 STAUNTON AVE",
       "city": "Los Angeles"
     },
     {
@@ -119,15 +119,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
       "address": "930 S ALAMEDA ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -139,12 +139,16 @@
       "city": "Los Angeles"
     },
     {
+      "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
       "address": "13731 45TH AVE",
       "city": "Queens"
     },
     {
-      "address": "6167 RESEDA BLVD",
-      "city": "Los Angeles"
+      "address": "4532 170TH ST",
+      "city": "Queens"
     },
     {
       "address": "338 E 83RD ST",
@@ -176,10 +180,6 @@
     },
     {
       "address": "11024 PASO ROBLES AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     }
   ],

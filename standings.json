@@ -1,6 +1,6 @@
 {
-  "last_sync": "15:59:16 UTC",
-  "current_day": 9,
+  "last_sync": "16:00:18 UTC",
+  "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
   "seed_rewards": {
@@ -184,96 +184,96 @@
     }
   ],
   "previous_snapshot": {
-    "day": 8,
-    "date": "Oct 30, 2026",
+    "day": 9,
+    "date": "Oct 31, 2026",
     "standings": [
       {
         "rank": 1,
         "is_tie": false,
         "user": "uplanddood",
-        "sends": 29,
-        "paid": 720.0,
+        "sends": 30,
+        "paid": 750.0,
         "projected_upx": 2000,
         "seeds": "\ud83c\udf37 1x White Tulip Seed"
       },
       {
         "rank": 2,
-        "is_tie": false,
-        "user": "ciberus",
-        "sends": 5,
-        "paid": 125.0,
-        "projected_upx": 1000,
-        "seeds": "\ud83c\udf39 1x Red Tulip Seed"
+        "is_tie": true,
+        "user": "azraelfuz",
+        "sends": 4,
+        "paid": 100.0,
+        "projected_upx": 490,
+        "seeds": "Tied (Rolled over to next day)"
       },
       {
-        "rank": 3,
-        "is_tie": false,
+        "rank": 2,
+        "is_tie": true,
         "user": "madmac2016",
         "sends": 4,
         "paid": 100.0,
-        "projected_upx": 500,
-        "seeds": "\ud83c\udf39 1x Red Tulip Seed"
+        "projected_upx": 490,
+        "seeds": "Tied (Rolled over to next day)"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "is_tie": true,
         "user": "bcb_housing",
-        "sends": 2,
-        "paid": 50.0,
-        "projected_upx": 258,
-        "seeds": ""
+        "sends": 4,
+        "paid": 100.0,
+        "projected_upx": 490,
+        "seeds": "Tied (Rolled over to next day)"
       },
       {
-        "rank": 4,
-        "is_tie": true,
-        "user": "chanda100",
-        "sends": 2,
-        "paid": 50.0,
-        "projected_upx": 258,
-        "seeds": ""
-      },
-      {
-        "rank": 4,
-        "is_tie": true,
-        "user": "romanhastati",
-        "sends": 2,
-        "paid": 50.0,
-        "projected_upx": 258,
-        "seeds": ""
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "is_tie": true,
         "user": "hortiz1653",
-        "sends": 2,
-        "paid": 50.0,
-        "projected_upx": 258,
-        "seeds": ""
+        "sends": 4,
+        "paid": 100.0,
+        "projected_upx": 490,
+        "seeds": "Tied (Rolled over to next day)"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "is_tie": true,
-        "user": "hazbot",
-        "sends": 2,
-        "paid": 50.0,
-        "projected_upx": 258,
-        "seeds": ""
+        "user": "phistr",
+        "sends": 4,
+        "paid": 100.0,
+        "projected_upx": 490,
+        "seeds": "Tied (Rolled over to next day)"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "is_tie": true,
-        "user": "azraelfuz",
-        "sends": 2,
-        "paid": 50.0,
-        "projected_upx": 258,
+        "user": "tiamar",
+        "sends": 3,
+        "paid": 75.0,
+        "projected_upx": 200,
         "seeds": ""
       },
       {
-        "rank": 10,
-        "is_tie": false,
-        "user": "willycash",
-        "sends": 1,
-        "paid": 25.0,
+        "rank": 7,
+        "is_tie": true,
+        "user": "chanda100",
+        "sends": 3,
+        "paid": 75.0,
+        "projected_upx": 200,
+        "seeds": ""
+      },
+      {
+        "rank": 9,
+        "is_tie": true,
+        "user": "qapm",
+        "sends": 2,
+        "paid": 50.0,
+        "projected_upx": 200,
+        "seeds": ""
+      },
+      {
+        "rank": 9,
+        "is_tie": true,
+        "user": "yorickpinto",
+        "sends": 2,
+        "paid": 50.0,
         "projected_upx": 200,
         "seeds": ""
       }

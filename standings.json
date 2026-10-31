@@ -1,5 +1,5 @@
 {
-  "last_sync": "20:17:33 UTC",
+  "last_sync": "20:18:35 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -22,7 +22,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 750,
@@ -31,7 +31,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "jsrl_dee",
+      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 750,
@@ -40,10 +40,28 @@
     {
       "rank": 4,
       "is_tie": true,
+      "user": "spidertj",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 258,
+      "seeds": ""
+    },
+    {
+      "rank": 4,
+      "is_tie": true,
       "user": "onlfne",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 270,
+      "projected_upx": 258,
+      "seeds": ""
+    },
+    {
+      "rank": 4,
+      "is_tie": true,
+      "user": "qapm",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 258,
       "seeds": ""
     },
     {
@@ -52,16 +70,7 @@
       "user": "tiamar",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 270,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
-      "user": "spidertj",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 270,
+      "projected_upx": 258,
       "seeds": ""
     },
     {
@@ -70,7 +79,7 @@
       "user": "cryptomonk18",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 270,
+      "projected_upx": 258,
       "seeds": ""
     },
     {
@@ -79,21 +88,12 @@
       "user": "bcb_housing",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 270,
+      "projected_upx": 258,
       "seeds": ""
     },
     {
-      "rank": 9,
-      "is_tie": true,
-      "user": "qapm",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 9,
-      "is_tie": true,
+      "rank": 10,
+      "is_tie": false,
       "user": "aview1",
       "sends": 2,
       "paid": 50.0,
@@ -127,7 +127,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -135,7 +135,7 @@
       "city": "Queens"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
@@ -145,6 +145,10 @@
     {
       "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
+    },
+    {
+      "address": "4532 170TH ST",
+      "city": "Queens"
     },
     {
       "address": "338 E 83RD ST",
@@ -163,6 +167,10 @@
       "city": "Los Angeles"
     },
     {
+      "address": "8247 MORSE AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "17425 SAN JOSE ST",
       "city": "Los Angeles"
     },
@@ -172,14 +180,6 @@
     },
     {
       "address": "11009 GERALD AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11024 PASO ROBLES AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11843 LOUISE AVE",
       "city": "Los Angeles"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "last_sync": "20:44:30 UTC",
+  "last_sync": "20:45:32 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -30,74 +30,74 @@
     },
     {
       "rank": 3,
-      "is_tie": true,
+      "is_tie": false,
       "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 450,
-      "seeds": "Tied (Rolled over to next day)"
+      "projected_upx": 500,
+      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
     {
-      "rank": 3,
-      "is_tie": true,
-      "user": "madmac2016",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 450,
-      "seeds": "Tied (Rolled over to next day)"
-    },
-    {
-      "rank": 5,
+      "rank": 4,
       "is_tie": true,
       "user": "onlfne",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 225,
+      "projected_upx": 250,
       "seeds": ""
     },
     {
-      "rank": 5,
+      "rank": 4,
+      "is_tie": true,
+      "user": "madmac2016",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 250,
+      "seeds": ""
+    },
+    {
+      "rank": 4,
       "is_tie": true,
       "user": "qapm",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 225,
+      "projected_upx": 250,
       "seeds": ""
     },
     {
-      "rank": 5,
-      "is_tie": true,
-      "user": "sportdevil",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 225,
-      "seeds": ""
-    },
-    {
-      "rank": 5,
+      "rank": 4,
       "is_tie": true,
       "user": "bcb_housing",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 225,
+      "projected_upx": 250,
       "seeds": ""
     },
     {
-      "rank": 5,
+      "rank": 4,
       "is_tie": true,
       "user": "tiamar",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 225,
+      "projected_upx": 250,
       "seeds": ""
     },
     {
-      "rank": 5,
+      "rank": 4,
+      "is_tie": true,
+      "user": "sportdevil",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 250,
+      "seeds": ""
+    },
+    {
+      "rank": 4,
       "is_tie": true,
       "user": "spidertj",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 225,
+      "projected_upx": 250,
       "seeds": ""
     }
   ],

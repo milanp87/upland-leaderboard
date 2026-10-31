@@ -1,5 +1,5 @@
 {
-  "last_sync": "09:38:36 UTC",
+  "last_sync": "09:39:38 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -14,8 +14,8 @@
       "rank": 1,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 50,
-      "paid": 1250.0,
+      "sends": 49,
+      "paid": 1225.0,
       "projected_upx": 2000,
       "seeds": "\ud83c\udf37 1x White Tulip Seed"
     },
@@ -119,11 +119,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {

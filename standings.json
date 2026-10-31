@@ -1,5 +1,5 @@
 {
-  "last_sync": "16:24:10 UTC",
+  "last_sync": "16:25:13 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -22,10 +22,10 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 490,
+      "projected_upx": 442,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
@@ -34,7 +34,7 @@
       "user": "hortiz1653",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 490,
+      "projected_upx": 442,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
@@ -43,16 +43,16 @@
       "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 490,
+      "projected_upx": 442,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
       "rank": 2,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 490,
+      "projected_upx": 442,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
@@ -61,11 +61,20 @@
       "user": "phistr",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 490,
+      "projected_upx": 442,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 7,
+      "rank": 2,
+      "is_tie": true,
+      "user": "jsrl_dee",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 442,
+      "seeds": "Tied (Rolled over to next day)"
+    },
+    {
+      "rank": 8,
       "is_tie": true,
       "user": "tiamar",
       "sends": 3,
@@ -74,7 +83,7 @@
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 8,
       "is_tie": true,
       "user": "onlfne",
       "sends": 3,
@@ -83,18 +92,9 @@
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 8,
       "is_tie": true,
       "user": "chanda100",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 7,
-      "is_tie": true,
-      "user": "jsrl_dee",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,
@@ -131,11 +131,15 @@
       "city": "Los Angeles"
     },
     {
+      "address": "11630 ANDASOL AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "13731 45TH AVE",
       "city": "Queens"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -143,20 +147,24 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
+      "address": "11024 PASO ROBLES AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11024 PASO ROBLES AVE",
+      "address": "17425 SAN JOSE ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11843 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
       "address": "10926 LEMAY ST",
       "city": "Los Angeles"
-    },
-    {
-      "address": "338 E 83RD ST",
-      "city": "Manhattan"
     },
     {
       "address": "17136 CEREDO PL",
@@ -173,14 +181,6 @@
     {
       "address": "2452 39TH ST NW",
       "city": "Washington"
-    },
-    {
-      "address": "4532 170TH ST",
-      "city": "Queens"
-    },
-    {
-      "address": "11843 LOUISE AVE",
-      "city": "Los Angeles"
     }
   ],
   "previous_snapshot": {

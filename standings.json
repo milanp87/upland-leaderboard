@@ -1,5 +1,5 @@
 {
-  "last_sync": "22:37:33 UTC",
+  "last_sync": "22:38:35 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -40,7 +40,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "tiamar",
+      "user": "onlfne",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 250,
@@ -58,7 +58,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "onlfne",
+      "user": "tiamar",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 250,
@@ -119,19 +119,19 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
       "address": "6225 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
@@ -140,6 +140,10 @@
     },
     {
       "address": "11849 LOUISE AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "12412 MARVA AVE",
       "city": "Los Angeles"
     },
     {
@@ -176,10 +180,6 @@
     },
     {
       "address": "8247 MORSE AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17425 SAN JOSE ST",
       "city": "Los Angeles"
     }
   ],

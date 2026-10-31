@@ -1,5 +1,5 @@
 {
-  "last_sync": "06:13:18 UTC",
+  "last_sync": "06:14:21 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -58,7 +58,7 @@
     {
       "rank": 6,
       "is_tie": true,
-      "user": "chanda100",
+      "user": "bcb_housing",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 217,
@@ -76,7 +76,7 @@
     {
       "rank": 6,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "chanda100",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 217,
@@ -94,7 +94,7 @@
     {
       "rank": 9,
       "is_tie": true,
-      "user": "yorickpinto",
+      "user": "vegas2015",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,

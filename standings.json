@@ -1,5 +1,5 @@
 {
-  "last_sync": "05:54:33 UTC",
+  "last_sync": "05:55:35 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -119,15 +119,15 @@
       "city": "Los Angeles"
     },
     {
+      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "city": "Los Angeles"
+    },
+    {
       "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
       "address": "930 S ALAMEDA ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -143,7 +143,7 @@
       "city": "Queens"
     },
     {
-      "address": "10926 LEMAY ST",
+      "address": "11009 GERALD AVE",
       "city": "Los Angeles"
     },
     {
@@ -151,12 +151,12 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11009 GERALD AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "51 LISSON GROVE",
       "city": "London"
+    },
+    {
+      "address": "10926 LEMAY ST",
+      "city": "Los Angeles"
     },
     {
       "address": "17425 SAN JOSE ST",

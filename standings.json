@@ -1,5 +1,5 @@
 {
-  "last_sync": "17:35:45 UTC",
+  "last_sync": "17:36:48 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -127,16 +127,16 @@
       "city": "Los Angeles"
     },
     {
+      "address": "13731 45TH AVE",
+      "city": "Queens"
+    },
+    {
       "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
       "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
-    },
-    {
-      "address": "13731 45TH AVE",
-      "city": "Queens"
     },
     {
       "address": "17239 SAN FERNANDO MISSION BLVD",

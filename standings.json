@@ -1,5 +1,5 @@
 {
-  "last_sync": "11:08:49 UTC",
+  "last_sync": "11:09:51 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -22,7 +22,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "azraelfuz",
       "sends": 6,
       "paid": 150.0,
       "projected_upx": 750,
@@ -31,7 +31,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "azraelfuz",
+      "user": "madmac2016",
       "sends": 6,
       "paid": 150.0,
       "projected_upx": 750,
@@ -67,7 +67,7 @@
     {
       "rank": 7,
       "is_tie": true,
-      "user": "iseemore",
+      "user": "chanda100",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,
@@ -76,7 +76,7 @@
     {
       "rank": 7,
       "is_tie": true,
-      "user": "chanda100",
+      "user": "iseemore",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,
@@ -119,15 +119,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
       "address": "930 S ALAMEDA ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -141,6 +141,10 @@
     {
       "address": "6167 RESEDA BLVD",
       "city": "Los Angeles"
+    },
+    {
+      "address": "2452 39TH ST NW",
+      "city": "Washington"
     },
     {
       "address": "13731 45TH AVE",
@@ -176,10 +180,6 @@
     },
     {
       "address": "11024 PASO ROBLES AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     }
   ],

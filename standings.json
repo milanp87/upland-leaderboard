@@ -1,5 +1,5 @@
 {
-  "last_sync": "23:47:00 UTC",
+  "last_sync": "23:48:02 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -49,6 +49,15 @@
     {
       "rank": 4,
       "is_tie": true,
+      "user": "tiamar",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 258,
+      "seeds": ""
+    },
+    {
+      "rank": 4,
+      "is_tie": true,
       "user": "qapm",
       "sends": 3,
       "paid": 75.0,
@@ -58,7 +67,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "sportdevil",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 258,
@@ -76,16 +85,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "tiamar",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 258,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
-      "user": "sportdevil",
+      "user": "bcb_housing",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 258,
@@ -115,7 +115,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -123,15 +123,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11630 ANDASOL AVE",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
       "address": "6225 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
@@ -141,10 +141,6 @@
     {
       "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
-    },
-    {
-      "address": "166 20TH AVE",
-      "city": "San Francisco"
     },
     {
       "address": "2452 39TH ST NW",
@@ -180,6 +176,10 @@
     },
     {
       "address": "17452 LOS ALIMOS ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     }
   ],

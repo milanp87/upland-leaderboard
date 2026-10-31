@@ -1,5 +1,5 @@
 {
-  "last_sync": "18:19:21 UTC",
+  "last_sync": "18:20:23 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -22,16 +22,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "jsrl_dee",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 550,
-      "seeds": "Tied (Rolled over to next day)"
-    },
-    {
-      "rank": 2,
-      "is_tie": true,
-      "user": "madmac2016",
+      "user": "hortiz1653",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 550,
@@ -49,7 +40,16 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "hortiz1653",
+      "user": "madmac2016",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 550,
+      "seeds": "Tied (Rolled over to next day)"
+    },
+    {
+      "rank": 2,
+      "is_tie": true,
+      "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 550,
@@ -58,32 +58,23 @@
     {
       "rank": 6,
       "is_tie": true,
-      "user": "tiamar",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 217,
-      "seeds": ""
-    },
-    {
-      "rank": 6,
-      "is_tie": true,
       "user": "onlfne",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 217,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
       "rank": 6,
       "is_tie": true,
-      "user": "phistr",
+      "user": "tiamar",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 217,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 9,
+      "rank": 8,
       "is_tie": true,
       "user": "qapm",
       "sends": 2,
@@ -92,9 +83,18 @@
       "seeds": ""
     },
     {
-      "rank": 9,
+      "rank": 8,
       "is_tie": true,
       "user": "aview1",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 8,
+      "is_tie": true,
+      "user": "yorickpinto",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,

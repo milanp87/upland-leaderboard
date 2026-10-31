@@ -1,5 +1,5 @@
 {
-  "last_sync": "19:03:56 UTC",
+  "last_sync": "19:04:58 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -25,7 +25,7 @@
       "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 633,
+      "projected_upx": 750,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
@@ -34,43 +34,43 @@
       "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 633,
+      "projected_upx": 750,
       "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 2,
-      "is_tie": true,
-      "user": "bcb_housing",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 633,
-      "seeds": "Tied (Rolled over to next day)"
-    },
-    {
-      "rank": 5,
+      "rank": 4,
       "is_tie": true,
       "user": "onlfne",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 250,
+      "projected_upx": 288,
       "seeds": ""
     },
     {
-      "rank": 5,
+      "rank": 4,
       "is_tie": true,
       "user": "tiamar",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 250,
+      "projected_upx": 288,
       "seeds": ""
     },
     {
-      "rank": 5,
+      "rank": 4,
       "is_tie": true,
       "user": "hortiz1653",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 250,
+      "projected_upx": 288,
+      "seeds": ""
+    },
+    {
+      "rank": 4,
+      "is_tie": true,
+      "user": "bcb_housing",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 288,
       "seeds": ""
     },
     {
@@ -127,10 +127,6 @@
       "city": "Los Angeles"
     },
     {
-      "address": "13731 45TH AVE",
-      "city": "Queens"
-    },
-    {
       "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
@@ -139,23 +135,19 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
+      "address": "13731 45TH AVE",
+      "city": "Queens"
     },
     {
       "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11009 GERALD AVE",
+      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "11000 RUFFNER AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17452 LOS ALIMOS ST",
+      "address": "17425 SAN JOSE ST",
       "city": "Los Angeles"
     },
     {
@@ -163,11 +155,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "33 ORSETT TERRACE",
-      "city": "London"
-    },
-    {
-      "address": "17425 SAN JOSE ST",
+      "address": "6167 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -181,6 +169,18 @@
     {
       "address": "166 20TH AVE",
       "city": "San Francisco"
+    },
+    {
+      "address": "2452 39TH ST NW",
+      "city": "Washington"
+    },
+    {
+      "address": "33 ORSETT TERRACE",
+      "city": "London"
+    },
+    {
+      "address": "4532 170TH ST",
+      "city": "Queens"
     }
   ],
   "previous_snapshot": {

@@ -1,5 +1,5 @@
 {
-  "last_sync": "00:33:38 UTC",
+  "last_sync": "00:34:40 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -14,8 +14,8 @@
       "rank": 1,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 43,
-      "paid": 1070.0,
+      "sends": 44,
+      "paid": 1095.0,
       "projected_upx": 2000,
       "seeds": "\ud83c\udf37 1x White Tulip Seed"
     },
@@ -115,11 +115,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -139,15 +139,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "10926 LEMAY ST",
-      "city": "Los Angeles"
-    },
-    {
       "address": "11009 GERALD AVE",
       "city": "Los Angeles"
     },
     {
       "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
     {
@@ -159,15 +159,7 @@
       "city": "Queens"
     },
     {
-      "address": "8560 SAN FERNANDO RD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "51 LISSON GROVE",
-      "city": "London"
-    },
-    {
-      "address": "11000 RUFFNER AVE",
+      "address": "16428 GUNTHER ST",
       "city": "Los Angeles"
     },
     {
@@ -175,11 +167,19 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
+      "address": "51 LISSON GROVE",
+      "city": "London"
+    },
+    {
+      "address": "17136 CEREDO PL",
       "city": "Los Angeles"
     },
     {
-      "address": "16428 GUNTHER ST",
+      "address": "12412 MARVA AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     }
   ],

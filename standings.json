@@ -1,7 +1,7 @@
 {
-  "last_sync": "17:08:47 UTC",
+  "last_sync": "17:09:50 UTC",
   "current_day": 10,
-  "bubble": 3,
+  "bubble": 2,
   "total_prize_pool": 5250,
   "seed_rewards": {
     "p1_seed_text": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed",
@@ -22,7 +22,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "phistr",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 490,
@@ -31,7 +31,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "phistr",
+      "user": "bcb_housing",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 490,
@@ -49,7 +49,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "jsrl_dee",
+      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 490,
@@ -58,7 +58,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 490,
@@ -76,7 +76,7 @@
     {
       "rank": 7,
       "is_tie": true,
-      "user": "chanda100",
+      "user": "azraelfuz",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,
@@ -92,11 +92,11 @@
       "seeds": ""
     },
     {
-      "rank": 7,
-      "is_tie": true,
-      "user": "azraelfuz",
-      "sends": 3,
-      "paid": 75.0,
+      "rank": 10,
+      "is_tie": false,
+      "user": "qapm",
+      "sends": 2,
+      "paid": 50.0,
       "projected_upx": 200,
       "seeds": ""
     }

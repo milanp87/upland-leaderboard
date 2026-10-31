@@ -1,5 +1,5 @@
 {
-  "last_sync": "19:43:20 UTC",
+  "last_sync": "19:44:23 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -85,7 +85,7 @@
     {
       "rank": 7,
       "is_tie": true,
-      "user": "zactowner",
+      "user": "tygrartz",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -115,16 +115,12 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "13731 45TH AVE",
-      "city": "Queens"
+      "address": "12121 BALBOA BLVD",
+      "city": "Los Angeles"
     },
     {
       "address": "11630 ANDASOL AVE",
@@ -135,11 +131,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
-      "city": "Los Angeles"
+      "address": "13731 45TH AVE",
+      "city": "Queens"
     },
     {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
+      "address": "6225 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -147,8 +143,8 @@
       "city": "Los Angeles"
     },
     {
-      "address": "4532 170TH ST",
-      "city": "Queens"
+      "address": "17239 SAN FERNANDO MISSION BLVD",
+      "city": "Los Angeles"
     },
     {
       "address": "338 E 83RD ST",
@@ -180,6 +176,10 @@
     },
     {
       "address": "11024 PASO ROBLES AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11843 LOUISE AVE",
       "city": "Los Angeles"
     }
   ],

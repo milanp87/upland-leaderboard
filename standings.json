@@ -1,5 +1,5 @@
 {
-  "last_sync": "00:24:18 UTC",
+  "last_sync": "00:25:20 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -115,15 +115,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "6225 RESEDA BLVD",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -135,7 +131,15 @@
       "city": "Los Angeles"
     },
     {
+      "address": "6225 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
       "address": "11849 LOUISE AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
     {
@@ -147,15 +151,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "10926 LEMAY ST",
-      "city": "Los Angeles"
-    },
-    {
       "address": "13731 45TH AVE",
       "city": "Queens"
     },
     {
-      "address": "8560 SAN FERNANDO RD",
+      "address": "11024 PASO ROBLES AVE",
       "city": "Los Angeles"
     },
     {
@@ -163,12 +163,12 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11024 PASO ROBLES AVE",
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "51 LISSON GROVE",
-      "city": "London"
+      "address": "8560 SAN FERNANDO RD",
+      "city": "Los Angeles"
     },
     {
       "address": "17136 CEREDO PL",
@@ -179,8 +179,8 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11000 RUFFNER AVE",
-      "city": "Los Angeles"
+      "address": "51 LISSON GROVE",
+      "city": "London"
     }
   ],
   "previous_snapshot": {

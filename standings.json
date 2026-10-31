@@ -1,5 +1,5 @@
 {
-  "last_sync": "10:49:07 UTC",
+  "last_sync": "10:50:09 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -22,7 +22,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "azraelfuz",
+      "user": "madmac2016",
       "sends": 6,
       "paid": 150.0,
       "projected_upx": 750,
@@ -31,7 +31,7 @@
     {
       "rank": 2,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "azraelfuz",
       "sends": 6,
       "paid": 150.0,
       "projected_upx": 750,
@@ -67,7 +67,7 @@
     {
       "rank": 7,
       "is_tie": true,
-      "user": "chanda100",
+      "user": "iseemore",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,
@@ -76,7 +76,7 @@
     {
       "rank": 7,
       "is_tie": true,
-      "user": "iseemore",
+      "user": "chanda100",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,

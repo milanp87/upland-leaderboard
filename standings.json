@@ -1,13 +1,13 @@
 {
-  "last_sync": "16:00:18 UTC",
+  "last_sync": "16:01:20 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
   "seed_rewards": {
-    "p1_seed_text": "\ud83c\udf37 1x White Tulip Seed",
+    "p1_seed_text": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed",
     "p2_seed_text": "\ud83c\udf39 1x Red Tulip Seed",
     "p3_seed_text": "\ud83c\udf39 1x Red Tulip Seed",
-    "pool_summary": "\ud83c\udf37 1 White + \ud83c\udf39 2 Red Tulips"
+    "pool_summary": "\ud83c\udf37 1 White + \ud83c\udf39 4 Red Tulips"
   },
   "standings": [
     {
@@ -17,7 +17,7 @@
       "sends": 30,
       "paid": 750.0,
       "projected_upx": 2000,
-      "seeds": "\ud83c\udf37 1x White Tulip Seed"
+      "seeds": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed"
     },
     {
       "rank": 2,

@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:25:35 UTC",
+  "last_sync": "12:26:37 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -83,18 +83,18 @@
       "seeds": ""
     },
     {
-      "rank": 9,
+      "rank": 7,
       "is_tie": true,
-      "user": "yorickpinto",
-      "sends": 2,
-      "paid": 50.0,
+      "user": "tiamar",
+      "sends": 3,
+      "paid": 75.0,
       "projected_upx": 200,
       "seeds": ""
     },
     {
-      "rank": 9,
-      "is_tie": true,
-      "user": "zactowner",
+      "rank": 10,
+      "is_tie": false,
+      "user": "yorickpinto",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -103,11 +103,11 @@
   ],
   "popular_props": [
     {
-      "address": "1665 STAUNTON AVE",
+      "address": "15739 PLUMMER ST",
       "city": "Los Angeles"
     },
     {
-      "address": "15739 PLUMMER ST",
+      "address": "1665 STAUNTON AVE",
       "city": "Los Angeles"
     },
     {
@@ -143,15 +143,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11009 GERALD AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "11024 PASO ROBLES AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
     {
@@ -181,6 +173,14 @@
     {
       "address": "4532 170TH ST",
       "city": "Queens"
+    },
+    {
+      "address": "10926 LEMAY ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "338 E 83RD ST",
+      "city": "Manhattan"
     }
   ],
   "previous_snapshot": {

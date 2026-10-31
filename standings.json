@@ -1,5 +1,5 @@
 {
-  "last_sync": "22:43:46 UTC",
+  "last_sync": "22:44:49 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -40,15 +40,6 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "onlfne",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 250,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
       "user": "qapm",
       "sends": 3,
       "paid": 75.0,
@@ -58,7 +49,16 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "tiamar",
+      "user": "bcb_housing",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 250,
+      "seeds": ""
+    },
+    {
+      "rank": 4,
+      "is_tie": true,
+      "user": "onlfne",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 250,
@@ -76,7 +76,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "tiamar",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 250,

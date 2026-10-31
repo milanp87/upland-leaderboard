@@ -1,5 +1,5 @@
 {
-  "last_sync": "17:17:05 UTC",
+  "last_sync": "17:18:07 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -127,11 +127,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
@@ -139,11 +139,11 @@
       "city": "Queens"
     },
     {
-      "address": "11849 LOUISE AVE",
+      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
+      "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
     },
     {
@@ -151,16 +151,24 @@
       "city": "Los Angeles"
     },
     {
-      "address": "4532 170TH ST",
-      "city": "Queens"
+      "address": "11000 RUFFNER AVE",
+      "city": "Los Angeles"
     },
     {
-      "address": "338 E 83RD ST",
-      "city": "Manhattan"
+      "address": "17452 LOS ALIMOS ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17425 SAN JOSE ST",
+      "city": "Los Angeles"
     },
     {
       "address": "11843 LOUISE AVE",
       "city": "Los Angeles"
+    },
+    {
+      "address": "33 ORSETT TERRACE",
+      "city": "London"
     },
     {
       "address": "10926 LEMAY ST",
@@ -173,14 +181,6 @@
     {
       "address": "12412 MARVA AVE",
       "city": "Los Angeles"
-    },
-    {
-      "address": "166 20TH AVE",
-      "city": "San Francisco"
-    },
-    {
-      "address": "2452 39TH ST NW",
-      "city": "Washington"
     }
   ],
   "previous_snapshot": {

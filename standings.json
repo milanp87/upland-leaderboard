@@ -1,5 +1,5 @@
 {
-  "last_sync": "15:35:24 UTC",
+  "last_sync": "15:36:26 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -85,7 +85,7 @@
     {
       "rank": 9,
       "is_tie": true,
-      "user": "yorickpinto",
+      "user": "qapm",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -94,7 +94,7 @@
     {
       "rank": 9,
       "is_tie": true,
-      "user": "davoodkvm",
+      "user": "yorickpinto",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -131,16 +131,16 @@
       "city": "Los Angeles"
     },
     {
+      "address": "13731 45TH AVE",
+      "city": "Queens"
+    },
+    {
       "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
       "address": "11849 LOUISE AVE",
       "city": "Los Angeles"
-    },
-    {
-      "address": "13731 45TH AVE",
-      "city": "Queens"
     },
     {
       "address": "11024 PASO ROBLES AVE",

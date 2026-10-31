@@ -1,5 +1,5 @@
 {
-  "last_sync": "03:12:48 UTC",
+  "last_sync": "03:13:50 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -31,7 +31,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "madmac2016",
+      "user": "phistr",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 400,
@@ -49,20 +49,11 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "phistr",
+      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 400,
       "seeds": "Tied (Rolled over to next day)"
-    },
-    {
-      "rank": 6,
-      "is_tie": true,
-      "user": "iseemore",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 217,
-      "seeds": ""
     },
     {
       "rank": 6,
@@ -83,9 +74,18 @@
       "seeds": ""
     },
     {
+      "rank": 6,
+      "is_tie": true,
+      "user": "iseemore",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 217,
+      "seeds": ""
+    },
+    {
       "rank": 9,
       "is_tie": true,
-      "user": "yorickpinto",
+      "user": "davoodkvm",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -94,7 +94,7 @@
     {
       "rank": 9,
       "is_tie": true,
-      "user": "davoodkvm",
+      "user": "remogulog",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -119,11 +119,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
@@ -139,15 +139,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "10926 LEMAY ST",
-      "city": "Los Angeles"
-    },
-    {
       "address": "13731 45TH AVE",
       "city": "Queens"
     },
     {
-      "address": "11009 GERALD AVE",
+      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
     {
@@ -155,19 +151,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12412 MARVA AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "4532 170TH ST",
-      "city": "Queens"
-    },
-    {
-      "address": "338 E 83RD ST",
-      "city": "Manhattan"
-    },
-    {
-      "address": "8560 SAN FERNANDO RD",
+      "address": "11009 GERALD AVE",
       "city": "Los Angeles"
     },
     {
@@ -175,11 +159,27 @@
       "city": "London"
     },
     {
+      "address": "8560 SAN FERNANDO RD",
+      "city": "Los Angeles"
+    },
+    {
       "address": "17425 SAN JOSE ST",
       "city": "Los Angeles"
     },
     {
       "address": "11000 RUFFNER AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11024 PASO ROBLES AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17239 SAN FERNANDO MISSION BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17136 CEREDO PL",
       "city": "Los Angeles"
     }
   ],

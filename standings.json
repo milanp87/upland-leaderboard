@@ -1,5 +1,5 @@
 {
-  "last_sync": "06:57:52 UTC",
+  "last_sync": "06:58:54 UTC",
   "current_day": 9,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -31,7 +31,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "phistr",
+      "user": "hortiz1653",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 400,
@@ -49,11 +49,20 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "hortiz1653",
+      "user": "phistr",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 400,
       "seeds": "Tied (Rolled over to next day)"
+    },
+    {
+      "rank": 6,
+      "is_tie": true,
+      "user": "chanda100",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 217,
+      "seeds": ""
     },
     {
       "rank": 6,
@@ -74,15 +83,6 @@
       "seeds": ""
     },
     {
-      "rank": 6,
-      "is_tie": true,
-      "user": "chanda100",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 217,
-      "seeds": ""
-    },
-    {
       "rank": 9,
       "is_tie": true,
       "user": "davoodkvm",
@@ -94,7 +94,7 @@
     {
       "rank": 9,
       "is_tie": true,
-      "user": "vegas2015",
+      "user": "zactowner",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -143,12 +143,12 @@
       "city": "Queens"
     },
     {
-      "address": "11009 GERALD AVE",
+      "address": "6167 RESEDA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "6167 RESEDA BLVD",
-      "city": "Los Angeles"
+      "address": "338 E 83RD ST",
+      "city": "Manhattan"
     },
     {
       "address": "51 LISSON GROVE",
@@ -171,15 +171,15 @@
       "city": "Los Angeles"
     },
     {
+      "address": "11009 GERALD AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "11024 PASO ROBLES AVE",
       "city": "Los Angeles"
     },
     {
       "address": "17239 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "17136 CEREDO PL",
       "city": "Los Angeles"
     }
   ],

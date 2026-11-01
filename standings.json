@@ -1,5 +1,5 @@
 {
-  "last_sync": "14:48:50 UTC",
+  "last_sync": "14:49:52 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -44,7 +44,7 @@
       "user": "johnhall144",
       "sends": 6,
       "paid": 150.0,
-      "projected_upx": 317,
+      "projected_upx": 288,
       "seeds": ""
     },
     {
@@ -53,7 +53,16 @@
       "user": "hortiz1653",
       "sends": 6,
       "paid": 150.0,
-      "projected_upx": 317,
+      "projected_upx": 288,
+      "seeds": ""
+    },
+    {
+      "rank": 4,
+      "is_tie": true,
+      "user": "paulm71",
+      "sends": 6,
+      "paid": 150.0,
+      "projected_upx": 288,
       "seeds": ""
     },
     {
@@ -62,16 +71,7 @@
       "user": "spidertj",
       "sends": 6,
       "paid": 150.0,
-      "projected_upx": 317,
-      "seeds": ""
-    },
-    {
-      "rank": 7,
-      "is_tie": false,
-      "user": "paulm71",
-      "sends": 5,
-      "paid": 125.0,
-      "projected_upx": 200,
+      "projected_upx": 288,
       "seeds": ""
     },
     {

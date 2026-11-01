@@ -1,5 +1,5 @@
 {
-  "last_sync": "16:27:09 UTC",
+  "last_sync": "16:28:11 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -59,7 +59,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "hortiz1653",
+      "user": "spidertj",
       "sends": 6,
       "paid": 150.0,
       "projected_upx": 250,
@@ -68,7 +68,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "spidertj",
+      "user": "hortiz1653",
       "sends": 6,
       "paid": 150.0,
       "projected_upx": 250,
@@ -86,7 +86,7 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "sportdevil",
+      "user": "ciberus",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 200,
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "ciberus",
+      "user": "sportdevil",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 200,

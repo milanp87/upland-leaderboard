@@ -1,5 +1,5 @@
 {
-  "last_sync": "01:39:03 UTC",
+  "last_sync": "01:40:05 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -30,65 +30,65 @@
     },
     {
       "rank": 3,
-      "is_tie": false,
+      "is_tie": true,
       "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 500,
-      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
+      "projected_upx": 450,
+      "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "is_tie": true,
-      "user": "spidertj",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 258,
-      "seeds": ""
+      "user": "sportdevil",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 450,
+      "seeds": "Tied (Rolled over to next day)"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "paulm71",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 230,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "qapm",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 230,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "is_tie": true,
+      "user": "spidertj",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 230,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
       "is_tie": true,
       "user": "tiamar",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 230,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "azraelfuz",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
-      "user": "sportdevil",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 230,
       "seeds": ""
     },
     {

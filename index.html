@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Upland 24h Live Sprint Hub | Day 10 Grand Finale</title>
+<title>Upland Visitor Hub | Day 10 Grand Finale Results</title>
 <style>
-:root{--bg:#0f1216;--card:#171b21;--border:#262b33;--text:#e6edf3;--sub:#8b949e;--green:#3fb950;--gold:#d29922;--pink:#f778ba;--blue:#388bfd;--red:#f85149}
+:root{--bg:#0f1216;--card:#171b21;--border:#262b33;--text:#e6edf3;--sub:#8b949e;--green:#3fb950;--gold:#d29922;--pink:#f778ba;--blue:#388bfd;--purple:#a371f7;--red:#f85149}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif}
 main{max-width:1300px;margin:0 auto;padding:24px 16px 48px}
 header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:12px;margin-bottom:20px;padding-bottom:16px;border-bottom:1px solid var(--border)}
@@ -20,6 +20,10 @@ button:hover{border-color:var(--blue);color:var(--blue)}
 .card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 16px}
 .card-title{font-size:12px;color:var(--sub);text-transform:uppercase;margin-bottom:6px}
 .card-val{font-size:24px;font-weight:700}
+.teaser-banner{background:linear-gradient(135deg,rgba(163,113,247,.15) 0%,rgba(56,139,253,.15) 100%);border:1px solid rgba(163,113,247,.4);border-radius:12px;padding:18px 20px;margin-bottom:24px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
+.teaser-title{font-size:16px;font-weight:700;color:var(--text);margin-bottom:4px;display:flex;align-items:center;gap:8px}
+.teaser-desc{font-size:13px;color:var(--sub);line-height:1.4}
+.teaser-badge{background:var(--purple);color:#0f1216;font-weight:700;font-size:11px;padding:4px 10px;border-radius:999px;text-transform:uppercase}
 .podium-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;margin-bottom:24px}
 .podium{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px}
 .podium.p1{border-color:rgba(210,153,34,.5);background:linear-gradient(180deg,#1c1e19 0%,#171b21 100%)}
@@ -43,12 +47,25 @@ th{background:#14171b;color:var(--sub);font-weight:600}
 <body>
 <main>
 <header>
-  <h1>🏆 Upland 24h Sprint Tracker <span class="badge" id="statusBadge">Day 10 — Grand Finale</span></h1>
+  <h1>🏆 Upland Visitor Hub <span class="badge" id="statusBadge">Day 10 — Grand Finale</span></h1>
   <div class="bar">
     <span class="timer" id="countdownLabel">Next sync in: 60s</span>
-    <button onclick="pollStandings()">🔄 Sync Now</button>
+    <button onclick="pollStandings()">🔄 Refresh Standings</button>
   </div>
 </header>
+
+<!-- Weekend Sprint Teaser Banner -->
+<div class="teaser-banner">
+  <div>
+    <div class="teaser-title">
+      <span>⚡ COMING NEXT: The Weekend Sprint Circuit</span>
+      <span class="teaser-badge">New Format</span>
+    </div>
+    <div class="teaser-desc">
+      Our 10-day daily competition has concluded! Moving forward, competitions will run exclusively as <b>High-Stakes 48-Hour Weekend Sprints</b> (Saturday & Sunday) featuring boosted UPX prize pools and rare seed drops. Keep hunting on our network hubs below all week!
+    </div>
+  </div>
+</div>
 
 <div class="stats-grid">
   <div class="card">
@@ -57,25 +74,25 @@ th{background:#14171b;color:var(--sub);font-weight:600}
     <span style="color:var(--green);font-size:12px" id="prizePoolSeeds">🌷 1 White + 🌹 3 Red Tulips</span>
   </div>
   <div class="card">
-    <div class="card-title">Cutoff Countdown (9:00 AM PST)</div>
+    <div class="card-title" id="statusHeader">Cutoff Status (9:00 AM PST)</div>
     <div class="card-val countdown-box" id="ptCountdown">--:--:--</div>
-    <span style="color:var(--sub);font-size:12px" id="cutoffLabel">17:00 UTC Finale Snapshot</span>
+    <span style="color:var(--sub);font-size:12px" id="cutoffLabel">17:00 UTC Official Cutoff</span>
   </div>
   <div class="card">
     <div class="card-title">Top 10 Cash Bubble</div>
-    <div class="card-val" id="bubbleThreshold">3 sends</div>
+    <div class="card-val" id="bubbleThreshold">4 sends</div>
     <span style="color:var(--sub);font-size:12px">Minimum visits needed to cash</span>
   </div>
   <div class="card">
-    <div class="card-title">Last Live Sync</div>
+    <div class="card-title">Standings State</div>
     <div class="card-val" style="font-size:20px;font-family:monospace" id="lastSyncTime">—</div>
-    <span style="color:var(--green);font-size:12px">● Live updating every 60s</span>
+    <span style="color:var(--green);font-size:12px" id="stateSubtext">● Real-time synced</span>
   </div>
 </div>
 
 <div class="podium-grid">
   <div class="podium p1">
-    <div style="font-size:11px;font-weight:700;color:var(--gold)">🥇 1ST PLACE CHAMPION (JACKPOT)</div>
+    <div style="font-size:11px;font-weight:700;color:var(--gold)">🥇 1ST PLACE CHAMPION</div>
     <div style="font-size:22px;font-weight:700;margin:4px 0" id="p1User">—</div>
     <div style="color:var(--sub);font-size:13px" id="p1Sends">0 sends</div>
     <div style="font-weight:600;margin-top:10px;color:var(--pink)" id="p1RewardText">2,000 UPX + 🌷 White + 🌹 Red Tulip</div>
@@ -96,19 +113,19 @@ th{background:#14171b;color:var(--sub);font-weight:600}
 
 <div class="split-grid">
   <div>
-    <h3 style="margin-top:0">Top 10 Live Standings (Rolling 24 Hours)</h3>
+    <h3 style="margin-top:0" id="leaderboardTitle">Day 10 Official Final Standings</h3>
     <table>
       <thead>
         <tr>
           <th>#</th>
           <th>Player</th>
-          <th>Sends (24h)</th>
+          <th>Sends</th>
           <th>Paid (UPX)</th>
-          <th>Projected Reward</th>
+          <th>Official Prize Awarded</th>
         </tr>
       </thead>
       <tbody id="leaderboardBody">
-        <tr><td colspan="5" style="text-align:center;color:var(--sub)">Waiting for sync...</td></tr>
+        <tr><td colspan="5" style="text-align:center;color:var(--sub)">Loading final standings...</td></tr>
       </tbody>
     </table>
   </div>
@@ -116,8 +133,8 @@ th{background:#14171b;color:var(--sub);font-weight:600}
   <div>
     <h3 style="margin-top:0;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px">
       <span style="display:flex;align-items:center;gap:8px">
-        Top Visited Properties
-        <span class="min-fee-note">All fees set to minimum</span>
+        Featured Property Network
+        <span class="min-fee-note">Always minimum fee</span>
       </span>
       <span style="font-size:12px;color:var(--sub)">Click to copy address</span>
     </h3>
@@ -126,44 +143,27 @@ th{background:#14171b;color:var(--sub);font-weight:600}
     </div>
   </div>
 </div>
-
-<section id="historySection" style="display:none; border-top: 1px solid var(--border); padding-top: 24px;">
-  <h3 style="margin-top:0;display:flex;align-items:center;gap:8px">
-    <span>📜 Official Results: Final Grand Finale Snapshot</span>
-    <span class="badge" id="historyDayBadge">Day 10 Final</span>
-  </h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Rank</th>
-        <th>Player</th>
-        <th>Sends</th>
-        <th>Paid (UPX)</th>
-        <th>Winnings Awarded</th>
-      </tr>
-    </thead>
-    <tbody id="historyTableBody">
-      <!-- Injected dynamically -->
-    </tbody>
-  </table>
-</section>
 </main>
 
 <script>
 let lastData = null;
 let syncCountdown = 60;
 
-// Nov 1, 2026 at 9:00 AM PST = 17:00:00 UTC (Month 10 is November in JS 0-indexed Date)
+// Nov 1, 2026 at 9:00 AM PST = 17:00:00 UTC
 const FINALE_TARGET_UTC = new Date(Date.UTC(2026, 10, 1, 17, 0, 0)).getTime();
 
 function updateCountdownTo9AMPT() {
   const now = new Date().getTime();
   const diff = FINALE_TARGET_UTC - now;
 
-  if (diff <= 0) {
-    document.getElementById("ptCountdown").innerText = "CONCLUDED";
-    document.getElementById("ptCountdown").style.color = "var(--red)";
-    document.getElementById("cutoffLabel").innerText = "Grand Finale Concluded (Results Locked)";
+  if (diff <= 0 || (lastData && lastData.is_concluded)) {
+    document.getElementById("ptCountdown").innerText = "LOCKED";
+    document.getElementById("ptCountdown").style.color = "var(--green)";
+    document.getElementById("statusHeader").innerText = "Competition Status";
+    document.getElementById("cutoffLabel").innerText = "Official Finale Results Locked";
+    document.getElementById("leaderboardTitle").innerText = "Official Day 10 Final Standings (Results Concluded)";
+    document.getElementById("statusBadge").innerText = "Season 1 Concluded";
+    document.getElementById("statusBadge").style.color = "var(--green)";
     return;
   }
 
@@ -181,7 +181,7 @@ setInterval(() => {
     pollStandings();
     syncCountdown = 60;
   }
-  document.getElementById("countdownLabel").innerText = `Next sync in: ${syncCountdown}s`;
+  document.getElementById("countdownLabel").innerText = `Next refresh: ${syncCountdown}s`;
 }, 1000);
 
 async function pollStandings() {
@@ -219,9 +219,13 @@ async function pollStandings() {
 }
 
 function renderUI(data) {
-  const currDay = data.current_day || 10;
-  document.getElementById("prizePoolHeader").innerText = `Day ${currDay} Finale Prize Pool`;
-  document.getElementById("lastSyncTime").innerText = data.last_sync || "—";
+  if (data.is_concluded) {
+    document.getElementById("stateSubtext").innerText = "● Final Results Archived";
+    document.getElementById("lastSyncTime").innerText = "Concluded";
+  } else {
+    document.getElementById("lastSyncTime").innerText = data.last_sync || "—";
+  }
+
   if (data.bubble) {
     document.getElementById("bubbleThreshold").innerText = `${data.bubble} sends`;
   }
@@ -283,30 +287,6 @@ function renderUI(data) {
     `;
     hubsBox.appendChild(div);
   });
-
-  const histSection = document.getElementById("historySection");
-  if (data.previous_snapshot && data.previous_snapshot.standings && data.previous_snapshot.standings.length > 0) {
-    histSection.style.display = "block";
-    const hist = data.previous_snapshot;
-    document.getElementById("historyDayBadge").innerText = `Day ${hist.day} Final (${hist.date})`;
-    const histBody = document.getElementById("historyTableBody");
-    histBody.innerHTML = "";
-    hist.standings.forEach(h => {
-      const tr = document.createElement("tr");
-      let winText = `${h.projected_upx} UPX`;
-      if (h.seeds) winText += ` + ${h.seeds}`;
-      tr.innerHTML = `
-        <td><b>#${h.rank}</b></td>
-        <td><b>${h.user}</b></td>
-        <td>${h.sends}</td>
-        <td>${h.paid} UPX</td>
-        <td style="color:var(--green);font-weight:600">${winText}</td>
-      `;
-      histBody.appendChild(tr);
-    });
-  } else {
-    histSection.style.display = "none";
-  }
 }
 
 window.onload = pollStandings;

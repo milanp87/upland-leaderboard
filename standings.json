@@ -1,5 +1,5 @@
 {
-  "last_sync": "07:38:24 UTC",
+  "last_sync": "07:39:27 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -39,29 +39,29 @@
     },
     {
       "rank": 4,
-      "is_tie": true,
+      "is_tie": false,
       "user": "paulm71",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 317,
+      "sends": 5,
+      "paid": 125.0,
+      "projected_upx": 400,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 317,
+      "projected_upx": 275,
       "seeds": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "is_tie": true,
       "user": "ciberus",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 317,
+      "projected_upx": 275,
       "seeds": ""
     },
     {

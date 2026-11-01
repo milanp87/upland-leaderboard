@@ -1,5 +1,5 @@
 {
-  "last_sync": "06:27:58 UTC",
+  "last_sync": "06:29:00 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -12,21 +12,21 @@
   "standings": [
     {
       "rank": 1,
-      "is_tie": true,
+      "is_tie": false,
       "user": "uplanddood",
-      "sends": 33,
-      "paid": 825.0,
-      "projected_upx": 1500,
-      "seeds": "Tied (Rolled over to next day)"
+      "sends": 34,
+      "paid": 850.0,
+      "projected_upx": 2000,
+      "seeds": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed"
     },
     {
-      "rank": 1,
-      "is_tie": true,
+      "rank": 2,
+      "is_tie": false,
       "user": "cryptomonk18",
       "sends": 33,
       "paid": 825.0,
-      "projected_upx": 1500,
-      "seeds": "Tied (Rolled over to next day)"
+      "projected_upx": 1000,
+      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
     {
       "rank": 3,
@@ -123,11 +123,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -143,12 +143,12 @@
       "city": "Queens"
     },
     {
-      "address": "750 85TH ST",
-      "city": "Miami Beach"
-    },
-    {
       "address": "6167 RESEDA BLVD",
       "city": "Los Angeles"
+    },
+    {
+      "address": "750 85TH ST",
+      "city": "Miami Beach"
     },
     {
       "address": "11024 PASO ROBLES AVE",

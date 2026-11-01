@@ -1,5 +1,5 @@
 {
-  "last_sync": "10:00:38 UTC",
+  "last_sync": "10:01:40 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 3,
@@ -124,11 +124,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
@@ -148,20 +148,20 @@
       "city": "Queens"
     },
     {
-      "address": "11024 PASO ROBLES AVE",
+      "address": "11562 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "750 85TH ST",
-      "city": "Miami Beach"
+      "address": "11024 PASO ROBLES AVE",
+      "city": "Los Angeles"
     },
     {
       "address": "11300 SHOSHONE AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11562 ANDASOL AVE",
-      "city": "Los Angeles"
+      "address": "750 85TH ST",
+      "city": "Miami Beach"
     },
     {
       "address": "17 ORCHARDSON ST",

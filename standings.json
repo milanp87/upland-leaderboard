@@ -1,5 +1,5 @@
 {
-  "last_sync": "09:03:14 UTC",
+  "last_sync": "09:04:16 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "cryptomonk18",
-      "sends": 37,
-      "paid": 925.0,
+      "sends": 38,
+      "paid": 950.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },

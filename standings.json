@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:51:41 UTC",
+  "last_sync": "12:52:43 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -41,7 +41,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "spidertj",
+      "user": "johnhall144",
       "sends": 6,
       "paid": 150.0,
       "projected_upx": 350,
@@ -50,7 +50,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "johnhall144",
+      "user": "spidertj",
       "sends": 6,
       "paid": 150.0,
       "projected_upx": 350,
@@ -68,15 +68,6 @@
     {
       "rank": 7,
       "is_tie": true,
-      "user": "azraelfuz",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 7,
-      "is_tie": true,
       "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
@@ -87,6 +78,15 @@
       "rank": 7,
       "is_tie": true,
       "user": "ciberus",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 7,
+      "is_tie": true,
+      "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 200,

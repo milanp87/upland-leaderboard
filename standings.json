@@ -1,5 +1,5 @@
 {
-  "last_sync": "06:30:03 UTC",
+  "last_sync": "06:31:05 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -67,7 +67,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "chanda100",
+      "user": "azraelfuz",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 225,
@@ -76,7 +76,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "qapm",
+      "user": "chanda100",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 225,
@@ -94,7 +94,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "azraelfuz",
+      "user": "johnhall144",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 225,
@@ -123,11 +123,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
@@ -147,12 +147,12 @@
       "city": "Los Angeles"
     },
     {
-      "address": "750 85TH ST",
-      "city": "Miami Beach"
-    },
-    {
       "address": "11024 PASO ROBLES AVE",
       "city": "Los Angeles"
+    },
+    {
+      "address": "750 85TH ST",
+      "city": "Miami Beach"
     },
     {
       "address": "11562 ANDASOL AVE",
@@ -163,15 +163,7 @@
       "city": "London"
     },
     {
-      "address": "11009 GERALD AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11843 LOUISE AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11000 RUFFNER AVE",
+      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
     {
@@ -179,7 +171,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12412 MARVA AVE",
+      "address": "11000 RUFFNER AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11009 GERALD AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17239 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     }
   ],

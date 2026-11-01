@@ -1,8 +1,8 @@
 {
-  "last_sync": "12:19:33 UTC",
+  "last_sync": "12:20:35 UTC",
   "current_day": 10,
   "is_concluded": false,
-  "bubble": 3,
+  "bubble": 4,
   "total_prize_pool": 5250,
   "seed_rewards": {
     "p1_seed_text": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed",
@@ -15,8 +15,8 @@
       "rank": 1,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 66,
-      "paid": 1650.0,
+      "sends": 67,
+      "paid": 1675.0,
       "projected_upx": 2000,
       "seeds": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed"
     },
@@ -32,7 +32,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "spidertj",
+      "user": "johnhall144",
       "sends": 6,
       "paid": 150.0,
       "projected_upx": 450,
@@ -41,7 +41,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "johnhall144",
+      "user": "spidertj",
       "sends": 6,
       "paid": 150.0,
       "projected_upx": 450,
@@ -77,6 +77,15 @@
     {
       "rank": 7,
       "is_tie": true,
+      "user": "jsrl_dee",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 7,
+      "is_tie": true,
       "user": "ciberus",
       "sends": 4,
       "paid": 100.0,
@@ -86,18 +95,9 @@
     {
       "rank": 7,
       "is_tie": true,
-      "user": "jsrl_dee",
+      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 10,
-      "is_tie": false,
-      "user": "rammone222",
-      "sends": 3,
-      "paid": 75.0,
       "projected_upx": 200,
       "seeds": ""
     }

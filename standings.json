@@ -1,5 +1,5 @@
 {
-  "last_sync": "07:23:54 UTC",
+  "last_sync": "07:24:56 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -43,7 +43,7 @@
       "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 317,
+      "projected_upx": 350,
       "seeds": ""
     },
     {
@@ -52,62 +52,62 @@
       "user": "ciberus",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 317,
+      "projected_upx": 350,
       "seeds": ""
     },
     {
-      "rank": 4,
-      "is_tie": true,
-      "user": "sportdevil",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 317,
-      "seeds": ""
-    },
-    {
-      "rank": 7,
+      "rank": 6,
       "is_tie": true,
       "user": "paulm71",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "is_tie": true,
       "user": "rammone222",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
+      "is_tie": true,
+      "user": "sportdevil",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 210,
+      "seeds": ""
+    },
+    {
+      "rank": 6,
       "is_tie": true,
       "user": "l_slack",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "is_tie": true,
       "user": "chanda100",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 200,
+      "projected_upx": 210,
       "seeds": ""
     }
   ],
   "popular_props": [
     {
-      "address": "15739 PLUMMER ST",
+      "address": "1665 STAUNTON AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "1665 STAUNTON AVE",
+      "address": "15739 PLUMMER ST",
       "city": "Los Angeles"
     },
     {

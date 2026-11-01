@@ -1,7 +1,7 @@
 {
-  "last_sync": "01:47:20 UTC",
+  "last_sync": "01:48:23 UTC",
   "current_day": 10,
-  "bubble": 2,
+  "bubble": 3,
   "total_prize_pool": 5250,
   "seed_rewards": {
     "p1_seed_text": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed",
@@ -52,7 +52,16 @@
       "user": "paulm71",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 230,
+      "projected_upx": 225,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
+      "is_tie": true,
+      "user": "rammone222",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
@@ -61,16 +70,7 @@
       "user": "qapm",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 230,
-      "seeds": ""
-    },
-    {
-      "rank": 5,
-      "is_tie": true,
-      "user": "spidertj",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 230,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
@@ -79,7 +79,7 @@
       "user": "tiamar",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 230,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
@@ -88,26 +88,26 @@
       "user": "azraelfuz",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 230,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 10,
-      "is_tie": false,
-      "user": "rammone222",
-      "sends": 2,
-      "paid": 50.0,
-      "projected_upx": 200,
+      "rank": 5,
+      "is_tie": true,
+      "user": "spidertj",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 225,
       "seeds": ""
     }
   ],
   "popular_props": [
     {
-      "address": "15739 PLUMMER ST",
+      "address": "1665 STAUNTON AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "1665 STAUNTON AVE",
+      "address": "15739 PLUMMER ST",
       "city": "Los Angeles"
     },
     {

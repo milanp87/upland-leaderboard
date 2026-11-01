@@ -1,5 +1,5 @@
 {
-  "last_sync": "04:35:04 UTC",
+  "last_sync": "04:36:06 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 26,
-      "paid": 650.0,
+      "sends": 29,
+      "paid": 725.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -103,11 +103,11 @@
   ],
   "popular_props": [
     {
-      "address": "1665 STAUNTON AVE",
+      "address": "15739 PLUMMER ST",
       "city": "Los Angeles"
     },
     {
-      "address": "15739 PLUMMER ST",
+      "address": "1665 STAUNTON AVE",
       "city": "Los Angeles"
     },
     {
@@ -147,6 +147,10 @@
       "city": "Miami Beach"
     },
     {
+      "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
+    },
+    {
       "address": "11024 PASO ROBLES AVE",
       "city": "Los Angeles"
     },
@@ -155,15 +159,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "17 ORCHARDSON ST",
       "city": "London"
     },
     {
-      "address": "11000 RUFFNER AVE",
+      "address": "11009 GERALD AVE",
       "city": "Los Angeles"
     },
     {
@@ -171,11 +171,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "8247 MORSE AVE",
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "10926 LEMAY ST",
+      "address": "8247 MORSE AVE",
       "city": "Los Angeles"
     },
     {

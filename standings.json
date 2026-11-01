@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:41:19 UTC",
+  "last_sync": "12:42:21 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -33,8 +33,8 @@
       "rank": 3,
       "is_tie": false,
       "user": "hwpo",
-      "sends": 9,
-      "paid": 225.0,
+      "sends": 14,
+      "paid": 350.0,
       "projected_upx": 500,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -124,11 +124,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -148,14 +148,6 @@
       "city": "Queens"
     },
     {
-      "address": "750 85TH ST",
-      "city": "Miami Beach"
-    },
-    {
-      "address": "10926 LEMAY ST",
-      "city": "Los Angeles"
-    },
-    {
       "address": "11024 PASO ROBLES AVE",
       "city": "Los Angeles"
     },
@@ -172,15 +164,23 @@
       "city": "Los Angeles"
     },
     {
-      "address": "20B FISHERTON ST",
-      "city": "London"
-    },
-    {
-      "address": "11000 RUFFNER AVE",
+      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
     {
-      "address": "17165 CELTIC ST",
+      "address": "750 85TH ST",
+      "city": "Miami Beach"
+    },
+    {
+      "address": "17 ORCHARDSON ST",
+      "city": "London"
+    },
+    {
+      "address": "20301 WYANDOTTE ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "7633 ETHEL AVE",
       "city": "Los Angeles"
     }
   ],

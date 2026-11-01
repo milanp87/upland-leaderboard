@@ -1,5 +1,5 @@
 {
-  "last_sync": "13:08:16 UTC",
+  "last_sync": "13:09:18 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -116,11 +116,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
@@ -152,7 +152,19 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12412 MARVA AVE",
+      "address": "750 85TH ST",
+      "city": "Miami Beach"
+    },
+    {
+      "address": "10926 LEMAY ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17165 CELTIC ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     },
     {
@@ -160,28 +172,16 @@
       "city": "Los Angeles"
     },
     {
-      "address": "10926 LEMAY ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "750 85TH ST",
-      "city": "Miami Beach"
-    },
-    {
-      "address": "17165 CELTIC ST",
-      "city": "Los Angeles"
-    },
-    {
       "address": "11562 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "17 ORCHARDSON ST",
-      "city": "London"
+      "address": "12412 MARVA AVE",
+      "city": "Los Angeles"
     },
     {
-      "address": "2010 N COMMONWEALTH AVE",
-      "city": "Los Angeles"
+      "address": "33 ORSETT TERRACE",
+      "city": "London"
     }
   ],
   "previous_snapshot": {

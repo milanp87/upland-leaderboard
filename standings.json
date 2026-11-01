@@ -1,5 +1,5 @@
 {
-  "last_sync": "00:21:13 UTC",
+  "last_sync": "00:22:15 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -49,7 +49,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "qapm",
+      "user": "bcb_housing",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 258,
@@ -58,7 +58,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "qapm",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 258,
@@ -94,7 +94,7 @@
     {
       "rank": 10,
       "is_tie": false,
-      "user": "onlfne",
+      "user": "paulm71",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -115,11 +115,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {

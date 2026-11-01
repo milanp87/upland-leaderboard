@@ -1,5 +1,5 @@
 {
-  "last_sync": "05:03:01 UTC",
+  "last_sync": "05:04:03 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -94,7 +94,7 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "spidertj",
+      "user": "l_slack",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 225,

@@ -1,5 +1,5 @@
 {
-  "last_sync": "01:21:27 UTC",
+  "last_sync": "01:22:29 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -40,10 +40,10 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "spidertj",
+      "user": "sportdevil",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 270,
       "seeds": ""
     },
     {
@@ -52,25 +52,16 @@
       "user": "qapm",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 270,
       "seeds": ""
     },
     {
       "rank": 4,
       "is_tie": true,
-      "user": "bcb_housing",
+      "user": "spidertj",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
-      "user": "azraelfuz",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 270,
       "seeds": ""
     },
     {
@@ -79,22 +70,31 @@
       "user": "tiamar",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 270,
       "seeds": ""
     },
     {
       "rank": 4,
       "is_tie": true,
-      "user": "sportdevil",
+      "user": "azraelfuz",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 258,
+      "projected_upx": 270,
       "seeds": ""
     },
     {
-      "rank": 10,
-      "is_tie": false,
+      "rank": 9,
+      "is_tie": true,
       "user": "rammone222",
+      "sends": 2,
+      "paid": 50.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 9,
+      "is_tie": true,
+      "user": "paulm71",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,
@@ -147,15 +147,11 @@
       "city": "Miami Beach"
     },
     {
-      "address": "11009 GERALD AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "11024 PASO ROBLES AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11000 RUFFNER AVE",
+      "address": "11009 GERALD AVE",
       "city": "Los Angeles"
     },
     {
@@ -163,7 +159,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17452 LOS ALIMOS ST",
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     },
     {
@@ -171,7 +167,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17425 SAN JOSE ST",
+      "address": "17452 LOS ALIMOS ST",
       "city": "Los Angeles"
     },
     {
@@ -181,6 +177,10 @@
     {
       "address": "12412 MARVA AVE",
       "city": "Los Angeles"
+    },
+    {
+      "address": "166 20TH AVE",
+      "city": "San Francisco"
     }
   ],
   "previous_snapshot": {

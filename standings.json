@@ -1,5 +1,5 @@
 {
-  "last_sync": "08:44:35 UTC",
+  "last_sync": "08:45:37 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -123,11 +123,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
@@ -139,20 +139,20 @@
       "city": "Los Angeles"
     },
     {
-      "address": "6167 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "13731 45TH AVE",
       "city": "Queens"
     },
     {
-      "address": "750 85TH ST",
-      "city": "Miami Beach"
+      "address": "6167 RESEDA BLVD",
+      "city": "Los Angeles"
     },
     {
       "address": "11024 PASO ROBLES AVE",
       "city": "Los Angeles"
+    },
+    {
+      "address": "750 85TH ST",
+      "city": "Miami Beach"
     },
     {
       "address": "11300 SHOSHONE AVE",
@@ -163,23 +163,23 @@
       "city": "Los Angeles"
     },
     {
-      "address": "33 ORSETT TERRACE",
-      "city": "London"
-    },
-    {
       "address": "17 ORCHARDSON ST",
       "city": "London"
     },
     {
-      "address": "11000 RUFFNER AVE",
+      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
     {
-      "address": "11843 LOUISE AVE",
+      "address": "8247 MORSE AVE",
       "city": "Los Angeles"
     },
     {
       "address": "17165 CELTIC ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     }
   ],

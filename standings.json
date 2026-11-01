@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:27:51 UTC",
+  "last_sync": "12:28:53 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -33,8 +33,8 @@
       "rank": 3,
       "is_tie": false,
       "user": "hwpo",
-      "sends": 8,
-      "paid": 200.0,
+      "sends": 9,
+      "paid": 225.0,
       "projected_upx": 500,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },

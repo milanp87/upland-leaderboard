@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:57:54 UTC",
+  "last_sync": "12:58:56 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -41,7 +41,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "johnhall144",
+      "user": "spidertj",
       "sends": 6,
       "paid": 150.0,
       "projected_upx": 350,
@@ -50,7 +50,7 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "spidertj",
+      "user": "johnhall144",
       "sends": 6,
       "paid": 150.0,
       "projected_upx": 350,
@@ -58,15 +58,24 @@
     },
     {
       "rank": 6,
-      "is_tie": false,
+      "is_tie": true,
       "user": "paulm71",
       "sends": 5,
       "paid": 125.0,
-      "projected_upx": 250,
+      "projected_upx": 225,
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
+      "is_tie": true,
+      "user": "hortiz1653",
+      "sends": 5,
+      "paid": 125.0,
+      "projected_upx": 225,
+      "seeds": ""
+    },
+    {
+      "rank": 8,
       "is_tie": true,
       "user": "madmac2016",
       "sends": 4,
@@ -75,16 +84,7 @@
       "seeds": ""
     },
     {
-      "rank": 7,
-      "is_tie": true,
-      "user": "hortiz1653",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "is_tie": true,
       "user": "ciberus",
       "sends": 4,
@@ -93,7 +93,7 @@
       "seeds": ""
     },
     {
-      "rank": 7,
+      "rank": 8,
       "is_tie": true,
       "user": "azraelfuz",
       "sends": 4,

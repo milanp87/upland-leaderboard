@@ -1,5 +1,5 @@
 {
-  "last_sync": "08:21:55 UTC",
+  "last_sync": "08:22:58 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -14,8 +14,8 @@
       "rank": 1,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 43,
-      "paid": 1075.0,
+      "sends": 44,
+      "paid": 1100.0,
       "projected_upx": 2000,
       "seeds": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed"
     },
@@ -139,12 +139,12 @@
       "city": "Los Angeles"
     },
     {
-      "address": "13731 45TH AVE",
-      "city": "Queens"
-    },
-    {
       "address": "6167 RESEDA BLVD",
       "city": "Los Angeles"
+    },
+    {
+      "address": "13731 45TH AVE",
+      "city": "Queens"
     },
     {
       "address": "750 85TH ST",

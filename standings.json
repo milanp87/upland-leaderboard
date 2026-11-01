@@ -1,5 +1,5 @@
 {
-  "last_sync": "00:52:18 UTC",
+  "last_sync": "00:53:21 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -67,15 +67,6 @@
     {
       "rank": 4,
       "is_tie": true,
-      "user": "sportdevil",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 258,
-      "seeds": ""
-    },
-    {
-      "rank": 4,
-      "is_tie": true,
       "user": "azraelfuz",
       "sends": 3,
       "paid": 75.0,
@@ -92,9 +83,18 @@
       "seeds": ""
     },
     {
+      "rank": 4,
+      "is_tie": true,
+      "user": "sportdevil",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 258,
+      "seeds": ""
+    },
+    {
       "rank": 10,
       "is_tie": false,
-      "user": "paulm71",
+      "user": "rammone222",
       "sends": 2,
       "paid": 50.0,
       "projected_upx": 200,

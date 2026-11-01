@@ -1,5 +1,5 @@
 {
-  "last_sync": "16:05:16 UTC",
+  "last_sync": "16:06:25 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -183,101 +183,5 @@
       "address": "12412 MARVA AVE",
       "city": "Los Angeles"
     }
-  ],
-  "previous_snapshot": {
-    "day": 9,
-    "date": "Oct 31, 2026",
-    "standings": [
-      {
-        "rank": 1,
-        "is_tie": false,
-        "user": "uplanddood",
-        "sends": 30,
-        "paid": 750.0,
-        "projected_upx": 2000,
-        "seeds": "\ud83c\udf37 1x White Tulip Seed"
-      },
-      {
-        "rank": 2,
-        "is_tie": true,
-        "user": "azraelfuz",
-        "sends": 4,
-        "paid": 100.0,
-        "projected_upx": 490,
-        "seeds": "Tied (Rolled over to next day)"
-      },
-      {
-        "rank": 2,
-        "is_tie": true,
-        "user": "madmac2016",
-        "sends": 4,
-        "paid": 100.0,
-        "projected_upx": 490,
-        "seeds": "Tied (Rolled over to next day)"
-      },
-      {
-        "rank": 2,
-        "is_tie": true,
-        "user": "bcb_housing",
-        "sends": 4,
-        "paid": 100.0,
-        "projected_upx": 490,
-        "seeds": "Tied (Rolled over to next day)"
-      },
-      {
-        "rank": 2,
-        "is_tie": true,
-        "user": "hortiz1653",
-        "sends": 4,
-        "paid": 100.0,
-        "projected_upx": 490,
-        "seeds": "Tied (Rolled over to next day)"
-      },
-      {
-        "rank": 2,
-        "is_tie": true,
-        "user": "phistr",
-        "sends": 4,
-        "paid": 100.0,
-        "projected_upx": 490,
-        "seeds": "Tied (Rolled over to next day)"
-      },
-      {
-        "rank": 7,
-        "is_tie": true,
-        "user": "tiamar",
-        "sends": 3,
-        "paid": 75.0,
-        "projected_upx": 200,
-        "seeds": ""
-      },
-      {
-        "rank": 7,
-        "is_tie": true,
-        "user": "chanda100",
-        "sends": 3,
-        "paid": 75.0,
-        "projected_upx": 200,
-        "seeds": ""
-      },
-      {
-        "rank": 9,
-        "is_tie": true,
-        "user": "qapm",
-        "sends": 2,
-        "paid": 50.0,
-        "projected_upx": 200,
-        "seeds": ""
-      },
-      {
-        "rank": 9,
-        "is_tie": true,
-        "user": "yorickpinto",
-        "sends": 2,
-        "paid": 50.0,
-        "projected_upx": 200,
-        "seeds": ""
-      }
-    ]
-  }
+  ]
 }

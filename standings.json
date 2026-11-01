@@ -1,5 +1,5 @@
 {
-  "last_sync": "15:51:22 UTC",
+  "last_sync": "15:52:24 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -168,6 +168,10 @@
       "city": "Los Angeles"
     },
     {
+      "address": "11009 GERALD AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "11024 PASO ROBLES AVE",
       "city": "Los Angeles"
     },
@@ -178,10 +182,6 @@
     {
       "address": "12412 MARVA AVE",
       "city": "Los Angeles"
-    },
-    {
-      "address": "33 ORSETT TERRACE",
-      "city": "London"
     }
   ],
   "previous_snapshot": {

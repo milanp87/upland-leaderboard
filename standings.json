@@ -1,5 +1,5 @@
 {
-  "last_sync": "07:11:28 UTC",
+  "last_sync": "07:12:30 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -32,8 +32,8 @@
       "rank": 3,
       "is_tie": false,
       "user": "johnhall144",
-      "sends": 5,
-      "paid": 125.0,
+      "sends": 6,
+      "paid": 150.0,
       "projected_upx": 500,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -123,11 +123,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
@@ -147,10 +147,6 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11300 SHOSHONE AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "750 85TH ST",
       "city": "Miami Beach"
     },
@@ -159,27 +155,31 @@
       "city": "Los Angeles"
     },
     {
+      "address": "11300 SHOSHONE AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "11562 ANDASOL AVE",
       "city": "Los Angeles"
+    },
+    {
+      "address": "33 ORSETT TERRACE",
+      "city": "London"
     },
     {
       "address": "17 ORCHARDSON ST",
       "city": "London"
     },
     {
-      "address": "10926 LEMAY ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "8247 MORSE AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11009 GERALD AVE",
+      "address": "11843 LOUISE AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "17165 CELTIC ST",
       "city": "Los Angeles"
     }
   ],

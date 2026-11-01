@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Upland Visitor Hub | Day 10 Grand Finale Results</title>
+<title>Upland Visitor Hub | Day 10 Grand Finale Standings</title>
 <style>
 :root{--bg:#0f1216;--card:#171b21;--border:#262b33;--text:#e6edf3;--sub:#8b949e;--green:#3fb950;--gold:#d29922;--pink:#f778ba;--blue:#388bfd;--purple:#a371f7;--red:#f85149}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif}
@@ -20,7 +20,7 @@ button:hover{border-color:var(--blue);color:var(--blue)}
 .card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 16px}
 .card-title{font-size:12px;color:var(--sub);text-transform:uppercase;margin-bottom:6px}
 .card-val{font-size:24px;font-weight:700}
-.teaser-banner{background:linear-gradient(135deg,rgba(163,113,247,.15) 0%,rgba(56,139,253,.15) 100%);border:1px solid rgba(163,113,247,.4);border-radius:12px;padding:18px 20px;margin-bottom:24px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
+.teaser-banner{display:none;background:linear-gradient(135deg,rgba(163,113,247,.15) 0%,rgba(56,139,253,.15) 100%);border:1px solid rgba(163,113,247,.4);border-radius:12px;padding:18px 20px;margin-bottom:24px;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
 .teaser-title{font-size:16px;font-weight:700;color:var(--text);margin-bottom:4px;display:flex;align-items:center;gap:8px}
 .teaser-desc{font-size:13px;color:var(--sub);line-height:1.4}
 .teaser-badge{background:var(--purple);color:#0f1216;font-weight:700;font-size:11px;padding:4px 10px;border-radius:999px;text-transform:uppercase}
@@ -54,8 +54,8 @@ th{background:#14171b;color:var(--sub);font-weight:600}
   </div>
 </header>
 
-<!-- Weekend Sprint Teaser Banner -->
-<div class="teaser-banner">
+<!-- Weekend Sprint Teaser Banner (Hidden until 9:00 AM PT) -->
+<div class="teaser-banner" id="weekendTeaser">
   <div>
     <div class="teaser-title">
       <span>⚡ COMING NEXT: The Weekend Sprint Circuit</span>
@@ -74,7 +74,7 @@ th{background:#14171b;color:var(--sub);font-weight:600}
     <span style="color:var(--green);font-size:12px" id="prizePoolSeeds">🌷 1 White + 🌹 3 Red Tulips</span>
   </div>
   <div class="card">
-    <div class="card-title" id="statusHeader">Cutoff Status (9:00 AM PST)</div>
+    <div class="card-title" id="statusHeader">Cutoff Countdown (9:00 AM PST)</div>
     <div class="card-val countdown-box" id="ptCountdown">--:--:--</div>
     <span style="color:var(--sub);font-size:12px" id="cutoffLabel">17:00 UTC Official Cutoff</span>
   </div>
@@ -113,7 +113,7 @@ th{background:#14171b;color:var(--sub);font-weight:600}
 
 <div class="split-grid">
   <div>
-    <h3 style="margin-top:0" id="leaderboardTitle">Day 10 Official Final Standings</h3>
+    <h3 style="margin-top:0" id="leaderboardTitle">Top 10 Live Standings (Grand Finale)</h3>
     <table>
       <thead>
         <tr>
@@ -125,7 +125,7 @@ th{background:#14171b;color:var(--sub);font-weight:600}
         </tr>
       </thead>
       <tbody id="leaderboardBody">
-        <tr><td colspan="5" style="text-align:center;color:var(--sub)">Loading final standings...</td></tr>
+        <tr><td colspan="5" style="text-align:center;color:var(--sub)">Loading standings...</td></tr>
       </tbody>
     </table>
   </div>
@@ -164,6 +164,10 @@ function updateCountdownTo9AMPT() {
     document.getElementById("leaderboardTitle").innerText = "Official Day 10 Final Standings (Results Concluded)";
     document.getElementById("statusBadge").innerText = "Season 1 Concluded";
     document.getElementById("statusBadge").style.color = "var(--green)";
+    
+    // Reveal the teaser banner once concluded
+    const teaser = document.getElementById("weekendTeaser");
+    if (teaser) teaser.style.display = "flex";
     return;
   }
 

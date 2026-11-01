@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:45:28 UTC",
+  "last_sync": "12:46:30 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -33,8 +33,8 @@
       "rank": 3,
       "is_tie": false,
       "user": "hwpo",
-      "sends": 14,
-      "paid": 350.0,
+      "sends": 15,
+      "paid": 375.0,
       "projected_upx": 500,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -148,15 +148,7 @@
       "city": "Queens"
     },
     {
-      "address": "11024 PASO ROBLES AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11300 SHOSHONE AVE",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "11562 ANDASOL AVE",
+      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     },
     {
@@ -164,12 +156,20 @@
       "city": "Los Angeles"
     },
     {
-      "address": "10926 LEMAY ST",
+      "address": "750 85TH ST",
+      "city": "Miami Beach"
+    },
+    {
+      "address": "11562 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "750 85TH ST",
-      "city": "Miami Beach"
+      "address": "11300 SHOSHONE AVE",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11024 PASO ROBLES AVE",
+      "city": "Los Angeles"
     },
     {
       "address": "17 ORCHARDSON ST",

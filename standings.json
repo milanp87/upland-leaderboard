@@ -1,5 +1,5 @@
 {
-  "last_sync": "06:49:43 UTC",
+  "last_sync": "06:50:45 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -30,30 +30,30 @@
     },
     {
       "rank": 3,
-      "is_tie": true,
-      "user": "sportdevil",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 400,
-      "seeds": "Tied (Rolled over to next day)"
+      "is_tie": false,
+      "user": "johnhall144",
+      "sends": 5,
+      "paid": 125.0,
+      "projected_upx": 500,
+      "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "is_tie": true,
       "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 400,
-      "seeds": "Tied (Rolled over to next day)"
+      "projected_upx": 350,
+      "seeds": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
       "is_tie": true,
-      "user": "johnhall144",
+      "user": "sportdevil",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 400,
-      "seeds": "Tied (Rolled over to next day)"
+      "projected_upx": 350,
+      "seeds": ""
     },
     {
       "rank": 6,

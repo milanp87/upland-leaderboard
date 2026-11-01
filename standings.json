@@ -1,5 +1,5 @@
 {
-  "last_sync": "03:22:36 UTC",
+  "last_sync": "03:23:38 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 21,
-      "paid": 525.0,
+      "sends": 22,
+      "paid": 550.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -151,7 +151,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11009 GERALD AVE",
+      "address": "17 ORCHARDSON ST",
+      "city": "London"
+    },
+    {
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     },
     {
@@ -163,7 +167,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11000 RUFFNER AVE",
+      "address": "17452 LOS ALIMOS ST",
       "city": "Los Angeles"
     },
     {
@@ -171,15 +175,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17452 LOS ALIMOS ST",
-      "city": "Los Angeles"
-    },
-    {
       "address": "8247 MORSE AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "12412 MARVA AVE",
+      "address": "10926 LEMAY ST",
       "city": "Los Angeles"
     }
   ],

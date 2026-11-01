@@ -1,5 +1,5 @@
 {
-  "last_sync": "11:43:15 UTC",
+  "last_sync": "11:44:17 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 3,
@@ -53,16 +53,7 @@
       "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 250,
-      "seeds": ""
-    },
-    {
-      "rank": 5,
-      "is_tie": true,
-      "user": "jsrl_dee",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 250,
+      "projected_upx": 238,
       "seeds": ""
     },
     {
@@ -71,11 +62,29 @@
       "user": "ciberus",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 250,
+      "projected_upx": 238,
       "seeds": ""
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "is_tie": true,
+      "user": "jsrl_dee",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 238,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
+      "is_tie": true,
+      "user": "spidertj",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 238,
+      "seeds": ""
+    },
+    {
+      "rank": 9,
       "is_tie": true,
       "user": "rammone222",
       "sends": 3,
@@ -84,18 +93,9 @@
       "seeds": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "is_tie": true,
       "user": "sportdevil",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 8,
-      "is_tie": true,
-      "user": "chanda100",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,
@@ -104,11 +104,11 @@
   ],
   "popular_props": [
     {
-      "address": "1665 STAUNTON AVE",
+      "address": "15739 PLUMMER ST",
       "city": "Los Angeles"
     },
     {
-      "address": "15739 PLUMMER ST",
+      "address": "1665 STAUNTON AVE",
       "city": "Los Angeles"
     },
     {

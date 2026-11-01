@@ -1,6 +1,7 @@
 {
-  "last_sync": "09:43:41 UTC",
+  "last_sync": "09:49:15 UTC",
   "current_day": 10,
+  "is_concluded": false,
   "bubble": 3,
   "total_prize_pool": 5250,
   "seed_rewards": {

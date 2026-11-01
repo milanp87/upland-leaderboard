@@ -1,5 +1,5 @@
 {
-  "last_sync": "02:10:06 UTC",
+  "last_sync": "02:11:08 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -31,7 +31,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "sportdevil",
+      "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 450,
@@ -40,7 +40,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "jsrl_dee",
+      "user": "sportdevil",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 450,
@@ -76,15 +76,6 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "tiamar",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 225,
-      "seeds": ""
-    },
-    {
-      "rank": 5,
-      "is_tie": true,
       "user": "azraelfuz",
       "sends": 3,
       "paid": 75.0,
@@ -94,7 +85,16 @@
     {
       "rank": 5,
       "is_tie": true,
-      "user": "spidertj",
+      "user": "chanda100",
+      "sends": 3,
+      "paid": 75.0,
+      "projected_upx": 225,
+      "seeds": ""
+    },
+    {
+      "rank": 5,
+      "is_tie": true,
+      "user": "tiamar",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 225,
@@ -119,6 +119,10 @@
       "city": "Los Angeles"
     },
     {
+      "address": "12121 BALBOA BLVD",
+      "city": "Los Angeles"
+    },
+    {
       "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
@@ -128,10 +132,6 @@
     },
     {
       "address": "6225 RESEDA BLVD",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {

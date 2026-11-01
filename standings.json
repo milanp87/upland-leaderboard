@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:12:17 UTC",
+  "last_sync": "12:13:19 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 3,
@@ -15,8 +15,8 @@
       "rank": 1,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 61,
-      "paid": 1525.0,
+      "sends": 62,
+      "paid": 1550.0,
       "projected_upx": 2000,
       "seeds": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed"
     },
@@ -62,7 +62,7 @@
       "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 217,
+      "projected_upx": 212,
       "seeds": ""
     },
     {
@@ -71,7 +71,16 @@
       "user": "ciberus",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 217,
+      "projected_upx": 212,
+      "seeds": ""
+    },
+    {
+      "rank": 6,
+      "is_tie": true,
+      "user": "hwpo",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 212,
       "seeds": ""
     },
     {
@@ -80,22 +89,13 @@
       "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 217,
+      "projected_upx": 212,
       "seeds": ""
     },
     {
-      "rank": 9,
-      "is_tie": true,
+      "rank": 10,
+      "is_tie": false,
       "user": "rammone222",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 9,
-      "is_tie": true,
-      "user": "sportdevil",
       "sends": 3,
       "paid": 75.0,
       "projected_upx": 200,
@@ -124,11 +124,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {

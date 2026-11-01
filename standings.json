@@ -1,5 +1,5 @@
 {
-  "last_sync": "15:52:24 UTC",
+  "last_sync": "15:54:38 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -116,15 +116,15 @@
       "city": "Los Angeles"
     },
     {
+      "address": "12121 BALBOA BLVD",
+      "city": "Los Angeles"
+    },
+    {
       "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
       "address": "930 S ALAMEDA ST",
-      "city": "Los Angeles"
-    },
-    {
-      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {

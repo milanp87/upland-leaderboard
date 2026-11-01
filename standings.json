@@ -1,5 +1,5 @@
 {
-  "last_sync": "01:28:42 UTC",
+  "last_sync": "01:29:44 UTC",
   "current_day": 10,
   "bubble": 2,
   "total_prize_pool": 5250,
@@ -135,12 +135,12 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11849 LOUISE AVE",
-      "city": "Los Angeles"
-    },
-    {
       "address": "13731 45TH AVE",
       "city": "Queens"
+    },
+    {
+      "address": "11849 LOUISE AVE",
+      "city": "Los Angeles"
     },
     {
       "address": "750 85TH ST",

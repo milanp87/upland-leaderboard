@@ -1,5 +1,5 @@
 {
-  "last_sync": "03:20:32 UTC",
+  "last_sync": "03:21:34 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -23,8 +23,8 @@
       "rank": 2,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 18,
-      "paid": 450.0,
+      "sends": 19,
+      "paid": 475.0,
       "projected_upx": 1000,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -159,6 +159,10 @@
       "city": "Los Angeles"
     },
     {
+      "address": "11562 ANDASOL AVE",
+      "city": "Los Angeles"
+    },
+    {
       "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     },
@@ -177,10 +181,6 @@
     {
       "address": "12412 MARVA AVE",
       "city": "Los Angeles"
-    },
-    {
-      "address": "166 20TH AVE",
-      "city": "San Francisco"
     }
   ],
   "previous_snapshot": {

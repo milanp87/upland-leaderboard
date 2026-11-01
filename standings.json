@@ -1,5 +1,5 @@
 {
-  "last_sync": "11:17:19 UTC",
+  "last_sync": "11:18:21 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 3,
@@ -124,11 +124,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
@@ -152,6 +152,10 @@
       "city": "Miami Beach"
     },
     {
+      "address": "10926 LEMAY ST",
+      "city": "Los Angeles"
+    },
+    {
       "address": "11024 PASO ROBLES AVE",
       "city": "Los Angeles"
     },
@@ -164,10 +168,6 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17239 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "20B FISHERTON ST",
       "city": "London"
     },
@@ -176,7 +176,7 @@
       "city": "London"
     },
     {
-      "address": "17165 CELTIC ST",
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_sync": "02:37:01 UTC",
+  "last_sync": "02:38:04 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -31,7 +31,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "jsrl_dee",
+      "user": "sportdevil",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 450,
@@ -40,7 +40,7 @@
     {
       "rank": 3,
       "is_tie": true,
-      "user": "sportdevil",
+      "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 450,
@@ -123,11 +123,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
-      "address": "930 S ALAMEDA ST",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:24:44 UTC",
+  "last_sync": "12:25:46 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -15,8 +15,8 @@
       "rank": 1,
       "is_tie": false,
       "user": "uplanddood",
-      "sends": 71,
-      "paid": 1775.0,
+      "sends": 72,
+      "paid": 1800.0,
       "projected_upx": 2000,
       "seeds": "\ud83c\udf37 1x White + \ud83c\udf39 2x Red Tulip Seed"
     },
@@ -33,8 +33,8 @@
       "rank": 3,
       "is_tie": false,
       "user": "hwpo",
-      "sends": 7,
-      "paid": 175.0,
+      "sends": 8,
+      "paid": 200.0,
       "projected_upx": 500,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -116,19 +116,19 @@
       "city": "Los Angeles"
     },
     {
-      "address": "18020 SAN FERNANDO MISSION BLVD",
-      "city": "Los Angeles"
-    },
-    {
       "address": "930 S ALAMEDA ST",
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "18020 SAN FERNANDO MISSION BLVD",
       "city": "Los Angeles"
     },
     {
       "address": "12121 BALBOA BLVD",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {

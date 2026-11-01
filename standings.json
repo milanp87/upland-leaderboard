@@ -1,5 +1,5 @@
 {
-  "last_sync": "03:56:46 UTC",
+  "last_sync": "03:57:48 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -151,11 +151,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17 ORCHARDSON ST",
-      "city": "London"
-    },
-    {
-      "address": "11000 RUFFNER AVE",
+      "address": "11009 GERALD AVE",
       "city": "Los Angeles"
     },
     {
@@ -167,7 +163,7 @@
       "city": "Los Angeles"
     },
     {
-      "address": "17452 LOS ALIMOS ST",
+      "address": "11000 RUFFNER AVE",
       "city": "Los Angeles"
     },
     {
@@ -180,6 +176,10 @@
     },
     {
       "address": "10926 LEMAY ST",
+      "city": "Los Angeles"
+    },
+    {
+      "address": "12412 MARVA AVE",
       "city": "Los Angeles"
     }
   ],

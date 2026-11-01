@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Upland Visitor Hub | Day 10 Grand Finale Standings</title>
+<title>Upland Visitor Hub | Competition Standings</title>
 <style>
 :root{--bg:#0f1216;--card:#171b21;--border:#262b33;--text:#e6edf3;--sub:#8b949e;--green:#3fb950;--gold:#d29922;--pink:#f778ba;--blue:#388bfd;--purple:#a371f7;--red:#f85149}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif}
@@ -20,10 +20,6 @@ button:hover{border-color:var(--blue);color:var(--blue)}
 .card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 16px}
 .card-title{font-size:12px;color:var(--sub);text-transform:uppercase;margin-bottom:6px}
 .card-val{font-size:24px;font-weight:700}
-.teaser-banner{display:none;background:linear-gradient(135deg,rgba(163,113,247,.15) 0%,rgba(56,139,253,.15) 100%);border:1px solid rgba(163,113,247,.4);border-radius:12px;padding:18px 20px;margin-bottom:24px;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
-.teaser-title{font-size:16px;font-weight:700;color:var(--text);margin-bottom:4px;display:flex;align-items:center;gap:8px}
-.teaser-desc{font-size:13px;color:var(--sub);line-height:1.4}
-.teaser-badge{background:var(--purple);color:#0f1216;font-weight:700;font-size:11px;padding:4px 10px;border-radius:999px;text-transform:uppercase}
 .podium-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;margin-bottom:24px}
 .podium{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px}
 .podium.p1{border-color:rgba(210,153,34,.5);background:linear-gradient(180deg,#1c1e19 0%,#171b21 100%)}
@@ -53,19 +49,6 @@ th{background:#14171b;color:var(--sub);font-weight:600}
     <button onclick="pollStandings()">🔄 Refresh Standings</button>
   </div>
 </header>
-
-<!-- Weekend Sprint Teaser Banner (Hidden until 9:00 AM PT) -->
-<div class="teaser-banner" id="weekendTeaser">
-  <div>
-    <div class="teaser-title">
-      <span>⚡ COMING NEXT: The Weekend Sprint Circuit</span>
-      <span class="teaser-badge">New Format</span>
-    </div>
-    <div class="teaser-desc">
-      Our 10-day daily competition has concluded! Moving forward, competitions will run exclusively as <b>High-Stakes 48-Hour Weekend Sprints</b> (Saturday & Sunday) featuring boosted UPX prize pools and rare seed drops. Keep hunting on our network hubs below all week!
-    </div>
-  </div>
-</div>
 
 <div class="stats-grid">
   <div class="card">
@@ -162,12 +145,8 @@ function updateCountdownTo9AMPT() {
     document.getElementById("statusHeader").innerText = "Competition Status";
     document.getElementById("cutoffLabel").innerText = "Official Finale Results Locked";
     document.getElementById("leaderboardTitle").innerText = "Official Day 10 Final Standings (Results Concluded)";
-    document.getElementById("statusBadge").innerText = "Season 1 Concluded";
+    document.getElementById("statusBadge").innerText = "Competition Concluded";
     document.getElementById("statusBadge").style.color = "var(--green)";
-    
-    // Reveal the teaser banner once concluded
-    const teaser = document.getElementById("weekendTeaser");
-    if (teaser) teaser.style.display = "flex";
     return;
   }
 

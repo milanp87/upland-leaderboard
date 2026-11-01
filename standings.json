@@ -1,5 +1,5 @@
 {
-  "last_sync": "07:25:58 UTC",
+  "last_sync": "07:27:00 UTC",
   "current_day": 10,
   "bubble": 3,
   "total_prize_pool": 5250,
@@ -40,10 +40,19 @@
     {
       "rank": 4,
       "is_tie": true,
+      "user": "paulm71",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 317,
+      "seeds": ""
+    },
+    {
+      "rank": 4,
+      "is_tie": true,
       "user": "jsrl_dee",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 350,
+      "projected_upx": 317,
       "seeds": ""
     },
     {
@@ -52,52 +61,43 @@
       "user": "ciberus",
       "sends": 4,
       "paid": 100.0,
-      "projected_upx": 350,
+      "projected_upx": 317,
       "seeds": ""
     },
     {
-      "rank": 6,
-      "is_tie": true,
-      "user": "paulm71",
-      "sends": 3,
-      "paid": 75.0,
-      "projected_upx": 210,
-      "seeds": ""
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "is_tie": true,
       "user": "rammone222",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 210,
+      "projected_upx": 200,
       "seeds": ""
     },
     {
-      "rank": 6,
+      "rank": 7,
       "is_tie": true,
       "user": "sportdevil",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 210,
+      "projected_upx": 200,
       "seeds": ""
     },
     {
-      "rank": 6,
+      "rank": 7,
       "is_tie": true,
       "user": "l_slack",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 210,
+      "projected_upx": 200,
       "seeds": ""
     },
     {
-      "rank": 6,
+      "rank": 7,
       "is_tie": true,
       "user": "chanda100",
       "sends": 3,
       "paid": 75.0,
-      "projected_upx": 210,
+      "projected_upx": 200,
       "seeds": ""
     }
   ],

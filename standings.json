@@ -1,5 +1,5 @@
 {
-  "last_sync": "12:54:48 UTC",
+  "last_sync": "12:55:50 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -33,8 +33,8 @@
       "rank": 3,
       "is_tie": false,
       "user": "hwpo",
-      "sends": 17,
-      "paid": 425.0,
+      "sends": 18,
+      "paid": 450.0,
       "projected_upx": 500,
       "seeds": "\ud83c\udf39 1x Red Tulip Seed"
     },
@@ -68,7 +68,16 @@
     {
       "rank": 7,
       "is_tie": true,
-      "user": "jsrl_dee",
+      "user": "madmac2016",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 7,
+      "is_tie": true,
+      "user": "hortiz1653",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 200,
@@ -87,15 +96,6 @@
       "rank": 7,
       "is_tie": true,
       "user": "azraelfuz",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 7,
-      "is_tie": true,
-      "user": "madmac2016",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 200,
@@ -124,11 +124,11 @@
       "city": "Los Angeles"
     },
     {
-      "address": "11630 ANDASOL AVE",
+      "address": "12121 BALBOA BLVD",
       "city": "Los Angeles"
     },
     {
-      "address": "12121 BALBOA BLVD",
+      "address": "11630 ANDASOL AVE",
       "city": "Los Angeles"
     },
     {
@@ -160,6 +160,10 @@
       "city": "Los Angeles"
     },
     {
+      "address": "750 85TH ST",
+      "city": "Miami Beach"
+    },
+    {
       "address": "12412 MARVA AVE",
       "city": "Los Angeles"
     },
@@ -168,19 +172,15 @@
       "city": "Los Angeles"
     },
     {
-      "address": "750 85TH ST",
-      "city": "Miami Beach"
-    },
-    {
       "address": "17 ORCHARDSON ST",
       "city": "London"
     },
     {
-      "address": "5000 NESTLE AVE",
+      "address": "2010 N COMMONWEALTH AVE",
       "city": "Los Angeles"
     },
     {
-      "address": "20301 WYANDOTTE ST",
+      "address": "5000 NESTLE AVE",
       "city": "Los Angeles"
     }
   ],

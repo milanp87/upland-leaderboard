@@ -1,5 +1,5 @@
 {
-  "last_sync": "16:55:08 UTC",
+  "last_sync": "16:56:53 UTC",
   "current_day": 10,
   "is_concluded": false,
   "bubble": 4,
@@ -77,15 +77,6 @@
     {
       "rank": 8,
       "is_tie": true,
-      "user": "azraelfuz",
-      "sends": 4,
-      "paid": 100.0,
-      "projected_upx": 200,
-      "seeds": ""
-    },
-    {
-      "rank": 8,
-      "is_tie": true,
       "user": "sportdevil",
       "sends": 4,
       "paid": 100.0,
@@ -96,6 +87,15 @@
       "rank": 8,
       "is_tie": true,
       "user": "ciberus",
+      "sends": 4,
+      "paid": 100.0,
+      "projected_upx": 200,
+      "seeds": ""
+    },
+    {
+      "rank": 8,
+      "is_tie": true,
+      "user": "azraelfuz",
       "sends": 4,
       "paid": 100.0,
       "projected_upx": 200,
